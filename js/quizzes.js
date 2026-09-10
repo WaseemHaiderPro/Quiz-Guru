@@ -354,14 +354,27 @@ const answersContainer =
     getElement("answersContainer");
 const nextButton = getElement("nextButton");
 
-    if (quizName) {
-        quizName.textContent =
-            quiz.category ||
-            quiz.title ||
-            "Quiz";
-    }
+   if (quizName) {
+    quizName.textContent =
+        quiz.category ||
+        quiz.title ||
+        "Quiz";
+}
 
-    updateQuizProgress(
+if (questionCount) {
+    questionCount.textContent =
+        "Question " +
+        (currentQuestion + 1) +
+        " of " +
+        quiz.questions.length;
+}
+
+if (questionText) {
+    questionText.textContent =
+        question.question;
+}
+
+updateQuizProgress(
     currentQuestion,
     quiz.questions.length
 );
