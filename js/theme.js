@@ -1,15 +1,11 @@
 /* =========================================================
    QUIZ GURU
-   PROFESSIONAL DARK MODE
+   PROFESSIONAL DARK MODE + ACTIVE NAVIGATION
 ========================================================= */
 
 document.addEventListener("DOMContentLoaded", function () {
 
     const button = document.getElementById("themeToggle");
-
-    if (!button) {
-        return;
-    }
 
 
     /* =====================================================
@@ -439,114 +435,309 @@ document.addEventListener("DOMContentLoaded", function () {
        BUILD PROFESSIONAL TOGGLE
     ===================================================== */
 
-    button.innerHTML = `
-        <span class="theme-toggle-track">
+    if (button) {
 
-            <span class="theme-toggle-icon theme-toggle-moon">
-                ☾
+        button.innerHTML = `
+            <span class="theme-toggle-track">
+
+                <span class="theme-toggle-icon theme-toggle-moon">
+                    ☾
+                </span>
+
+                <span class="theme-toggle-icon theme-toggle-sun">
+                    ☀
+                </span>
+
+                <span class="theme-toggle-knob"></span>
+
             </span>
-
-            <span class="theme-toggle-icon theme-toggle-sun">
-                ☀
-            </span>
-
-            <span class="theme-toggle-knob"></span>
-
-        </span>
-    `;
+        `;
 
 
-    /* =====================================================
-       UPDATE ACCESSIBILITY STATE
-    ===================================================== */
+        /* =================================================
+           UPDATE ACCESSIBILITY STATE
+        ================================================= */
 
-    function updateThemeButton() {
+        function updateThemeButton() {
 
-        const isDark =
-            document.body.classList.contains("dark-mode");
+            const isDark =
+                document.body.classList.contains("dark-mode");
 
-        if (isDark) {
 
-            button.setAttribute(
-                "aria-label",
-                "Switch to light mode"
-            );
+            if (isDark) {
 
-            button.setAttribute(
-                "title",
-                "Switch to light mode"
-            );
+                button.setAttribute(
+                    "aria-label",
+                    "Switch to light mode"
+                );
+
+                button.setAttribute(
+                    "title",
+                    "Switch to light mode"
+                );
+
+            }
+            else {
+
+                button.setAttribute(
+                    "aria-label",
+                    "Switch to dark mode"
+                );
+
+                button.setAttribute(
+                    "title",
+                    "Switch to dark mode"
+                );
+
+            }
+
+        }
+
+
+        /* =================================================
+           LOAD SAVED MODE
+        ================================================= */
+
+        const savedTheme =
+            localStorage.getItem("quizGuruTheme");
+
+
+        if (savedTheme === "dark") {
+
+            document.body.classList.add("dark-mode");
 
         }
         else {
 
-            button.setAttribute(
-                "aria-label",
-                "Switch to dark mode"
-            );
-
-            button.setAttribute(
-                "title",
-                "Switch to dark mode"
-            );
-
-        }
-
-    }
-
-
-    /* =====================================================
-       LOAD SAVED MODE
-    ===================================================== */
-
-    const savedTheme =
-        localStorage.getItem("quizGuruTheme");
-
-
-    if (savedTheme === "dark") {
-
-        document.body.classList.add("dark-mode");
-
-    }
-    else {
-
-        document.body.classList.remove("dark-mode");
-
-    }
-
-
-    updateThemeButton();
-
-
-    /* =====================================================
-       BUTTON CLICK
-    ===================================================== */
-
-    button.addEventListener("click", function () {
-
-        const darkMode =
-            document.body.classList.toggle("dark-mode");
-
-
-        if (darkMode) {
-
-            localStorage.setItem(
-                "quizGuruTheme",
-                "dark"
-            );
-
-        }
-        else {
-
-            localStorage.setItem(
-                "quizGuruTheme",
-                "light"
-            );
+            document.body.classList.remove("dark-mode");
 
         }
 
 
         updateThemeButton();
+
+
+        /* =================================================
+           BUTTON CLICK
+        ================================================= */
+
+        button.addEventListener("click", function () {
+
+            const darkMode =
+                document.body.classList.toggle("dark-mode");
+
+
+            if (darkMode) {
+
+                localStorage.setItem(
+                    "quizGuruTheme",
+                    "dark"
+                );
+
+            }
+            else {
+
+                localStorage.setItem(
+                    "quizGuruTheme",
+                    "light"
+                );
+
+            }
+
+
+            updateThemeButton();
+
+        });
+
+    }
+
+
+    /* =====================================================
+       ACTIVE NAVIGATION
+    ===================================================== */
+
+    const navLinks =
+        document.querySelectorAll(".main-nav a");
+
+
+    if (!navLinks.length) {
+        return;
+    }
+
+
+    function setActiveNav(link) {
+
+        navLinks.forEach(function (navLink) {
+
+            navLink.classList.remove("active");
+
+        });
+
+
+        if (link) {
+
+            link.classList.add("active");
+
+        }
+
+    }
+
+
+    /* =====================================================
+       DETECT CURRENT PAGE
+    ===================================================== */
+
+    const currentPath =
+        window.location.pathname.toLowerCase();
+
+    const currentHash =
+        window.location.hash.toLowerCase();
+
+
+    let activeLink = null;
+
+
+    /* HOME PAGE */
+
+    if (
+        currentPath.endsWith("/index.html") ||
+        currentPath === "/" ||
+        currentPath === ""
+    ) {
+
+        if (currentHash === "#quizzes") {
+
+            activeLink =
+                Array.from(navLinks).find(function (link) {
+
+                    return link.getAttribute("href") === "#quizzes";
+
+                });
+
+        }
+        else if (currentHash === "#categories") {
+
+            activeLink =
+                Array.from(navLinks).find(function (link) {
+
+                    return link.getAttribute("href") === "#categories";
+
+                });
+
+        }
+        else if (currentHash === "#about") {
+
+            activeLink =
+                Array.from(navLinks).find(function (link) {
+
+                    return link.getAttribute("href") === "#about";
+
+                });
+
+        }
+        else {
+
+            activeLink =
+                Array.from(navLinks).find(function (link) {
+
+                    return link.getAttribute("href") === "index.html";
+
+                });
+
+        }
+
+    }
+
+
+    /* ALL QUIZZES PAGE */
+
+    else if (
+        currentPath.endsWith("/all-quizzes.html")
+    ) {
+
+        activeLink =
+            Array.from(navLinks).find(function (link) {
+
+                const href =
+                    link.getAttribute("href") || "";
+
+                return (
+                    href.includes("all-quizzes.html") ||
+                    href === "#quizzes"
+                );
+
+            });
+
+    }
+
+
+    /* CATEGORY PAGE */
+
+    else if (
+        currentPath.endsWith("/category.html")
+    ) {
+
+        activeLink =
+            Array.from(navLinks).find(function (link) {
+
+                const href =
+                    link.getAttribute("href") || "";
+
+                return (
+                    href === "#categories" ||
+                    href.includes("category.html")
+                );
+
+            });
+
+    }
+
+
+    /* QUIZ PAGE */
+
+    else if (
+        currentPath.endsWith("/quiz.html")
+    ) {
+
+        activeLink =
+            Array.from(navLinks).find(function (link) {
+
+                const href =
+                    link.getAttribute("href") || "";
+
+                return (
+                    href === "#quizzes" ||
+                    href.includes("all-quizzes.html")
+                );
+
+            });
+
+    }
+
+
+    /* DEFAULT */
+
+    if (!activeLink) {
+
+        activeLink = navLinks[0];
+
+    }
+
+
+    setActiveNav(activeLink);
+
+
+    /* =====================================================
+       MOVE ACTIVE UNDERLINE WHEN NAV IS CLICKED
+    ===================================================== */
+
+    navLinks.forEach(function (link) {
+
+        link.addEventListener("click", function () {
+
+            setActiveNav(link);
+
+        });
 
     });
 
