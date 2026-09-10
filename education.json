@@ -1,0 +1,758 @@
+[
+  {
+    "id": "education-1",
+    "title": "Education Basics",
+    "category": "Education",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is the main purpose of education?",
+        "options": [
+          "To develop knowledge and skills",
+          "To avoid learning",
+          "To eliminate communication",
+          "To prevent curiosity"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which activity is most closely associated with learning?",
+        "options": [
+          "Studying",
+          "Ignoring information",
+          "Avoiding practice",
+          "Forgetting instructions"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does a teacher primarily do?",
+        "options": [
+          "Support and guide learning",
+          "Prevent students from asking questions",
+          "Remove all challenges",
+          "Avoid explaining concepts"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is practice important when learning a new skill?",
+        "options": [
+          "It helps strengthen understanding and ability",
+          "It makes learning impossible",
+          "It removes the need for knowledge",
+          "It prevents improvement"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is critical thinking?",
+        "options": [
+          "Carefully evaluating information and evidence",
+          "Accepting every claim without question",
+          "Avoiding difficult questions",
+          "Memorizing everything without understanding"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is asking questions useful during learning?",
+        "options": [
+          "It can help clarify and deepen understanding",
+          "It prevents students from learning",
+          "It removes the need for practice",
+          "It guarantees every answer is correct"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is knowledge?",
+        "options": [
+          "Information and understanding gained through learning or experience",
+          "A method of avoiding information",
+          "A tool used only for writing",
+          "A type of classroom furniture"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which environment generally supports effective learning?",
+        "options": [
+          "An environment that encourages attention and participation",
+          "An environment that discourages questions",
+          "An environment with no opportunities for practice",
+          "An environment where information is always ignored"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is feedback in education?",
+        "options": [
+          "Information that helps a learner understand their progress or performance",
+          "A replacement for studying",
+          "A way to prevent improvement",
+          "A method of avoiding assessment"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is understanding usually more useful than simple memorization?",
+        "options": [
+          "Understanding helps learners apply knowledge in different situations",
+          "Understanding prevents learners from remembering information",
+          "Memorization always prevents learning",
+          "Understanding eliminates the need for any practice"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "education-2",
+    "title": "Learning & Study Skills",
+    "category": "Education",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "Which study method involves reviewing information repeatedly over increasing intervals?",
+        "options": [
+          "Spaced repetition",
+          "Random guessing",
+          "Passive ignoring",
+          "Single-reading method"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can explaining a concept in your own words improve learning?",
+        "options": [
+          "It encourages deeper understanding",
+          "It removes the need to understand",
+          "It guarantees perfect memory",
+          "It prevents questions"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is an effective reason to take practice tests?",
+        "options": [
+          "They help identify knowledge gaps",
+          "They guarantee every answer will be correct",
+          "They eliminate the need to study",
+          "They prevent mistakes from being discovered"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is active recall?",
+        "options": [
+          "Trying to retrieve information from memory",
+          "Reading the same sentence repeatedly",
+          "Copying notes without thinking",
+          "Avoiding questions"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which habit generally supports effective learning?",
+        "options": [
+          "Consistent study and review",
+          "Never reviewing material",
+          "Studying only after forgetting everything",
+          "Avoiding practice"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can taking short breaks during study sessions be useful?",
+        "options": [
+          "They can help maintain attention and reduce fatigue",
+          "They guarantee that all information will be remembered",
+          "They eliminate the need to study",
+          "They make practice unnecessary"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is retrieval practice?",
+        "options": [
+          "Practicing the act of recalling information from memory",
+          "Reading information without attempting to remember it",
+          "Copying an entire textbook word for word",
+          "Avoiding difficult material"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is setting specific study goals helpful?",
+        "options": [
+          "It gives the learner a clear target to work toward",
+          "It guarantees perfect exam results",
+          "It removes the need for review",
+          "It prevents learners from changing strategies"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a useful purpose of summarizing study material?",
+        "options": [
+          "To identify and organize the main ideas",
+          "To avoid understanding the material",
+          "To replace all forms of practice",
+          "To make every detail equally important"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can studying material across several sessions be effective?",
+        "options": [
+          "It provides repeated opportunities to review and retrieve information",
+          "It guarantees that no mistakes will occur",
+          "It eliminates the need for active recall",
+          "It prevents learners from identifying weak areas"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "education-3",
+    "title": "Teaching Methods",
+    "category": "Education",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is a lesson plan?",
+        "options": [
+          "A plan describing what will be taught and how",
+          "A student's personal password",
+          "A computer hardware component",
+          "A list of school buildings"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why are learning objectives used in teaching?",
+        "options": [
+          "They describe what learners should achieve",
+          "They prevent teachers from assessing students",
+          "They replace all classroom activities",
+          "They eliminate the need for explanations"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is classroom discussion?",
+        "options": [
+          "An organized exchange of ideas among learners and teachers",
+          "A method of preventing communication",
+          "A test with no questions",
+          "A form of computer storage"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is demonstration as a teaching method?",
+        "options": [
+          "Showing how something is done",
+          "Avoiding practical examples",
+          "Removing all visual information",
+          "Asking students not to participate"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can examples help students learn?",
+        "options": [
+          "They can make abstract ideas easier to understand",
+          "They prevent students from applying concepts",
+          "They eliminate the need for explanations",
+          "They make every topic identical"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is group work?",
+        "options": [
+          "Students working together toward a learning task",
+          "Students avoiding communication",
+          "A teacher working without students",
+          "A method used only for examinations"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is formative assessment?",
+        "options": [
+          "Assessment used during learning to provide information about progress",
+          "An assessment used only after graduation",
+          "A method of removing feedback",
+          "A type of classroom furniture"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is summative assessment generally used for?",
+        "options": [
+          "Evaluating learning at the end of a period of instruction",
+          "Preventing students from receiving grades",
+          "Replacing every classroom activity",
+          "Avoiding evaluation completely"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is feedback important for students?",
+        "options": [
+          "It can show areas of strength and areas needing improvement",
+          "It guarantees that students never make mistakes",
+          "It eliminates the need for learning",
+          "It prevents students from reviewing their work"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does student-centered learning emphasize?",
+        "options": [
+          "The learner's active participation in the learning process",
+          "The complete removal of student participation",
+          "Memorization without understanding",
+          "Avoiding interaction during lessons"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "education-4",
+    "title": "Educational Psychology",
+    "category": "Education",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is motivation in learning?",
+        "options": [
+          "The factors that encourage a learner to engage in learning",
+          "A method of avoiding educational activities",
+          "A type of classroom equipment",
+          "A replacement for practice"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is intrinsic motivation?",
+        "options": [
+          "Motivation that comes from interest or enjoyment in the activity itself",
+          "Motivation based only on financial rewards",
+          "Motivation caused by physical exercise",
+          "Motivation created by avoiding all challenges"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is extrinsic motivation?",
+        "options": [
+          "Motivation influenced by external rewards or consequences",
+          "Motivation that never involves outside factors",
+          "Motivation caused only by curiosity",
+          "Motivation that prevents goal setting"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is metacognition?",
+        "options": [
+          "Awareness and regulation of one's own thinking and learning",
+          "Memorizing information without reflection",
+          "Avoiding difficult tasks",
+          "Learning without monitoring progress"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can self-assessment support learning?",
+        "options": [
+          "It helps learners evaluate their own understanding and progress",
+          "It guarantees perfect performance",
+          "It eliminates the need for feedback",
+          "It prevents learners from recognizing weaknesses"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does a growth mindset generally involve?",
+        "options": [
+          "Viewing abilities as capable of development through effort and learning",
+          "Believing abilities can never change",
+          "Avoiding challenging tasks",
+          "Rejecting feedback"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can achievable challenges be useful in learning?",
+        "options": [
+          "They can encourage effort while allowing learners to build skills",
+          "They guarantee immediate mastery",
+          "They remove the need for feedback",
+          "They prevent learners from making progress"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is self-regulated learning?",
+        "options": [
+          "Managing one's learning through planning, monitoring, and adjustment",
+          "Learning without setting any goals",
+          "Avoiding reflection on performance",
+          "Depending entirely on others for every learning decision"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can prior knowledge affect new learning?",
+        "options": [
+          "Existing knowledge can help learners connect new information to what they already know",
+          "Prior knowledge always prevents new learning",
+          "Existing knowledge makes practice unnecessary",
+          "Prior knowledge has no relationship to understanding"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is cognitive load?",
+        "options": [
+          "The amount of mental effort being used by working memory",
+          "The physical weight of a textbook",
+          "The number of students in a classroom",
+          "The amount of electricity used by a computer"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "education-5",
+    "title": "Assessment & Evaluation",
+    "category": "Education",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is an assessment?",
+        "options": [
+          "A process used to gather information about learning or performance",
+          "A method of preventing students from studying",
+          "A classroom decoration",
+          "A type of school building"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a rubric?",
+        "options": [
+          "A set of criteria used to evaluate work or performance",
+          "A type of computer processor",
+          "A student attendance machine",
+          "A method of storing textbooks"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a multiple-choice question?",
+        "options": [
+          "A question that provides several answer choices",
+          "A question with no possible answers",
+          "A written assignment without instructions",
+          "A classroom discussion with no topic"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why should assessment criteria be clear?",
+        "options": [
+          "They help learners understand how their work will be evaluated",
+          "They prevent teachers from giving feedback",
+          "They make assessment impossible",
+          "They eliminate the need for learning objectives"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does reliability in assessment generally refer to?",
+        "options": [
+          "The consistency of measurement",
+          "The difficulty of every question",
+          "The number of pages in a test",
+          "The physical size of the classroom"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does validity in assessment generally concern?",
+        "options": [
+          "Whether an assessment measures what it is intended to measure",
+          "Whether an assessment contains many questions",
+          "Whether an assessment is printed in color",
+          "Whether students finish at exactly the same time"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is peer assessment?",
+        "options": [
+          "Learners evaluating the work of other learners",
+          "A teacher grading only their own work",
+          "A computer automatically creating a lesson",
+          "A student avoiding all feedback"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can diagnostic assessment be useful?",
+        "options": [
+          "It can identify learners' existing knowledge and areas of need",
+          "It guarantees that every student receives the same grade",
+          "It replaces all teaching",
+          "It prevents teachers from adapting instruction"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is grading?",
+        "options": [
+          "Assigning a result or level to represent performance",
+          "Removing all assessment information",
+          "Teaching without objectives",
+          "Avoiding evaluation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can reviewing assessment results help teachers?",
+        "options": [
+          "It can reveal areas where students may need additional support",
+          "It guarantees every student will improve immediately",
+          "It removes the need for future assessment",
+          "It prevents teachers from changing instruction"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "education-6",
+    "title": "Classroom Management",
+    "category": "Education",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is classroom management?",
+        "options": [
+          "Organizing the classroom to support effective learning",
+          "Preventing students from participating",
+          "Removing all classroom activities",
+          "Avoiding communication with learners"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why are classroom rules useful?",
+        "options": [
+          "They establish expectations for behavior and participation",
+          "They prevent students from learning",
+          "They eliminate the need for teaching",
+          "They guarantee that no problems will ever occur"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a classroom routine?",
+        "options": [
+          "A regular procedure used during classroom activities",
+          "A type of examination",
+          "A computer application",
+          "A school building"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is consistency important in classroom management?",
+        "options": [
+          "It helps make expectations predictable for learners",
+          "It prevents teachers from setting expectations",
+          "It removes the need for communication",
+          "It guarantees identical behavior from every student"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What can effective time management help a teacher do?",
+        "options": [
+          "Use available lesson time efficiently",
+          "Eliminate all classroom interaction",
+          "Avoid preparing lessons",
+          "Prevent students from practicing skills"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can positive classroom relationships support learning?",
+        "options": [
+          "They can help create a respectful and supportive learning environment",
+          "They eliminate the need for academic work",
+          "They guarantee every learner gets the same result",
+          "They prevent students from asking questions"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is an effective way to communicate classroom expectations?",
+        "options": [
+          "State expectations clearly and consistently",
+          "Never explain expectations",
+          "Change expectations without telling students",
+          "Avoid discussing behavior"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why can classroom organization matter?",
+        "options": [
+          "It can reduce distractions and make learning activities easier to manage",
+          "It guarantees that every student will understand every topic",
+          "It replaces lesson planning",
+          "It prevents teachers from adapting instruction"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is active classroom participation?",
+        "options": [
+          "Learners engaging with activities, questions, or discussions",
+          "Learners avoiding every classroom activity",
+          "Teachers working without students",
+          "Students refusing to communicate"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is respectful communication important in a classroom?",
+        "options": [
+          "It supports constructive interaction between teachers and learners",
+          "It prevents learners from expressing ideas",
+          "It removes the need for classroom rules",
+          "It guarantees that disagreements never happen"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "education-7",
+    "title": "Education Challenge",
+    "category": "Education",
+    "difficulty": "Hard",
+    "questions": [
+      {
+        "question": "What is differentiated instruction?",
+        "options": [
+          "Adapting instruction to address different learner needs",
+          "Giving every learner exactly the same task in every situation",
+          "Avoiding assessment completely",
+          "Teaching without considering learner differences"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is inclusive education?",
+        "options": [
+          "Education designed to support participation and learning for diverse learners",
+          "Education available only to students with identical abilities",
+          "A system that prevents learner participation",
+          "A method of removing classroom support"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is scaffolding in education?",
+        "options": [
+          "Temporary support that helps learners complete tasks as they develop independence",
+          "Permanent completion of every task by the teacher",
+          "Removing all guidance from difficult tasks",
+          "Avoiding challenging activities"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is transfer of learning?",
+        "options": [
+          "Applying knowledge or skills learned in one context to another context",
+          "Forgetting previously learned information",
+          "Repeating a task without understanding it",
+          "Moving a student to another classroom"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is prior knowledge important when designing instruction?",
+        "options": [
+          "It can influence how easily learners connect new concepts with existing understanding",
+          "It always prevents learners from learning new material",
+          "It makes explanations unnecessary",
+          "It guarantees identical outcomes for all learners"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is collaborative learning?",
+        "options": [
+          "Learners working together to achieve shared learning goals",
+          "Learners completing all tasks without communication",
+          "Teachers working without learners",
+          "Students avoiding group interaction"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is curriculum?",
+        "options": [
+          "The planned content, learning experiences, and goals of an educational program",
+          "A single classroom rule",
+          "A computer's operating system",
+          "A student's personal notebook"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is educational equity?",
+        "options": [
+          "Providing learners with appropriate opportunities and support according to their needs",
+          "Giving every learner identical resources regardless of circumstances",
+          "Preventing some learners from accessing education",
+          "Using the same teaching method without considering learner needs"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is lifelong learning?",
+        "options": [
+          "Continuing to develop knowledge and skills throughout life",
+          "Studying only during childhood",
+          "Learning only in formal classrooms",
+          "Stopping education after completing one course"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why is reflection useful for educators?",
+        "options": [
+          "It can help educators evaluate and improve their teaching practice",
+          "It guarantees that every lesson will be perfect",
+          "It removes the need for student feedback",
+          "It prevents teachers from changing their methods"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

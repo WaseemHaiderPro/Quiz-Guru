@@ -1,0 +1,758 @@
+[
+  {
+    "id": "computer-it-1",
+    "title": "Computer & IT Basics",
+    "category": "Computer & IT",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What does CPU stand for?",
+        "options": [
+          "Central Processing Unit",
+          "Computer Personal Utility",
+          "Central Program User",
+          "Computer Processing Utility"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device is commonly used to display visual output from a computer?",
+        "options": [
+          "Monitor",
+          "Keyboard",
+          "Mouse",
+          "Microphone"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which component is commonly used for long-term storage of files?",
+        "options": [
+          "SSD",
+          "CPU register",
+          "Keyboard",
+          "Monitor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does RAM primarily provide?",
+        "options": [
+          "Temporary working memory",
+          "Permanent paper storage",
+          "Internet access by itself",
+          "Audio output only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device is primarily used to enter text into a computer?",
+        "options": [
+          "Keyboard",
+          "Monitor",
+          "Speaker",
+          "Projector"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device is commonly used to move the pointer on a computer screen?",
+        "options": [
+          "Mouse",
+          "Printer",
+          "Speaker",
+          "Scanner"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which component performs most of the calculations and instructions in a computer?",
+        "options": [
+          "CPU",
+          "Monitor",
+          "Keyboard",
+          "Webcam"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device produces a physical copy of a digital document?",
+        "options": [
+          "Printer",
+          "Router",
+          "Monitor",
+          "Microphone"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a keyboard primarily used for?",
+        "options": [
+          "Entering text and commands",
+          "Displaying images",
+          "Storing electricity",
+          "Connecting to satellites"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device is used to capture images or video for a computer?",
+        "options": [
+          "Webcam",
+          "Speaker",
+          "Printer",
+          "Projector"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "computer-it-2",
+    "title": "Internet & Web",
+    "category": "Computer & IT",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What does URL stand for?",
+        "options": [
+          "Uniform Resource Locator",
+          "Universal Reading Language",
+          "User Resource Link",
+          "Unified Routing Location"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which protocol is commonly used to securely access websites?",
+        "options": [
+          "HTTPS",
+          "FTP",
+          "SMTP",
+          "POP3"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a web browser used for?",
+        "options": [
+          "Accessing and displaying web pages",
+          "Physically storing hard drives",
+          "Replacing the computer's CPU",
+          "Printing without a printer"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is an IP address used to identify?",
+        "options": [
+          "A device or network interface on a network",
+          "A keyboard key",
+          "A file extension only",
+          "A monitor size"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is cloud computing?",
+        "options": [
+          "Using computing resources delivered over a network",
+          "Using computers only when offline",
+          "Storing files exclusively on paper",
+          "Removing all network connections"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does DNS primarily do?",
+        "options": [
+          "Translates domain names into IP addresses",
+          "Encrypts every computer file",
+          "Creates physical network cables",
+          "Controls monitor brightness"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which protocol is commonly used to send email between mail servers?",
+        "options": [
+          "SMTP",
+          "HTTP",
+          "FTP",
+          "SSH"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a domain name?",
+        "options": [
+          "A human-readable name used to identify an internet location",
+          "A computer's physical memory chip",
+          "A type of keyboard layout",
+          "A local printer connection"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the main purpose of a web server?",
+        "options": [
+          "To store and deliver web content",
+          "To manufacture computer processors",
+          "To convert electricity into sound",
+          "To replace a computer keyboard"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which technology is commonly used to connect devices to a local network without cables?",
+        "options": [
+          "Wi-Fi",
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "computer-it-3",
+    "title": "Computer Hardware",
+    "category": "Computer & IT",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "Which component is responsible for rendering graphics in many computers?",
+        "options": [
+          "GPU",
+          "RAM",
+          "Power supply",
+          "Keyboard"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does USB commonly allow a computer to do?",
+        "options": [
+          "Connect and communicate with peripheral devices",
+          "Increase the size of the monitor",
+          "Create an internet domain",
+          "Replace the operating system automatically"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which component supplies electrical power to a desktop computer's internal parts?",
+        "options": [
+          "Power supply unit",
+          "Graphics card",
+          "Sound card",
+          "Network switch"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which component is used to hold data temporarily while programs are running?",
+        "options": [
+          "RAM",
+          "SSD",
+          "Optical disc",
+          "Power supply"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which storage device generally has no moving mechanical parts?",
+        "options": [
+          "SSD",
+          "Hard disk drive",
+          "Floppy disk",
+          "Magnetic tape drive"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a motherboard?",
+        "options": [
+          "The main circuit board connecting major computer components",
+          "A device used only for printing",
+          "A program used to browse websites",
+          "A type of computer password"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which port is commonly used to connect a monitor using a digital video signal?",
+        "options": [
+          "HDMI",
+          "Ethernet",
+          "USB-A",
+          "Audio jack"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a peripheral device?",
+        "options": [
+          "A device connected to a computer to provide additional functions",
+          "The central processor inside a CPU",
+          "A type of operating system",
+          "A computer programming language"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device is primarily designed to scan paper documents into digital form?",
+        "options": [
+          "Scanner",
+          "Speaker",
+          "Router",
+          "Projector"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which hardware component is commonly used to produce sound from a computer?",
+        "options": [
+          "Speakers",
+          "Keyboard",
+          "Scanner",
+          "Webcam"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "computer-it-4",
+    "title": "Operating Systems & Software",
+    "category": "Computer & IT",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is the primary role of an operating system?",
+        "options": [
+          "Manage computer hardware and software resources",
+          "Create electricity for the computer",
+          "Replace all computer hardware",
+          "Provide only internet access"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of these is an operating system?",
+        "options": [
+          "Linux",
+          "Chrome",
+          "Google Search",
+          "HTML"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is application software designed to do?",
+        "options": [
+          "Perform tasks for the user",
+          "Supply electricity to the motherboard",
+          "Physically cool the processor",
+          "Connect monitor cables"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a software update?",
+        "options": [
+          "A newer version that may add features or fix problems",
+          "A replacement power cable",
+          "A physical memory chip",
+          "A new computer monitor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a file extension used for?",
+        "options": [
+          "It often indicates the type or format of a file",
+          "It determines the computer's physical size",
+          "It controls the processor's temperature",
+          "It identifies the user's password"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a graphical user interface commonly called?",
+        "options": [
+          "GUI",
+          "GPU",
+          "DNS",
+          "CPU"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does multitasking mean in an operating system?",
+        "options": [
+          "Running or managing multiple programs or tasks",
+          "Using multiple keyboards at the same time",
+          "Connecting several monitors without software",
+          "Installing the same program repeatedly"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is open-source software?",
+        "options": [
+          "Software whose source code is available under its license for inspection or modification",
+          "Software that can only run without an internet connection",
+          "Software that contains no source code",
+          "Software that is always paid and proprietary"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a software driver generally used for?",
+        "options": [
+          "Allowing an operating system to communicate with hardware",
+          "Increasing the physical size of RAM",
+          "Creating a new internet domain",
+          "Replacing a computer's power supply"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does uninstalling software generally do?",
+        "options": [
+          "Removes the software from the computer",
+          "Increases the processor's clock speed",
+          "Adds more physical RAM",
+          "Changes the computer's monitor"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "computer-it-5",
+    "title": "Programming Fundamentals",
+    "category": "Computer & IT",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is a programming language used for?",
+        "options": [
+          "Writing instructions that computers can execute",
+          "Cleaning computer hardware",
+          "Increasing screen brightness",
+          "Manufacturing processors"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a variable in programming?",
+        "options": [
+          "A named place used to store a value",
+          "A physical computer cable",
+          "A type of monitor",
+          "A network router"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a loop commonly used for?",
+        "options": [
+          "Repeating a set of instructions",
+          "Deleting an operating system",
+          "Connecting a printer physically",
+          "Increasing storage capacity"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a function in programming?",
+        "options": [
+          "A reusable block of code that performs a task",
+          "A physical component inside a computer",
+          "A type of internet connection",
+          "A file storage device"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does debugging mean?",
+        "options": [
+          "Finding and fixing errors in a program",
+          "Installing more computer memory",
+          "Connecting a computer to Wi-Fi",
+          "Creating a backup of hardware"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is an algorithm?",
+        "options": [
+          "A step-by-step procedure for solving a problem",
+          "A computer monitor standard",
+          "A physical storage device",
+          "A type of network cable"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a Boolean value commonly limited to?",
+        "options": [
+          "True or false",
+          "Only positive numbers",
+          "Only text strings",
+          "Only decimal numbers"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a syntax error?",
+        "options": [
+          "An error caused by code that violates the language's syntax rules",
+          "A broken computer screen",
+          "A failed internet connection",
+          "A damaged hard drive"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is source code?",
+        "options": [
+          "Human-readable code written in a programming language",
+          "A computer's power cable",
+          "A physical network connection",
+          "A type of processor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is an interpreter commonly used to do?",
+        "options": [
+          "Execute or process programming instructions at runtime",
+          "Increase hard-drive capacity",
+          "Connect a monitor to a keyboard",
+          "Generate electrical power"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "computer-it-6",
+    "title": "Networking Essentials",
+    "category": "Computer & IT",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What does LAN stand for?",
+        "options": [
+          "Local Area Network",
+          "Large Access Node",
+          "Linked Application Network",
+          "Local Application Number"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a router primarily used for?",
+        "options": [
+          "Forwarding network traffic between networks",
+          "Displaying computer graphics",
+          "Storing photos permanently",
+          "Printing documents"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a switch commonly used for in a local network?",
+        "options": [
+          "Connecting devices within a network",
+          "Displaying web pages",
+          "Editing photographs",
+          "Powering a laptop battery"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does bandwidth generally describe?",
+        "options": [
+          "The capacity of a network connection to transfer data",
+          "The physical size of a monitor",
+          "The number of files on a hard drive",
+          "The temperature of a processor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does Wi-Fi allow devices to do?",
+        "options": [
+          "Connect to a network wirelessly",
+          "Increase processor speed",
+          "Store unlimited files",
+          "Convert text into images"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does DHCP commonly provide to devices on a network?",
+        "options": [
+          "Network configuration such as IP addresses",
+          "Antivirus protection",
+          "Screen resolution",
+          "Processor instructions"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a MAC address?",
+        "options": [
+          "A hardware network interface identifier",
+          "A website password",
+          "A type of web browser",
+          "A programming language"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does VPN stand for?",
+        "options": [
+          "Virtual Private Network",
+          "Verified Public Node",
+          "Virtual Processing Network",
+          "Visual Private Node"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is network latency?",
+        "options": [
+          "The time delay involved in transferring data",
+          "The total storage capacity of a server",
+          "The number of connected monitors",
+          "The size of a computer's processor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which protocol is commonly used to securely transfer files over an SSH connection?",
+        "options": [
+          "SFTP",
+          "SMTP",
+          "HTTP",
+          "POP3"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "computer-it-7",
+    "title": "Cybersecurity Basics",
+    "category": "Computer & IT",
+    "difficulty": "Hard",
+    "questions": [
+      {
+        "question": "What is phishing?",
+        "options": [
+          "A deceptive attempt to obtain sensitive information",
+          "A method of increasing internet speed",
+          "A type of computer monitor",
+          "A way to compress video files"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is malware?",
+        "options": [
+          "Software designed to harm, disrupt, or gain unauthorized access",
+          "A legitimate operating system update",
+          "A type of computer display",
+          "A network cable standard"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is ransomware?",
+        "options": [
+          "Malware that typically blocks access to data or systems and demands payment",
+          "Software used to edit documents",
+          "A method for improving Wi-Fi range",
+          "A type of computer processor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is two-factor authentication designed to provide?",
+        "options": [
+          "An additional verification step beyond a password",
+          "A faster internet connection",
+          "More physical storage space",
+          "A larger computer screen"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which practice generally improves password security?",
+        "options": [
+          "Using long, unique passwords for different accounts",
+          "Using the same short password everywhere",
+          "Sharing passwords through public posts",
+          "Using a person's name as every password"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is encryption?",
+        "options": [
+          "Transforming information into a form intended to prevent unauthorized reading",
+          "Deleting every file from a computer",
+          "Increasing monitor resolution",
+          "Connecting two keyboards"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a firewall primarily designed to do?",
+        "options": [
+          "Control network traffic according to security rules",
+          "Increase the computer's physical memory",
+          "Create documents automatically",
+          "Improve monitor color accuracy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is social engineering in cybersecurity?",
+        "options": [
+          "Manipulating people to reveal information or perform unsafe actions",
+          "Designing computer hardware",
+          "Building faster processors",
+          "Creating computer graphics"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a brute-force attack?",
+        "options": [
+          "Trying many possible credentials or keys until one works",
+          "Physically damaging a computer",
+          "Sending a normal email message",
+          "Installing a legitimate software update"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Why are software security updates important?",
+        "options": [
+          "They can fix vulnerabilities that attackers might exploit",
+          "They always increase monitor size",
+          "They permanently remove all malware automatically",
+          "They eliminate the need for passwords"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "science-1",
+    "title": "Science Basics",
+    "category": "Science",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "What is the basic unit of life?",
+        "options": [
+          "Cell",
+          "Atom",
+          "Organ",
+          "Tissue"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What force pulls objects toward Earth?",
+        "options": [
+          "Gravity",
+          "Magnetism",
+          "Friction",
+          "Electricity"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What gas do humans primarily need for respiration?",
+        "options": [
+          "Oxygen",
+          "Helium",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is H2O commonly known as?",
+        "options": [
+          "Water",
+          "Oxygen",
+          "Hydrogen",
+          "Salt"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+          "Mercury",
+          "Venus",
+          "Earth",
+          "Mars"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organ is mainly responsible for breathing?",
+        "options": [
+          "Lungs",
+          "Heart",
+          "Stomach",
+          "Kidneys"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the center of an atom called?",
+        "options": [
+          "Nucleus",
+          "Electron",
+          "Molecule",
+          "Cell"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which natural satellite orbits Earth?",
+        "options": [
+          "Moon",
+          "Mars",
+          "Venus",
+          "Sun"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What do plants need from the Sun to carry out photosynthesis?",
+        "options": [
+          "Light energy",
+          "Sound energy",
+          "Magnetic energy",
+          "Nuclear energy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which state of matter has a fixed shape and fixed volume?",
+        "options": [
+          "Solid",
+          "Liquid",
+          "Gas",
+          "Plasma"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "science-2",
+    "title": "Science Challenge",
+    "category": "Science",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What process do plants use to convert light energy into chemical energy?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Digestion",
+          "Fermentation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which particle has a negative electric charge?",
+        "options": [
+          "Electron",
+          "Proton",
+          "Neutron",
+          "Nucleus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the boiling point of pure water at standard atmospheric pressure?",
+        "options": [
+          "100°C",
+          "50°C",
+          "0°C",
+          "200°C"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organ pumps blood around the human body?",
+        "options": [
+          "Heart",
+          "Liver",
+          "Lung",
+          "Kidney"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          "Au",
+          "Ag",
+          "Fe",
+          "Go"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of blood vessel carries blood away from the heart?",
+        "options": [
+          "Artery",
+          "Vein",
+          "Capillary",
+          "Alveolus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the main gas found in Earth's atmosphere?",
+        "options": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which subatomic particle has no electric charge?",
+        "options": [
+          "Neutron",
+          "Proton",
+          "Electron",
+          "Ion"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What type of energy is stored in food?",
+        "options": [
+          "Chemical energy",
+          "Sound energy",
+          "Light energy",
+          "Nuclear energy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which part of a plant absorbs most water and minerals from the soil?",
+        "options": [
+          "Roots",
+          "Flowers",
+          "Fruits",
+          "Leaves"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "science-3",
+    "title": "Life Science Explorer",
+    "category": "Science",
+    "difficulty": "Easy",
+    "questions": [
+      {
+        "question": "Which part of a cell contains most of its genetic material?",
+        "options": [
+          "Nucleus",
+          "Cell wall",
+          "Vacuole",
+          "Cytoplasm"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organ helps humans digest food by producing digestive juices?",
+        "options": [
+          "Stomach",
+          "Lung",
+          "Heart",
+          "Brain"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which blood cells help defend the body against infection?",
+        "options": [
+          "White blood cells",
+          "Red blood cells",
+          "Platelets",
+          "Plasma cells"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What do red blood cells mainly transport?",
+        "options": [
+          "Oxygen",
+          "Bile",
+          "Hormones only",
+          "Digestive enzymes"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organ controls many of the body's activities?",
+        "options": [
+          "Brain",
+          "Stomach",
+          "Pancreas",
+          "Spleen"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which structure allows plants to exchange gases with the air?",
+        "options": [
+          "Stomata",
+          "Roots",
+          "Seeds",
+          "Thorns"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the process by which a caterpillar changes into a butterfly?",
+        "options": [
+          "Metamorphosis",
+          "Germination",
+          "Pollination",
+          "Respiration"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which nutrient is especially important for building and repairing body tissues?",
+        "options": [
+          "Protein",
+          "Water",
+          "Fiber",
+          "Salt"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which part of the human skeleton protects the brain?",
+        "options": [
+          "Skull",
+          "Rib cage",
+          "Pelvis",
+          "Femur"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the process by which plants produce new plants from seeds?",
+        "options": [
+          "Germination",
+          "Digestion",
+          "Evaporation",
+          "Condensation"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "science-4",
+    "title": "Earth and Space",
+    "category": "Science",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "Which layer of Earth is the outermost solid layer?",
+        "options": [
+          "Crust",
+          "Mantle",
+          "Outer core",
+          "Inner core"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What causes day and night on Earth?",
+        "options": [
+          "Earth's rotation",
+          "Earth's revolution",
+          "The Moon's rotation",
+          "The Sun's movement around Earth"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which planet is known for its prominent ring system?",
+        "options": [
+          "Saturn",
+          "Mercury",
+          "Mars",
+          "Venus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the name of the star at the center of our solar system?",
+        "options": [
+          "Sun",
+          "Sirius",
+          "Polaris",
+          "Betelgeuse"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What instrument is commonly used to measure earthquakes?",
+        "options": [
+          "Seismograph",
+          "Thermometer",
+          "Barometer",
+          "Hygrometer"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is molten rock called when it is beneath Earth's surface?",
+        "options": [
+          "Magma",
+          "Lava",
+          "Basalt",
+          "Granite"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which planet is the largest in our solar system?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Earth",
+          "Neptune"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the process in which water vapor cools and becomes liquid water?",
+        "options": [
+          "Condensation",
+          "Evaporation",
+          "Sublimation",
+          "Freezing"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which imaginary line divides Earth into the Northern and Southern Hemispheres?",
+        "options": [
+          "Equator",
+          "Prime Meridian",
+          "Tropic of Cancer",
+          "Arctic Circle"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a large body of rock from space that reaches Earth's surface called?",
+        "options": [
+          "Meteorite",
+          "Asteroid",
+          "Comet",
+          "Nebula"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "science-5",
+    "title": "Physics and Energy",
+    "category": "Science",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is the SI unit of force?",
+        "options": [
+          "Newton",
+          "Joule",
+          "Watt",
+          "Pascal"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What form of energy is associated with moving objects?",
+        "options": [
+          "Kinetic energy",
+          "Chemical energy",
+          "Nuclear energy",
+          "Thermal energy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which device converts electrical energy into light energy?",
+        "options": [
+          "Light bulb",
+          "Battery",
+          "Generator",
+          "Motor"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What happens to the speed of an object when its acceleration is positive in the direction of motion?",
+        "options": [
+          "It increases",
+          "It always becomes zero",
+          "It decreases",
+          "It becomes negative"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of wave can travel through a vacuum?",
+        "options": [
+          "Electromagnetic wave",
+          "Sound wave",
+          "Water wave",
+          "Seismic surface wave"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the SI unit of electrical resistance?",
+        "options": [
+          "Ohm",
+          "Volt",
+          "Ampere",
+          "Coulomb"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which force opposes motion between two surfaces in contact?",
+        "options": [
+          "Friction",
+          "Gravity",
+          "Buoyancy",
+          "Magnetism"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What type of energy does a stretched spring store?",
+        "options": [
+          "Elastic potential energy",
+          "Kinetic energy",
+          "Sound energy",
+          "Electrical energy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which quantity describes how quickly work is done?",
+        "options": [
+          "Power",
+          "Force",
+          "Mass",
+          "Momentum"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What happens to the frequency of a wave when its period decreases?",
+        "options": [
+          "The frequency increases",
+          "The frequency decreases",
+          "The frequency becomes zero",
+          "The frequency stays unrelated to the period"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "science-6",
+    "title": "Chemistry Essentials",
+    "category": "Science",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "What is the smallest unit of an element that retains the element's chemical properties?",
+        "options": [
+          "Atom",
+          "Molecule",
+          "Compound",
+          "Mixture"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the chemical symbol for sodium?",
+        "options": [
+          "Na",
+          "So",
+          "S",
+          "Sd"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which gas is produced when many acids react with certain metals?",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Helium"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A substance with a pH below 7 is generally classified as what?",
+        "options": [
+          "Acidic",
+          "Basic",
+          "Neutral",
+          "Metallic"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "options": [
+          "CO₂",
+          "CO",
+          "C₂O",
+          "CaO"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which element has the chemical symbol Fe?",
+        "options": [
+          "Iron",
+          "Fluorine",
+          "Francium",
+          "Fermium"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What type of substance is formed when two or more elements chemically combine?",
+        "options": [
+          "Compound",
+          "Mixture",
+          "Solution",
+          "Suspension"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which particle determines the atomic number of an element?",
+        "options": [
+          "Proton",
+          "Neutron",
+          "Electron",
+          "Molecule"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the process of a liquid changing into a gas at its surface called?",
+        "options": [
+          "Evaporation",
+          "Condensation",
+          "Freezing",
+          "Deposition"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which gas is commonly used to inflate balloons because it is lighter than air and nonflammable?",
+        "options": [
+          "Helium",
+          "Oxygen",
+          "Hydrogen",
+          "Carbon dioxide"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "science-7",
+    "title": "Science Challenge Plus",
+    "category": "Science",
+    "difficulty": "Hard",
+    "questions": [
+      {
+        "question": "Which principle states that energy cannot be created or destroyed, only transformed?",
+        "options": [
+          "Law of conservation of energy",
+          "Law of conservation of mass",
+          "Newton's first law",
+          "Ohm's law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organelle is primarily responsible for producing ATP in eukaryotic cells?",
+        "options": [
+          "Mitochondrion",
+          "Ribosome",
+          "Golgi apparatus",
+          "Lysosome"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the approximate speed of light in a vacuum?",
+        "options": [
+          "3.0 × 10⁸ m/s",
+          "3.0 × 10⁶ m/s",
+          "3.0 × 10⁴ m/s",
+          "3.0 × 10² m/s"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which process directly produces two genetically similar daughter cells in most somatic cell divisions?",
+        "options": [
+          "Mitosis",
+          "Meiosis",
+          "Fertilization",
+          "Mutation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the main function of enzymes in biological reactions?",
+        "options": [
+          "They lower activation energy",
+          "They increase the reaction temperature",
+          "They become permanent products",
+          "They stop all chemical reactions"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which law relates pressure and volume for a fixed amount of gas at constant temperature?",
+        "options": [
+          "Boyle's law",
+          "Ohm's law",
+          "Hooke's law",
+          "Kepler's law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of chemical bond involves the sharing of electron pairs between atoms?",
+        "options": [
+          "Covalent bond",
+          "Ionic bond",
+          "Metallic bond",
+          "Hydrogen bond"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What phenomenon causes a star's observed light to shift toward longer wavelengths when it is moving away from an observer?",
+        "options": [
+          "Redshift",
+          "Blueshift",
+          "Refraction",
+          "Diffraction"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which molecule carries genetic information in most living organisms?",
+        "options": [
+          "DNA",
+          "ATP",
+          "Glucose",
+          "Hemoglobin"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the term for the minimum energy required for a chemical reaction to occur?",
+        "options": [
+          "Activation energy",
+          "Thermal equilibrium",
+          "Potential energy",
+          "Ionization energy"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

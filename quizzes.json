@@ -1,0 +1,2351 @@
+{
+  "quizzes": [
+    {
+      "id": "general-knowledge-1",
+      "title": "General Knowledge Quiz 1",
+      "category": "General Knowledge",
+      "description": "Test your knowledge with 10 interesting general knowledge questions.",
+      "questions": [
+        {
+          "question": "Which is the largest planet in our solar system?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Venus"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the capital city of France?",
+          "options": [
+            "Madrid",
+            "Paris",
+            "Rome",
+            "Berlin"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "How many continents are there in the world?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which ocean is the largest?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Mercury"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Cu"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which animal is known as the King of the Jungle?",
+          "options": [
+            "Tiger",
+            "Elephant",
+            "Lion",
+            "Leopard"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "How many days are there in a leap year?",
+          "options": [
+            "365",
+            "366",
+            "364",
+            "367"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which gas do humans need to breathe?",
+          "options": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the fastest land animal?",
+          "options": [
+            "Lion",
+            "Cheetah",
+            "Horse",
+            "Leopard"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+
+    {
+      "id": "mind-test-1",
+      "title": "Mind Test Quiz",
+      "category": "Mind & Brain",
+      "description": "Challenge your brain with 10 quick thinking questions.",
+      "questions": [
+        {
+          "question": "What number comes next: 2, 4, 6, 8, ?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "If you have 3 apples and take away 2, how many apples do you have?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "5"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What number comes next: 5, 10, 15, 20, ?",
+          "options": [
+            "22",
+            "24",
+            "25",
+            "30"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which word does not belong?",
+          "options": [
+            "Apple",
+            "Mango",
+            "Banana",
+            "Carrot"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "If a clock shows 3:00, where is the minute hand?",
+          "options": [
+            "At 3",
+            "At 6",
+            "At 9",
+            "At 12"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What number is missing: 10, 20, 30, ?, 50?",
+          "options": [
+            "35",
+            "40",
+            "45",
+            "60"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which shape has three sides?",
+          "options": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Rectangle"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If today is Monday, what day will it be after 3 days?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number comes next: 1, 3, 5, 7, ?",
+          "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which one is different from the others?",
+          "options": [
+            "12",
+            "18",
+            "24",
+            "25"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+
+    {
+      "id": "quick-5-1",
+      "title": "Quick 5 Quiz",
+      "category": "Quick Quiz",
+      "description": "Only five questions. How quickly can you get them right?",
+      "questions": [
+        {
+          "question": "Which planet is closest to the Sun?",
+          "options": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "How many sides does a hexagon have?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which is the largest mammal on Earth?",
+          "options": [
+            "Elephant",
+            "Giraffe",
+            "Blue Whale",
+            "Hippopotamus"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is 15 × 4?",
+          "options": [
+            "45",
+            "50",
+            "60",
+            "75"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which country is famous for the Great Wall?",
+          "options": [
+            "Japan",
+            "India",
+            "China",
+            "Egypt"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-2",
+      "title": "Logical Reasoning Quiz",
+      "category": "Mind & Brain",
+      "description": "Test your logical thinking with 10 reasoning questions.",
+      "questions": [
+        {
+          "question": "What number comes next: 3, 6, 9, 12, ?",
+          "options": [
+            "14",
+            "15",
+            "16",
+            "18"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "If all roses are flowers and some flowers are red, which statement must be true?",
+          "options": [
+            "All roses are red",
+            "Some roses are red",
+            "All roses are flowers",
+            "No roses are red"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which number does not belong in the group?",
+          "options": [
+            "4",
+            "8",
+            "12",
+            "15"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "A boy is facing north. He turns right, then right again. Which direction is he facing?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What comes next: A, C, E, G, ?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "If 5 cats catch 5 mice in 5 minutes, how long would 1 cat take to catch 1 mouse?",
+          "options": [
+            "1 minute",
+            "5 minutes",
+            "10 minutes",
+            "25 minutes"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which word is the odd one out?",
+          "options": [
+            "Chair",
+            "Table",
+            "Sofa",
+            "Apple"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What number comes next: 1, 4, 9, 16, ?",
+          "options": [
+            "20",
+            "24",
+            "25",
+            "36"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If today is Wednesday, what day will it be after 10 days?",
+          "options": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which shape has the greatest number of sides?",
+          "options": [
+            "Triangle",
+            "Square",
+            "Pentagon",
+            "Hexagon"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-3",
+      "title": "Number Patterns Quiz",
+      "category": "Mind & Brain",
+      "description": "Find the hidden patterns and test your number skills.",
+      "questions": [
+        {
+          "question": "What number comes next: 2, 5, 8, 11, ?",
+          "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What number comes next: 10, 20, 40, 80, ?",
+          "options": [
+            "100",
+            "120",
+            "140",
+            "160"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What number comes next: 1, 2, 4, 8, ?",
+          "options": [
+            "10",
+            "12",
+            "16",
+            "18"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number comes next: 100, 90, 80, 70, ?",
+          "options": [
+            "50",
+            "55",
+            "60",
+            "65"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number is missing: 3, 6, 12, 24, ?",
+          "options": [
+            "36",
+            "42",
+            "48",
+            "50"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number comes next: 5, 10, 20, 40, ?",
+          "options": [
+            "60",
+            "70",
+            "80",
+            "90"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number comes next: 21, 18, 15, 12, ?",
+          "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What number comes next: 2, 6, 12, 20, ?",
+          "options": [
+            "28",
+            "30",
+            "32",
+            "36"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What number comes next: 50, 45, 40, 35, ?",
+          "options": [
+            "25",
+            "28",
+            "30",
+            "32"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number comes next: 1, 3, 6, 10, ?",
+          "options": [
+            "12",
+            "14",
+            "15",
+            "16"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-4",
+      "title": "Word Puzzles Quiz",
+      "category": "Mind & Brain",
+      "description": "Challenge yourself with words, meanings and patterns.",
+      "questions": [
+        {
+          "question": "Which word is the opposite of 'ancient'?",
+          "options": [
+            "Old",
+            "Modern",
+            "Historic",
+            "Past"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which word does not belong?",
+          "options": [
+            "Run",
+            "Walk",
+            "Jump",
+            "Blue"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which word can be made by rearranging the letters in 'LISTEN'?",
+          "options": [
+            "Silent",
+            "Stone",
+            "Lines",
+            "Little"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which word is closest in meaning to 'rapid'?",
+          "options": [
+            "Slow",
+            "Fast",
+            "Quiet",
+            "Weak"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which word is spelled differently from the others?",
+          "options": [
+            "Cat",
+            "Bat",
+            "Hat",
+            "Car"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is the opposite of 'expand'?",
+          "options": [
+            "Increase",
+            "Grow",
+            "Contract",
+            "Develop"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which word is related to both 'rain' and 'bow'?",
+          "options": [
+            "Rainbow",
+            "Snow",
+            "Cloud",
+            "Storm"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which word does not belong?",
+          "options": [
+            "Apple",
+            "Orange",
+            "Grape",
+            "Potato"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which word means the same as 'begin'?",
+          "options": [
+            "End",
+            "Start",
+            "Stop",
+            "Finish"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which pair of words has the closest relationship?",
+          "options": [
+            "Hot - Cold",
+            "Book - Read",
+            "Day - Night",
+            "Big - Small"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-5",
+      "title": "Riddles Challenge",
+      "category": "Mind & Brain",
+      "description": "Can you solve these clever and entertaining riddles?",
+      "questions": [
+        {
+          "question": "What has hands but cannot clap?",
+          "options": [
+            "A clock",
+            "A tree",
+            "A chair",
+            "A book"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What has a face and two hands but no arms or legs?",
+          "options": [
+            "A clock",
+            "A mirror",
+            "A doll",
+            "A statue"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What gets wetter the more it dries?",
+          "options": [
+            "A sponge",
+            "A towel",
+            "Paper",
+            "Sand"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What has many keys but cannot open a single door?",
+          "options": [
+            "A piano",
+            "A lock",
+            "A map",
+            "A house"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What has a neck but no head?",
+          "options": [
+            "A shirt",
+            "A bottle",
+            "A chair",
+            "A shoe"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What can travel around the world while staying in one corner?",
+          "options": [
+            "A stamp",
+            "A plane",
+            "A cloud",
+            "A bird"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What has one eye but cannot see?",
+          "options": [
+            "A needle",
+            "A camera",
+            "A potato",
+            "A button"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What has teeth but cannot bite?",
+          "options": [
+            "A comb",
+            "A dog",
+            "A shark",
+            "A fork"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What belongs to you but other people use it more than you do?",
+          "options": [
+            "Your phone",
+            "Your name",
+            "Your shoes",
+            "Your house"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What has words but never speaks?",
+          "options": [
+            "A book",
+            "A person",
+            "A radio",
+            "A singer"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-6",
+      "title": "Critical Thinking Quiz",
+      "category": "Mind & Brain",
+      "description": "Think carefully and choose the answer that makes the most sense.",
+      "questions": [
+        {
+          "question": "If you pass the person in second place in a race, what position are you in?",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A farmer has 10 sheep. All but 3 run away. How many sheep remain?",
+          "options": [
+            "3",
+            "7",
+            "10",
+            "0"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which is heavier?",
+          "options": [
+            "1 kg of feathers",
+            "1 kg of steel",
+            "They weigh the same",
+            "It depends on size"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If there are 3 apples and you take 2, how many apples do you have?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "5"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A room has four corners. One cat sits in each corner. How many cats are in the room?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which month has 28 days?",
+          "options": [
+            "February only",
+            "January only",
+            "Every month",
+            "None"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If a plane crashes exactly on the border between two countries, where should the survivors be buried?",
+          "options": [
+            "Country A",
+            "Country B",
+            "On the border",
+            "Survivors are not buried"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "You have one match and enter a dark room containing a candle, a lamp and a fireplace. What do you light first?",
+          "options": [
+            "The candle",
+            "The lamp",
+            "The fireplace",
+            "The match"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "If a rooster lays an egg on a roof, which way will the egg roll?",
+          "options": [
+            "Left",
+            "Right",
+            "Down the roof",
+            "Roosters do not lay eggs"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "A doctor gives you three pills and tells you to take one every 30 minutes. How long will the pills last?",
+          "options": [
+            "30 minutes",
+            "1 hour",
+            "1.5 hours",
+            "2 hours"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-7",
+      "title": "Memory Challenge",
+      "category": "Mind & Brain",
+      "description": "Test your memory and attention with these quick challenges.",
+      "questions": [
+        {
+          "question": "Which number appeared first in this sequence: 7, 3, 9, 2?",
+          "options": [
+            "2",
+            "3",
+            "7",
+            "9"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If you remember the sequence 4, 8, 2, 6, which number was second?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which word is different from the others?",
+          "options": [
+            "Apple",
+            "Apple",
+            "Orange",
+            "Apple"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "In the sequence Monday, Tuesday, Wednesday, which day comes second?",
+          "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which number comes first in this sequence: 12, 5, 8, 3?",
+          "options": [
+            "3",
+            "5",
+            "8",
+            "12"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which animal is different from the others?",
+          "options": [
+            "Dog",
+            "Cat",
+            "Horse",
+            "Car"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "If the sequence is Red, Blue, Green, Yellow, what comes third?",
+          "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which number is largest: 4, 9, 6, 2?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "9"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which word comes second alphabetically?",
+          "options": [
+            "Apple",
+            "Banana",
+            "Cherry",
+            "Date"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which item does not belong in the group?",
+          "options": [
+            "Pen",
+            "Pencil",
+            "Eraser",
+            "Banana"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-8",
+      "title": "Brain Teasers Quiz",
+      "category": "Mind & Brain",
+      "description": "Put your brain to work with these tricky questions.",
+      "questions": [
+        {
+          "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+          "options": [
+            "The letter M",
+            "The letter A",
+            "The letter T",
+            "The letter N"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What can you catch but not throw?",
+          "options": [
+            "A ball",
+            "A cold",
+            "A stone",
+            "A stick"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What has cities, roads and rivers but no people, cars or water?",
+          "options": [
+            "A map",
+            "A book",
+            "A painting",
+            "A globe"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What goes up but never comes down?",
+          "options": [
+            "Rain",
+            "Smoke",
+            "Your age",
+            "A balloon"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What has a thumb and four fingers but is not alive?",
+          "options": [
+            "A glove",
+            "A hand",
+            "A shoe",
+            "A sock"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What has a bed but never sleeps?",
+          "options": [
+            "A river",
+            "A person",
+            "A dog",
+            "A house"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is full of holes but can still hold water?",
+          "options": [
+            "A bucket",
+            "A sponge",
+            "A cup",
+            "A bottle"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What has branches but no fruit, trunk or leaves?",
+          "options": [
+            "A tree",
+            "A bank",
+            "A forest",
+            "A plant"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is always in front of you but can never be seen?",
+          "options": [
+            "The past",
+            "The future",
+            "The ground",
+            "The sky"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What can run but never walks?",
+          "options": [
+            "A river",
+            "A dog",
+            "A person",
+            "A horse"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-9",
+      "title": "Analytical Thinking Quiz",
+      "category": "Mind & Brain",
+      "description": "Use careful reasoning and analysis to solve these challenges.",
+      "questions": [
+        {
+          "question": "If 2 pencils cost $4, how much do 5 pencils cost at the same price?",
+          "options": [
+            "$6",
+            "$8",
+            "$10",
+            "$12"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "A train travels 60 kilometers in one hour. How far will it travel in 3 hours?",
+          "options": [
+            "120 km",
+            "150 km",
+            "180 km",
+            "240 km"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If 4 workers complete a job in 6 days at the same rate, which is true?",
+          "options": [
+            "More workers would generally reduce the time needed",
+            "More workers would increase the time",
+            "Workers have no effect on time",
+            "The job becomes impossible"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is 25% of 100?",
+          "options": [
+            "10",
+            "20",
+            "25",
+            "50"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "A box contains 3 red balls and 2 blue balls. How many balls are there altogether?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If a number is greater than 10 but less than 12, which number is it?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "A book has 100 pages. If you read 20 pages each day, how many days will it take?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "10"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "If 3 × 4 = 12, what is 4 × 5?",
+          "options": [
+            "15",
+            "18",
+            "20",
+            "25"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "A basket has 12 oranges. If 4 are removed, how many remain?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "If today is Friday, what day will it be after 7 days?",
+          "options": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+
+    {
+      "id": "mind-brain-10",
+      "title": "Mixed Mind Challenge",
+      "category": "Mind & Brain",
+      "description": "A final mix of logic, patterns, riddles and brain teasers.",
+      "questions": [
+        {
+          "question": "What number comes next: 4, 8, 12, 16, ?",
+          "options": [
+            "18",
+            "20",
+            "22",
+            "24"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which word does not belong?",
+          "options": [
+            "Rose",
+            "Tulip",
+            "Oak",
+            "Lily"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What has keys but cannot open doors?",
+          "options": [
+            "A piano",
+            "A car",
+            "A house",
+            "A lock"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "If you have 10 candies and give away 4, how many remain?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What number comes next: 1, 4, 7, 10, ?",
+          "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which direction is opposite to east?",
+          "options": [
+            "North",
+            "South",
+            "West",
+            "Northeast"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What has a face but no eyes, nose or mouth?",
+          "options": [
+            "A clock",
+            "A person",
+            "A cat",
+            "A statue"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which number is different from the others?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "9"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "If all birds have wings and a robin is a bird, what must be true?",
+          "options": [
+            "A robin has wings",
+            "A robin cannot fly",
+            "All birds are robins",
+            "Robins are mammals"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What gets bigger the more you take away from it?",
+          "options": [
+            "A hole",
+            "A box",
+            "A tree",
+            "A mountain"
+          ],
+          "correctAnswer": 0
+        }
+      ]     
+    },
+
+    {
+      "id": "education-1",
+      "title": "Basic Education Quiz",
+      "category": "Education",
+      "description": "Test your knowledge of basic educational concepts.",
+      "questions": [
+        {
+          "question": "What is the main purpose of education?",
+          "options": [
+            "To gain knowledge and develop skills",
+            "To avoid responsibilities",
+            "To memorize everything",
+            "To spend free time"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject primarily deals with numbers and calculations?",
+          "options": [
+            "History",
+            "Mathematics",
+            "Geography",
+            "Literature"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which skill is most important for understanding written information?",
+          "options": [
+            "Reading",
+            "Running",
+            "Drawing",
+            "Singing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a teacher primarily responsible for?",
+          "options": [
+            "Teaching and guiding students",
+            "Selling products",
+            "Building roads",
+            "Writing computer programs"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which of these is a natural science?",
+          "options": [
+            "Physics",
+            "Music",
+            "Art",
+            "Drama"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is studying?",
+          "options": [
+            "A process of learning and understanding information",
+            "A type of exercise",
+            "A form of transportation",
+            "A type of food"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which tool is commonly used to write on paper?",
+          "options": [
+            "Pencil",
+            "Keyboard",
+            "Mouse",
+            "Monitor"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does a dictionary mainly provide?",
+          "options": [
+            "Word meanings and information",
+            "Weather forecasts",
+            "Maps",
+            "Computer games"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which activity can improve reading skills?",
+          "options": [
+            "Reading regularly",
+            "Ignoring books",
+            "Avoiding new words",
+            "Never practicing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Why is practice important when learning a new skill?",
+          "options": [
+            "It helps improve ability and understanding",
+            "It makes learning impossible",
+            "It removes the need for learning",
+            "It prevents improvement"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "education-2",
+      "title": "School Subjects Quiz",
+      "category": "Education",
+      "description": "Test your knowledge of common school subjects.",
+      "questions": [
+        {
+          "question": "Which subject studies past events?",
+          "options": [
+            "History",
+            "Biology",
+            "Mathematics",
+            "Chemistry"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject studies Earth's places and environments?",
+          "options": [
+            "Geography",
+            "Music",
+            "Physics",
+            "Grammar"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject studies living organisms?",
+          "options": [
+            "Biology",
+            "History",
+            "Art",
+            "Economics"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject commonly involves equations?",
+          "options": [
+            "Mathematics",
+            "Art",
+            "History",
+            "Music"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject studies matter and chemical reactions?",
+          "options": [
+            "Chemistry",
+            "Geography",
+            "Literature",
+            "Physical Education"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject studies forces, motion and energy?",
+          "options": [
+            "Physics",
+            "History",
+            "Language",
+            "Art"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject focuses on language and written works?",
+          "options": [
+            "Literature",
+            "Physics",
+            "Chemistry",
+            "Geography"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject commonly teaches drawing and visual creativity?",
+          "options": [
+            "Art",
+            "Mathematics",
+            "Biology",
+            "History"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject is associated with physical exercise?",
+          "options": [
+            "Physical Education",
+            "Chemistry",
+            "Literature",
+            "Geography"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which subject often involves maps and countries?",
+          "options": [
+            "Geography",
+            "Music",
+            "Physics",
+            "Biology"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "education-3",
+      "title": "Learning Skills Quiz",
+      "category": "Education",
+      "description": "Test your knowledge of effective learning and study habits.",
+      "questions": [
+        {
+          "question": "Which habit can help you remember information?",
+          "options": [
+            "Regular review",
+            "Never studying",
+            "Ignoring notes",
+            "Avoiding practice"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is note-taking?",
+          "options": [
+            "Writing down important information",
+            "Playing a game",
+            "Watching television",
+            "Sleeping"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Why is asking questions useful while learning?",
+          "options": [
+            "It can improve understanding",
+            "It prevents learning",
+            "It wastes all study time",
+            "It removes the need for practice"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is concentration?",
+          "options": [
+            "Focusing attention on something",
+            "Forgetting information",
+            "Sleeping during class",
+            "Avoiding a task"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which environment is generally best for focused study?",
+          "options": [
+            "A quiet and organized place",
+            "A very noisy place",
+            "A crowded road",
+            "A television studio"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What can breaking a large task into smaller tasks do?",
+          "options": [
+            "Make the task easier to manage",
+            "Make learning impossible",
+            "Remove all goals",
+            "Prevent organization"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a study schedule?",
+          "options": [
+            "A plan for when and what to study",
+            "A type of textbook",
+            "A computer game",
+            "A school building"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Why is practice useful?",
+          "options": [
+            "It helps develop and reinforce skills",
+            "It guarantees no mistakes ever",
+            "It prevents understanding",
+            "It replaces all learning"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which action can help before an important exam?",
+          "options": [
+            "Reviewing the material",
+            "Ignoring the subject",
+            "Avoiding sleep",
+            "Never practicing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does critical thinking involve?",
+          "options": [
+            "Carefully evaluating information",
+            "Accepting everything without thought",
+            "Avoiding questions",
+            "Memorizing without understanding"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "education-4",
+      "title": "General Academic Knowledge Quiz",
+      "category": "Education",
+      "description": "Challenge yourself with general academic knowledge.",
+      "questions": [
+        {
+          "question": "What is the process of obtaining knowledge called?",
+          "options": [
+            "Learning",
+            "Sleeping",
+            "Traveling",
+            "Cooking"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which device can be used to access digital learning materials?",
+          "options": [
+            "Computer",
+            "Chair",
+            "Pencil case",
+            "Desk"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is an encyclopedia?",
+          "options": [
+            "A source of information about many subjects",
+            "A musical instrument",
+            "A sports field",
+            "A type of calculator"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is an examination used for?",
+          "options": [
+            "To assess knowledge or skills",
+            "To decorate classrooms",
+            "To replace teachers",
+            "To provide transportation"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a classroom?",
+          "options": [
+            "A place where students learn",
+            "A type of vehicle",
+            "A sports competition",
+            "A laboratory chemical"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does a textbook usually contain?",
+          "options": [
+            "Educational information",
+            "Only advertisements",
+            "Only music",
+            "Only photographs"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is research?",
+          "options": [
+            "Systematic investigation to gain information",
+            "Random guessing",
+            "Playing games",
+            "Avoiding evidence"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which is an example of a primary source?",
+          "options": [
+            "An original historical document",
+            "A fictional story about history",
+            "A modern summary",
+            "A general encyclopedia article"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does a library mainly provide?",
+          "options": [
+            "Access to books and information",
+            "Only sports equipment",
+            "Only food",
+            "Only clothing"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is knowledge?",
+          "options": [
+            "Information and understanding gained through learning or experience",
+            "A type of machine",
+            "A physical exercise",
+            "A musical note"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "computer-it-1",
+      "title": "Computer Basics Quiz",
+      "category": "Computer & IT",
+      "description": "Test your knowledge of basic computer concepts.",
+      "questions": [
+        {
+          "question": "What does CPU stand for?",
+          "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Program Utility",
+            "Computer Processing Utility"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which device is commonly used to type text?",
+          "options": [
+            "Keyboard",
+            "Monitor",
+            "Speaker",
+            "Printer"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which device displays visual information from a computer?",
+          "options": [
+            "Monitor",
+            "Keyboard",
+            "Mouse",
+            "Microphone"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which device is commonly used to move the pointer on a computer?",
+          "options": [
+            "Mouse",
+            "Printer",
+            "Speaker",
+            "Scanner"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is software?",
+          "options": [
+            "Programs and instructions used by a computer",
+            "A physical keyboard",
+            "A computer desk",
+            "An electrical cable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is hardware?",
+          "options": [
+            "Physical components of a computer",
+            "Only computer programs",
+            "Internet websites",
+            "Digital passwords"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which device produces a paper copy of a document?",
+          "options": [
+            "Printer",
+            "Monitor",
+            "Mouse",
+            "Router"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is an operating system?",
+          "options": [
+            "Software that manages computer resources",
+            "A type of keyboard",
+            "A computer cable",
+            "A printed document"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which of these is a common operating system?",
+          "options": [
+            "Windows",
+            "Keyboard",
+            "HDMI",
+            "USB"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a file?",
+          "options": [
+            "A stored collection of digital information",
+            "A computer screen",
+            "A mouse button",
+            "A power cable"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "computer-it-2",
+      "title": "Internet & Web Quiz",
+      "category": "Computer & IT",
+      "description": "Test your knowledge of the internet and web technologies.",
+      "questions": [
+        {
+          "question": "What is the Internet?",
+          "options": [
+            "A global network of connected computers and devices",
+            "A single computer",
+            "A printer",
+            "A keyboard"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does URL stand for?",
+          "options": [
+            "Uniform Resource Locator",
+            "Universal Reading Link",
+            "User Resource Language",
+            "Uniform Router Line"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which application is used to visit websites?",
+          "options": [
+            "Web browser",
+            "Calculator",
+            "File manager",
+            "Media player"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which is a web browser?",
+          "options": [
+            "Chrome",
+            "Windows",
+            "Android",
+            "Linux"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does HTTP relate to?",
+          "options": [
+            "Communication between web browsers and web servers",
+            "Computer keyboards",
+            "Audio speakers",
+            "Printing documents"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a website?",
+          "options": [
+            "A collection of related web pages",
+            "A computer mouse",
+            "A physical hard drive",
+            "A keyboard shortcut"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a search engine used for?",
+          "options": [
+            "Finding information on the web",
+            "Printing photographs",
+            "Editing hardware",
+            "Charging a computer"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is an email used for?",
+          "options": [
+            "Sending and receiving electronic messages",
+            "Measuring temperature",
+            "Printing books",
+            "Operating a monitor"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a hyperlink?",
+          "options": [
+            "A clickable link to another location or resource",
+            "A computer battery",
+            "A type of monitor",
+            "A printer cartridge"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does downloading mean?",
+          "options": [
+            "Receiving data from a remote system to your device",
+            "Deleting every file",
+            "Turning off a computer",
+            "Printing a document"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "computer-it-3",
+      "title": "Programming & Technology Quiz",
+      "category": "Computer & IT",
+      "description": "Explore basic programming and modern technology concepts.",
+      "questions": [
+        {
+          "question": "What is a programming language?",
+          "options": [
+            "A language used to write instructions for computers",
+            "A type of computer monitor",
+            "A physical cable",
+            "A printer setting"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which of these is a programming language?",
+          "options": [
+            "Python",
+            "Windows",
+            "Chrome",
+            "USB"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is an algorithm?",
+          "options": [
+            "A step-by-step procedure for solving a problem",
+            "A computer screen",
+            "A physical processor",
+            "A type of cable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a variable in programming?",
+          "options": [
+            "A named place used to store a value",
+            "A computer monitor",
+            "A keyboard key",
+            "A network cable"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does HTML primarily describe?",
+          "options": [
+            "The structure of web pages",
+            "Computer power usage",
+            "Printer hardware",
+            "Audio volume"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does CSS primarily control on a web page?",
+          "options": [
+            "Presentation and styling",
+            "Computer electricity",
+            "Hard-drive speed",
+            "Keyboard hardware"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a database?",
+          "options": [
+            "An organized collection of data",
+            "A computer mouse",
+            "A web browser",
+            "A power supply"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is artificial intelligence?",
+          "options": [
+            "Technology designed to perform tasks associated with intelligent behavior",
+            "A type of keyboard",
+            "A physical computer cable",
+            "A printer cartridge"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is debugging?",
+          "options": [
+            "Finding and fixing problems in a program",
+            "Installing a monitor",
+            "Printing source code",
+            "Turning off the Internet"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is source code?",
+          "options": [
+            "Human-readable instructions written in a programming language",
+            "A computer power cable",
+            "A printer driver only",
+            "A monitor screen"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "science-1",
+      "title": "Basic Science Quiz",
+      "category": "Science",
+      "description": "Test your knowledge of fundamental science concepts.",
+      "questions": [
+        {
+          "question": "What is the basic unit of life?",
+          "options": [
+            "Cell",
+            "Atom",
+            "Organ",
+            "Tissue"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which force pulls objects toward Earth?",
+          "options": [
+            "Gravity",
+            "Magnetism",
+            "Friction",
+            "Electricity"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is H2O commonly known as?",
+          "options": [
+            "Water",
+            "Oxygen",
+            "Hydrogen",
+            "Salt"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which gas do plants absorb during photosynthesis?",
+          "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Hydrogen",
+            "Helium"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the center of an atom called?",
+          "options": [
+            "Nucleus",
+            "Electron",
+            "Shell",
+            "Molecule"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which state of matter has a fixed shape and volume?",
+          "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What do humans use to breathe?",
+          "options": [
+            "Lungs",
+            "Heart",
+            "Stomach",
+            "Kidneys"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the boiling point of water at standard atmospheric pressure?",
+          "options": [
+            "100°C",
+            "50°C",
+            "0°C",
+            "200°C"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which organ pumps blood around the human body?",
+          "options": [
+            "Heart",
+            "Liver",
+            "Lung",
+            "Brain"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is photosynthesis?",
+          "options": [
+            "The process by which plants use light to make food",
+            "The process of digestion",
+            "The movement of planets",
+            "The formation of rocks"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "science-2",
+      "title": "Physics & Chemistry Quiz",
+      "category": "Science",
+      "description": "Challenge yourself with basic physics and chemistry questions.",
+      "questions": [
+        {
+          "question": "What is the SI unit of force?",
+          "options": [
+            "Newton",
+            "Joule",
+            "Watt",
+            "Pascal"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the SI unit of energy?",
+          "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Volt"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which particle has a negative electric charge?",
+          "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Nucleus"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which particle has a positive electric charge?",
+          "options": [
+            "Proton",
+            "Electron",
+            "Neutron",
+            "Photon"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the chemical symbol for oxygen?",
+          "options": [
+            "O",
+            "Ox",
+            "C",
+            "H"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the chemical symbol for sodium?",
+          "options": [
+            "Na",
+            "So",
+            "S",
+            "Sd"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which instrument measures temperature?",
+          "options": [
+            "Thermometer",
+            "Barometer",
+            "Ruler",
+            "Ammeter"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What happens to most materials when they are heated?",
+          "options": [
+            "They expand",
+            "They disappear",
+            "They always freeze",
+            "They lose all mass"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a substance with a pH below 7 generally called?",
+          "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "Metallic"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which form of energy is associated with moving objects?",
+          "options": [
+            "Kinetic energy",
+            "Chemical energy",
+            "Nuclear energy",
+            "Sound energy"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+
+    {
+      "id": "science-3",
+      "title": "Earth, Space & Biology Quiz",
+      "category": "Science",
+      "description": "Explore Earth, space and the living world with these questions.",
+      "questions": [
+        {
+          "question": "Which planet do we live on?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is Earth's natural satellite?",
+          "options": [
+            "The Moon",
+            "The Sun",
+            "Mars",
+            "Venus"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which star is at the center of our solar system?",
+          "options": [
+            "The Sun",
+            "Sirius",
+            "Polaris",
+            "Betelgeuse"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which planet is famous for its prominent rings?",
+          "options": [
+            "Saturn",
+            "Mercury",
+            "Venus",
+            "Mars"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What layer surrounds Earth and contains the air we breathe?",
+          "options": [
+            "Atmosphere",
+            "Mantle",
+            "Core",
+            "Crust"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which organ is primarily responsible for pumping blood?",
+          "options": [
+            "Heart",
+            "Brain",
+            "Liver",
+            "Stomach"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which part of a plant usually absorbs water from the soil?",
+          "options": [
+            "Roots",
+            "Flowers",
+            "Fruits",
+            "Leaves"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What process do plants use to convert light energy into chemical energy?",
+          "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Digestion",
+            "Evaporation"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the largest organ of the human body?",
+          "options": [
+            "Skin",
+            "Heart",
+            "Liver",
+            "Brain"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which gas is most abundant in Earth's atmosphere?",
+          "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
+}

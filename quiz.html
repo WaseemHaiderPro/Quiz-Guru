@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Quiz Guru - Quiz</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f7fb;
+            color: #172033;
+        }
+
+        .quiz-page {
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .quiz-container {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 18px;
+            padding: 30px;
+            box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08);
+        }
+
+        .quiz-header {
+            margin-bottom: 25px;
+        }
+
+        .quiz-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .quiz-name {
+            font-size: 14px;
+            font-weight: 800;
+            color: #4f46e5;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .question-count {
+            font-size: 14px;
+            color: #697386;
+        }
+
+        .progress-container {
+            width: 100%;
+            height: 8px;
+            background: #e9ecf2;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            width: 0%;
+            height: 100%;
+            background: #4f46e5;
+            border-radius: 20px;
+            transition: width 0.3s ease;
+        }
+
+        .question-text {
+            font-size: 28px;
+            line-height: 1.35;
+            margin: 30px 0 25px;
+            color: #172033;
+        }
+
+        .answers-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .answer-btn {
+            width: 100%;
+            padding: 16px 18px;
+            border: 2px solid #e1e5ec;
+            background: #ffffff;
+            color: #172033;
+            border-radius: 12px;
+            text-align: left;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .answer-btn:hover:not(:disabled) {
+            border-color: #4f46e5;
+            background: #f7f7ff;
+        }
+
+        .answer-btn:disabled {
+            cursor: default;
+        }
+
+        .answer-btn.correct {
+            border-color: #22c55e;
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .answer-btn.wrong {
+            border-color: #ef4444;
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .next-container {
+            margin-top: 25px;
+            text-align: right;
+        }
+
+        #nextButton {
+            display: none;
+            border: none;
+            background: #172033;
+            color: #ffffff;
+            padding: 13px 25px;
+            border-radius: 10px;
+            font-weight: 700;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        #nextButton:hover {
+            background: #4f46e5;
+        }
+
+        /* =========================================================
+           RESULT SCREEN
+        ========================================================= */
+
+        .result-box {
+            text-align: center;
+            padding: 10px 5px;
+        }
+
+        .result-score {
+            font-size: 52px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 10px;
+            color: #172033;
+        }
+
+        .result-percentage {
+            font-size: 20px;
+            font-weight: 700;
+            color: #4f46e5;
+            margin-bottom: 12px;
+        }
+
+        .result-message {
+            color: #697386;
+            margin-bottom: 25px;
+        }
+
+        .result-buttons {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+        }
+
+        .result-btn {
+            border: none;
+            background: #172033;
+            color: #ffffff;
+            padding: 13px 22px;
+            border-radius: 10px;
+            font-weight: 700;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .result-btn:hover {
+            background: #4f46e5;
+        }
+
+        .result-btn.secondary {
+            background: #eef0f5;
+            color: #172033;
+        }
+
+        .result-btn.secondary:hover {
+            background: #e0e3ea;
+        }
+
+        /* =========================================================
+           PERFECT SCORE CELEBRATION
+        ========================================================= */
+
+        .celebration {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            overflow: hidden;
+            z-index: 9999;
+        }
+
+        .celebration-message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0.7);
+            background: #ffffff;
+            padding: 30px 40px;
+            border-radius: 20px;
+            text-align: center;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+            animation: celebrationPop 0.5s ease forwards;
+        }
+
+        .celebration-message h2 {
+            margin: 8px 0;
+            font-size: 30px;
+            color: #4f46e5;
+        }
+
+        .celebration-message p {
+            margin: 0;
+            color: #697386;
+            font-size: 15px;
+        }
+
+        .confetti {
+            position: absolute;
+            top: -20px;
+            width: 10px;
+            height: 18px;
+            border-radius: 2px;
+            animation: confettiFall 3s linear forwards;
+        }
+
+        @keyframes celebrationPop {
+            0% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0.7);
+            }
+
+            70% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(1.08);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(1);
+            }
+        }
+
+        @keyframes confettiFall {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+            }
+
+            100% {
+                transform: translateY(110vh) rotate(720deg);
+                opacity: 0;
+            }
+        }
+
+        /* =========================================================
+           TEST AVERAGE - QUIZ PAGE FLOATING BOX
+        ========================================================= */
+
+        .quiz-page-average {
+            position: fixed;
+            top: 120px;
+            right: 25px;
+            z-index: 1000;
+            animation: quizAverageFloat 3s ease-in-out infinite;
+        }
+
+        .test-average-float {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            min-width: 190px;
+            padding: 12px 16px;
+            background: #ffffff;
+            border: 1px solid #e5e7eb;
+            border-radius: 14px;
+            box-shadow:
+                0 10px 30px
+                rgba(0, 0, 0, 0.10);
+            transition:
+                transform 0.2s ease,
+                box-shadow 0.2s ease;
+        }
+
+        .test-average-float:hover {
+            transform: translateY(-2px);
+            box-shadow:
+                0 15px 35px
+                rgba(0, 0, 0, 0.14);
+        }
+
+        @keyframes quizAverageFloat {
+            0%, 100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-8px);
+            }
+        }
+
+        .test-average-icon {
+            width: 42px;
+            height: 42px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            background: #eef2ff;
+            border-radius: 12px;
+            font-size: 21px;
+        }
+
+        .test-average-content {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .test-average-label {
+            font-size: 10px;
+            font-weight: 800;
+            letter-spacing: 0.7px;
+            color: #697386;
+        }
+
+        #testAverage {
+            margin: 2px 0;
+            font-size: 22px;
+            line-height: 1;
+            color: #4f46e5;
+        }
+
+        .test-average-count {
+            font-size: 11px;
+            color: #697386;
+        }
+
+        /* =========================================================
+           DARK MODE - QUIZ PAGE
+        ========================================================= */
+
+        body.dark-mode {
+            background: #0f172a;
+            color: #e5e7eb;
+        }
+
+        body.dark-mode .quiz-container {
+            background: #111827;
+            box-shadow:
+                0 15px 45px rgba(0, 0, 0, 0.35);
+        }
+
+        body.dark-mode .question-count {
+            color: #94a3b8;
+        }
+
+        body.dark-mode .progress-container {
+            background: #273247;
+        }
+
+        body.dark-mode .question-text {
+            color: #f8fafc;
+        }
+
+        body.dark-mode .answer-btn {
+            background: #172033;
+            border-color: #2b3648;
+            color: #f8fafc;
+        }
+
+        body.dark-mode .answer-btn:hover:not(:disabled) {
+            border-color: #635bff;
+            background: #202b3d;
+        }
+
+        body.dark-mode .answer-btn.correct {
+            border-color: #22c55e;
+            background: #143d2b;
+            color: #86efac;
+        }
+
+        body.dark-mode .answer-btn.wrong {
+            border-color: #ef4444;
+            background: #451a1a;
+            color: #fca5a5;
+        }
+
+        body.dark-mode #nextButton {
+            background: #f8fafc;
+            color: #111827;
+        }
+
+        body.dark-mode #nextButton:hover {
+            background: #635bff;
+            color: #ffffff;
+        }
+
+        body.dark-mode .result-score {
+            color: #f8fafc;
+        }
+
+        body.dark-mode .result-message {
+            color: #94a3b8;
+        }
+
+        body.dark-mode .result-btn {
+            background: #f8fafc;
+            color: #111827;
+        }
+
+        body.dark-mode .result-btn:hover {
+            background: #635bff;
+            color: #ffffff;
+        }
+
+        body.dark-mode .result-btn.secondary {
+            background: #202b3d;
+            color: #e5e7eb;
+        }
+
+        body.dark-mode .result-btn.secondary:hover {
+            background: #2b3648;
+        }
+
+        body.dark-mode .celebration-message {
+            background: #172033;
+            box-shadow:
+                0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        body.dark-mode .celebration-message p {
+            color: #94a3b8;
+        }
+
+        body.dark-mode .test-average-float {
+            background: #172033;
+            border-color: #2b3648;
+            box-shadow:
+                0 12px 32px rgba(0, 0, 0, 0.35);
+        }
+
+        body.dark-mode .test-average-label,
+        body.dark-mode .test-average-count {
+            color: #94a3b8;
+        }
+
+        /* =========================================================
+           MOBILE
+        ========================================================= */
+
+        @media (max-width: 600px) {
+
+            .quiz-page {
+                padding: 20px 12px;
+            }
+
+            .quiz-container {
+                padding: 20px;
+                border-radius: 14px;
+            }
+
+            .quiz-top {
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .question-text {
+                font-size: 22px;
+            }
+
+            .answer-btn {
+                padding: 14px;
+                font-size: 15px;
+            }
+
+            .result-buttons {
+                flex-direction: column;
+            }
+
+            .result-btn {
+                width: 100%;
+            }
+
+            .celebration-message {
+                width: calc(100% - 40px);
+                padding: 25px 20px;
+            }
+
+            .celebration-message h2 {
+                font-size: 25px;
+            }
+
+            .quiz-page-average {
+                top: auto;
+                right: 12px;
+                bottom: 15px;
+            }
+
+            .test-average-float {
+                min-width: 160px;
+                padding: 10px 13px;
+                gap: 10px;
+            }
+
+            .test-average-icon {
+                width: 36px;
+                height: 36px;
+                font-size: 18px;
+            }
+
+            #testAverage {
+                font-size: 19px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="site-header">
+
+    <div class="container header-inner">
+
+        <a href="../index.html" class="brand">
+            <span class="brand-mark">Q</span>
+
+            <span class="brand-name">
+                Quiz<span>Guru</span>
+            </span>
+        </a>
+
+        <nav class="main-nav">
+
+            <a href="../index.html">
+                Home
+            </a>
+
+            <a href="../index.html#quizzes">
+                Quizzes
+            </a>
+
+            <a href="../index.html#categories">
+                Categories
+            </a>
+
+            <a href="../index.html#about">
+                About
+            </a>
+
+        </nav>
+
+        <div class="header-actions">
+
+            <button
+                type="button"
+                class="theme-toggle"
+                id="themeToggle"
+                aria-label="Switch to dark mode"
+                title="Toggle dark mode"
+            >
+                <span class="theme-toggle-track">
+                    <span class="theme-toggle-icon theme-toggle-moon">☾</span>
+                    <span class="theme-toggle-icon theme-toggle-sun">☀</span>
+                    <span class="theme-toggle-knob"></span>
+                </span>
+            </button>
+
+            <a
+                href="all-quizzes.html"
+                class="header-button"
+            >
+                Explore Quizzes
+            </a>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+<main class="quiz-page">
+
+    <section class="quiz-container">
+
+        <div class="test-average-float quiz-page-average">
+
+            <div class="test-average-icon">
+                📊
+            </div>
+
+            <div class="test-average-content">
+
+                <span class="test-average-label">
+                    TEST AVERAGE
+                </span>
+
+                <strong id="testAverage">
+                    0%
+                </strong>
+
+                <span
+                    id="testsTaken"
+                    class="test-average-count"
+                >
+                    0 Tests Taken
+                </span>
+
+            </div>
+
+        </div>
+
+
+        <div class="quiz-header">
+
+            <div class="quiz-top">
+
+                <div
+                    id="quizName"
+                    class="quiz-name"
+                >
+                    General Knowledge
+                </div>
+
+                <div
+                    id="questionCount"
+                    class="question-count"
+                >
+                    Question 1 of 10
+                </div>
+
+            </div>
+
+
+            <div class="progress-container">
+
+                <div
+                    id="progressBar"
+                    class="progress-bar"
+                ></div>
+
+            </div>
+
+        </div>
+
+
+        <h1
+            id="questionText"
+            class="question-text"
+        >
+            Loading question...
+        </h1>
+
+
+        <div
+            id="answersContainer"
+            class="answers-container"
+        >
+        </div>
+
+
+        <div class="next-container">
+
+            <button id="nextButton">
+                Next Question →
+            </button>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<script src="../js/test-average.js"></script>
+<script src="../js/theme.js"></script>
+<script src="../js/progressBar.js"></script>
+<script src="../js/quizzes.js"></script>
+
+</body>
+
+</html>
