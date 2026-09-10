@@ -348,10 +348,11 @@ function showQuestion() {
     answered = false;
 
     const quizName = getElement("quizName");
-    const questionText = getElement("questionText");
-    const answersContainer =
-        getElement("answersContainer");
-    const nextButton = getElement("nextButton");
+const questionCount = getElement("questionCount");
+const questionText = getElement("questionText");
+const answersContainer =
+    getElement("answersContainer");
+const nextButton = getElement("nextButton");
 
     if (quizName) {
         quizName.textContent =
