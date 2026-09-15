@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Main pages -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/</loc>
   </url>
@@ -10,7 +11,9 @@
     <loc>https://quiz-guru.pages.dev/pages/all-quizzes.html</loc>
   </url>
 
+
   <!-- Category pages -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=General%20Knowledge</loc>
   </url>
@@ -31,7 +34,9 @@
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=Mind%20%26%20Brain</loc>
   </url>
 
-  <!-- General Knowledge quizzes -->
+
+  <!-- General Knowledge: 10 quizzes -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-1</loc>
   </url>
@@ -72,7 +77,9 @@
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-10</loc>
   </url>
 
-  <!-- Mind & Brain quizzes -->
+
+  <!-- Mind & Brain: 10 quizzes -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-test-1</loc>
   </url>
@@ -113,12 +120,9 @@
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-10</loc>
   </url>
 
-  <!-- Quick Quiz -->
-  <url>
-    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=quick-5-1</loc>
-  </url>
 
-  <!-- Education quizzes -->
+  <!-- Education: 11 quizzes -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-1</loc>
   </url>
@@ -147,7 +151,25 @@
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-7</loc>
   </url>
 
-  <!-- Computer & IT quizzes -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-8</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-9</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-10</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-11</loc>
+  </url>
+
+
+  <!-- Computer & IT: 10 quizzes -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-1</loc>
   </url>
@@ -176,7 +198,21 @@
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-7</loc>
   </url>
 
-  <!-- Science quizzes -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-8</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-9</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-10</loc>
+  </url>
+
+
+  <!-- Science: 10 quizzes -->
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-1</loc>
   </url>
@@ -203,6 +239,18 @@
 
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-7</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-8</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-9</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-10</loc>
   </url>
 
 </urlset>
