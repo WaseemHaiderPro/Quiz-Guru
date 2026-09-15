@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Main pages -->
   <url>
     <loc>https://quiz-guru.pages.dev/</loc>
   </url>
@@ -9,6 +10,7 @@
     <loc>https://quiz-guru.pages.dev/pages/all-quizzes.html</loc>
   </url>
 
+  <!-- Category pages -->
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=General%20Knowledge</loc>
   </url>
@@ -29,6 +31,7 @@
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=Mind%20%26%20Brain</loc>
   </url>
 
+  <!-- General Knowledge quizzes -->
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-1</loc>
   </url>
@@ -67,6 +70,139 @@
 
   <url>
     <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-10</loc>
+  </url>
+
+  <!-- Mind & Brain quizzes -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-test-1</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-2</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-3</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-4</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-5</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-6</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-7</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-8</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-9</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=mind-brain-10</loc>
+  </url>
+
+  <!-- Quick Quiz -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=quick-5-1</loc>
+  </url>
+
+  <!-- Education quizzes -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-1</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-2</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-3</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-4</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-5</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-6</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=education-7</loc>
+  </url>
+
+  <!-- Computer & IT quizzes -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-1</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-2</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-3</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-4</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-5</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-6</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=computer-it-7</loc>
+  </url>
+
+  <!-- Science quizzes -->
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-1</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-2</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-3</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-4</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-5</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-6</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=science-7</loc>
   </url>
 
 </urlset>
