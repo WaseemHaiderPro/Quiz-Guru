@@ -1,1 +1,24 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://quiz-guru.pages.dev/</loc>
+  </url>
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/all-quizzes.html</loc>
+  </url>
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/category.html?category=General%20Knowledge</loc>
+  </url>
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/category.html?category=Education</loc>
+  </url>
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/category.html?category=Computer%20%26%20IT</loc>
+  </url>
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/category.html?category=Science</loc>
+  </url>
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/category.html?category=Mind%20%26%20Brain</loc>
+  </url>
+</urlset>
