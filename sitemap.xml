@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://quiz-guru.pages.dev/</loc>
   </url>
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/all-quizzes.html</loc>
   </url>
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=General%20Knowledge</loc>
   </url>
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=Education</loc>
   </url>
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=Computer%20%26%20IT</loc>
   </url>
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=Science</loc>
   </url>
+
   <url>
     <loc>https://quiz-guru.pages.dev/pages/category.html?category=Mind%20%26%20Brain</loc>
   </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-1</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-2</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-3</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-4</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-5</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-6</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-7</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-8</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-9</loc>
+  </url>
+
+  <url>
+    <loc>https://quiz-guru.pages.dev/pages/quiz.html?id=general-knowledge-10</loc>
+  </url>
+
 </urlset>
