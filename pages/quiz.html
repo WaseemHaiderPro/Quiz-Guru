@@ -719,6 +719,109 @@
 <script src="../js/test-average.js"></script>
 <script src="../js/theme.js"></script>
 <script src="../js/progressBar.js"></script>
+    <script>
+(async function () {
+    const params = new URLSearchParams(
+        window.location.search
+    );
+
+    const quizId = params.get("quiz");
+
+    if (!quizId) {
+        return;
+    }
+
+    const quizFiles = [
+        "../data/quizzes.json",
+        "../data/education.json",
+        "../data/computer-it.json",
+        "../data/science.json",
+        "../data/general-knowledge.json"
+    ];
+
+    try {
+        const results = await Promise.all(
+            quizFiles.map(function (file) {
+                return fetch(file, {
+                    cache: "no-store"
+                }).then(function (response) {
+                    if (!response.ok) {
+                        throw new Error(
+                            "Failed to load " + file
+                        );
+                    }
+
+                    return response.json();
+                });
+            })
+        );
+
+        const quizzes = [];
+
+        results.forEach(function (data) {
+            if (Array.isArray(data)) {
+                quizzes.push(...data);
+            } else if (
+                data &&
+                Array.isArray(data.quizzes)
+            ) {
+                quizzes.push(...data.quizzes);
+            }
+        });
+
+        const quiz = quizzes.find(function (item) {
+            return item.id === quizId;
+        });
+
+        if (!quiz) {
+            return;
+        }
+
+        const title =
+            quiz.title ||
+            "Quiz Guru Quiz";
+
+        const category =
+            quiz.category ||
+            "General Knowledge";
+
+        const questionCount =
+            Array.isArray(quiz.questions)
+                ? quiz.questions.length
+                : 0;
+
+        const description =
+            quiz.description ||
+            "Test your knowledge with this " +
+            category +
+            " quiz on Quiz Guru. " +
+            questionCount +
+            " questions to challenge your knowledge.";
+
+        document.title =
+            title + " | Quiz Guru";
+
+        const metaDescription =
+            document.getElementById(
+                "metaDescription"
+            );
+
+        if (metaDescription) {
+            metaDescription.setAttribute(
+                "content",
+                description
+            );
+        }
+    } catch (error) {
+        console.error(
+            "SEO metadata error:",
+            error
+        );
+    }
+})();
+</script>
+
+<script src="../js/quizzes.js"></script>
 <script src="../js/quizzes.js"></script>
 
 </body>
