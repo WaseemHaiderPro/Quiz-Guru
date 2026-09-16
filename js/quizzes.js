@@ -318,7 +318,9 @@ async function loadQuiz() {
             ...selectedQuiz,
             questions: preparedQuestions
         };
-
+document.title =
+    (selectedQuiz.title || "Quiz Guru Quiz") +
+    " | Quiz Guru";
         currentQuestion = 0;
         score = 0;
         answered = false;
