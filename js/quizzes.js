@@ -315,17 +315,15 @@ async function loadQuiz() {
         shuffleArray(preparedQuestions);
 
         quizData = {
-            ...selectedQuiz,
-            questions: preparedQuestions
-        };
-document.title =
-    (selectedQuiz.title || "Quiz Guru Quiz") +
-    " | Quiz Guru";
-        currentQuestion = 0;
-        score = 0;
-        answered = false;
+    ...selectedQuiz,
+    questions: preparedQuestions
+};
 
-        showQuestion();
+currentQuestion = 0;
+score = 0;
+answered = false;
+
+showQuestion();
 
     } catch (error) {
         showError(error.message);
