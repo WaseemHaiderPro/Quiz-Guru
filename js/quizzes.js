@@ -356,10 +356,10 @@ const answersContainer =
     getElement("answersContainer");
 const nextButton = getElement("nextButton");
 
-   if (quizName) {
+ if (quizName) {
     quizName.textContent =
-        quiz.category ||
         quiz.title ||
+        quiz.category ||
         "Quiz";
 }
 
