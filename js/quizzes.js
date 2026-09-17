@@ -288,16 +288,26 @@ async function loadQuiz() {
                 }
 
                 const options =
-                    question.options.map(function (
-                        option,
-                        index
-                    ) {
-                        return {
-                            text: String(option),
-                            isCorrect:
-                                index === correctAnswer
-                        };
-                    });
+    question.options.map(function (
+        option,
+        index
+    ) {
+        return {
+            text:
+                typeof option === "object" &&
+                option !== null
+                    ? String(
+                        option.text ||
+                        option.option ||
+                        option.answer ||
+                        ""
+                    )
+                    : String(option),
+
+            isCorrect:
+                index === correctAnswer
+        };
+    });
 
                 shuffleArray(options);
 
