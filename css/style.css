@@ -4494,6 +4494,10 @@ body.dark-mode main .section h1 {
 body.dark-mode main .section .section-kicker {
     color: #aeb8c8 !important;
 }
+   /* Keep all category cards the same size */
+.category-grid > .category-card {
+    grid-column: auto !important;
+}
 
 body.dark-mode main .section .view-link {
     color: #cbd5e1 !important;
