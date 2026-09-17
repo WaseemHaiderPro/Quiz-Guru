@@ -1,1 +1,110 @@
-
+[
+  {
+    "id": "thursday-quiz-2026-09-17",
+    "title": "Thursday Quiz — September 17, 2026",
+    "category": "Weekly Quizzes",
+    "description": "A fresh weekly quiz covering general knowledge, current affairs, science, technology, sports and world topics.",
+    "questions": [
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          { "text": "Mars" },
+          { "text": "Venus" },
+          { "text": "Jupiter" },
+          { "text": "Mercury" }
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which ocean is the largest on Earth?",
+        "options": [
+          { "text": "Atlantic Ocean" },
+          { "text": "Indian Ocean" },
+          { "text": "Pacific Ocean" },
+          { "text": "Arctic Ocean" }
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          { "text": "Ag" },
+          { "text": "Au" },
+          { "text": "Gd" },
+          { "text": "Go" }
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country is home to the city of Kyoto?",
+        "options": [
+          { "text": "China" },
+          { "text": "South Korea" },
+          { "text": "Japan" },
+          { "text": "Thailand" }
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which organ pumps blood throughout the human body?",
+        "options": [
+          { "text": "Liver" },
+          { "text": "Lungs" },
+          { "text": "Kidney" },
+          { "text": "Heart" }
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which technology is primarily used to store and process data remotely over the internet?",
+        "options": [
+          { "text": "Cloud computing" },
+          { "text": "Bluetooth" },
+          { "text": "USB" },
+          { "text": "NFC" }
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many continents are commonly recognized on Earth?",
+        "options": [
+          { "text": "5" },
+          { "text": "6" },
+          { "text": "7" },
+          { "text": "8" }
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+          { "text": "Oxygen" },
+          { "text": "Nitrogen" },
+          { "text": "Carbon dioxide" },
+          { "text": "Hydrogen" }
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sport is played at Wimbledon?",
+        "options": [
+          { "text": "Cricket" },
+          { "text": "Tennis" },
+          { "text": "Golf" },
+          { "text": "Rugby" }
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "options": [
+          { "text": "Sydney" },
+          { "text": "Melbourne" },
+          { "text": "Perth" },
+          { "text": "Canberra" }
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  }
+]
