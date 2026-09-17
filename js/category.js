@@ -83,15 +83,24 @@ document.addEventListener("DOMContentLoaded", function () {
         ];
 
     } else if (
-        categoryName.toLowerCase() ===
-        "mind & brain"
-    ) {
+    categoryName.toLowerCase() ===
+    "mind & brain"
+) {
 
-        quizFiles = [
-            "../data/quizzes.json"
-        ];
+    quizFiles = [
+        "../data/quizzes.json"
+    ];
 
-    } else {
+} else if (
+    categoryName.toLowerCase() ===
+    "weekly quizzes"
+) {
+
+    quizFiles = [
+        "../data/weekly-quizzes.json"
+    ];
+
+} else {
 
         quizFiles = [
             "../data/quizzes.json"
