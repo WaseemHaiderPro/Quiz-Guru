@@ -3,107 +3,107 @@
     "id": "thursday-quiz-2026-09-17",
     "title": "Thursday Quiz — September 17, 2026",
     "category": "Weekly Quizzes",
-    "description": "A fresh weekly quiz covering general knowledge, current affairs, science, technology, sports and world topics.",
+    "description": "A fresh weekly quiz covering current affairs, global developments, general knowledge and a random subject.",
     "questions": [
       {
-        "question": "Which planet is known as the Red Planet?",
+        "question": "Pakistan's finance minister said the country plans to seek an expansion of which facility with China when it comes up for renewal in 2027?",
         "options": [
-          { "text": "Mars" },
-          { "text": "Venus" },
-          { "text": "Jupiter" },
-          { "text": "Mercury" }
+          { "text": "Currency swap line" },
+          { "text": "Free-trade agreement" },
+          { "text": "Military aid agreement" },
+          { "text": "Tourism investment fund" }
         ],
         "correctAnswer": 0
       },
       {
-        "question": "Which ocean is the largest on Earth?",
+        "question": "The naval collision reported on September 15–16, 2026 involving Indian and Pakistani vessels occurred in which body of water?",
         "options": [
-          { "text": "Atlantic Ocean" },
-          { "text": "Indian Ocean" },
-          { "text": "Pacific Ocean" },
-          { "text": "Arctic Ocean" }
-        ],
-        "correctAnswer": 2
-      },
-      {
-        "question": "What is the chemical symbol for gold?",
-        "options": [
-          { "text": "Ag" },
-          { "text": "Au" },
-          { "text": "Gd" },
-          { "text": "Go" }
+          { "text": "Bay of Bengal" },
+          { "text": "Arabian Sea" },
+          { "text": "Red Sea" },
+          { "text": "South China Sea" }
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Which country is home to the city of Kyoto?",
+        "question": "At the Beijing Xiangshan Forum in September 2026, international delegates highlighted concerns about the security risks of AI particularly in which area?",
         "options": [
-          { "text": "China" },
-          { "text": "South Korea" },
-          { "text": "Japan" },
-          { "text": "Thailand" }
-        ],
-        "correctAnswer": 2
-      },
-      {
-        "question": "Which organ pumps blood throughout the human body?",
-        "options": [
-          { "text": "Liver" },
-          { "text": "Lungs" },
-          { "text": "Kidney" },
-          { "text": "Heart" }
-        ],
-        "correctAnswer": 3
-      },
-      {
-        "question": "Which technology is primarily used to store and process data remotely over the internet?",
-        "options": [
-          { "text": "Cloud computing" },
-          { "text": "Bluetooth" },
-          { "text": "USB" },
-          { "text": "NFC" }
+          { "text": "Military applications" },
+          { "text": "Online shopping" },
+          { "text": "Digital photography" },
+          { "text": "Video game graphics" }
         ],
         "correctAnswer": 0
       },
       {
-        "question": "How many continents are commonly recognized on Earth?",
+        "question": "Why are U.S. and Chinese experts calling for safeguards around highly autonomous military AI systems?",
         "options": [
-          { "text": "5" },
-          { "text": "6" },
-          { "text": "7" },
-          { "text": "8" }
+          { "text": "To prevent AI from independently triggering dangerous military actions" },
+          { "text": "To make military computers consume less electricity" },
+          { "text": "To replace all human soldiers with robots" },
+          { "text": "To eliminate civilian uses of artificial intelligence" }
         ],
-        "correctAnswer": 2
+        "correctAnswer": 0
       },
       {
-        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "question": "Which country has been discussing a closer strategic relationship with the European Union that could involve becoming its first 'associate member'?",
         "options": [
-          { "text": "Oxygen" },
-          { "text": "Nitrogen" },
-          { "text": "Carbon dioxide" },
-          { "text": "Hydrogen" }
+          { "text": "Canada" },
+          { "text": "Brazil" },
+          { "text": "Australia" },
+          { "text": "South Africa" }
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Which sport is played at Wimbledon?",
+        "question": "According to Reuters' September 17, 2026 global markets report, which central bank had recently raised its interest rate?",
         "options": [
-          { "text": "Cricket" },
-          { "text": "Tennis" },
-          { "text": "Golf" },
-          { "text": "Rugby" }
+          { "text": "U.S. Federal Reserve" },
+          { "text": "Bank of Japan" },
+          { "text": "Reserve Bank of India" },
+          { "text": "Swiss National Bank" }
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "What is the capital city of Australia?",
+        "question": "Which is the largest desert in the world by area?",
         "options": [
-          { "text": "Sydney" },
-          { "text": "Melbourne" },
-          { "text": "Perth" },
-          { "text": "Canberra" }
+          { "text": "Sahara Desert" },
+          { "text": "Arabian Desert" },
+          { "text": "Gobi Desert" },
+          { "text": "Antarctic Desert" }
         ],
         "correctAnswer": 3
+      },
+      {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "options": [
+          { "text": "Fluorine" },
+          { "text": "Iron" },
+          { "text": "Francium" },
+          { "text": "Fermium" }
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country is home to the ancient city of Petra?",
+        "options": [
+          { "text": "Egypt" },
+          { "text": "Jordan" },
+          { "text": "Lebanon" },
+          { "text": "Turkey" }
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In mathematics, what is the value of 12²?",
+        "options": [
+          { "text": "124" },
+          { "text": "132" },
+          { "text": "144" },
+          { "text": "156" }
+        ],
+        "correctAnswer": 2
       }
     ]
   }
