@@ -163,7 +163,8 @@ async function loadQuiz() {
             "../data/education.json",
             "../data/computer-it.json",
             "../data/science.json",
-            "../data/general-knowledge.json"
+            "../data/general-knowledge.json",
+            "../data/weekly-quizzes.json"
         ];
 
         async function loadQuizFile(file) {
