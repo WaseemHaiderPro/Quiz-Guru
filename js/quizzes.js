@@ -2,6 +2,8 @@ let quizData = null;
 let currentQuestion = 0;
 let score = 0;
 let answered = false;
+let quizTimerInterval = null;
+let quizTimerStartTime = null;
 
 const params = new URLSearchParams(window.location.search);
 const quizId = (params.get("quiz") || "").trim();
@@ -149,7 +151,101 @@ function getQuiz() {
 
     return quizData;
 }
+/* =========================================================
+   GOVERNMENT JOB QUIZ TIMER
+========================================================= */
 
+function isGovernmentJobQuiz() {
+    const quiz = getQuiz();
+
+    return (
+        quiz &&
+        String(quiz.category || "")
+            .trim()
+            .toLowerCase() ===
+        "pak government jobs quizzes"
+    );
+}
+
+function formatQuizTime(totalSeconds) {
+    const hours = Math.floor(totalSeconds / 3600);
+    const minutes = Math.floor(
+        (totalSeconds % 3600) / 60
+    );
+    const seconds = totalSeconds % 60;
+
+    return (
+        String(hours).padStart(2, "0") +
+        ":" +
+        String(minutes).padStart(2, "0") +
+        ":" +
+        String(seconds).padStart(2, "0")
+    );
+}
+
+function updateQuizTimer() {
+    if (!isGovernmentJobQuiz()) {
+        return;
+    }
+
+    const timerText =
+        getElement("quizTimerText");
+
+    if (!timerText || !quizTimerStartTime) {
+        return;
+    }
+
+    const elapsedSeconds =
+        Math.floor(
+            (Date.now() - quizTimerStartTime) /
+            1000
+        );
+
+    timerText.textContent =
+        formatQuizTime(elapsedSeconds);
+}
+
+function startQuizTimer() {
+    stopQuizTimer();
+
+    if (!isGovernmentJobQuiz()) {
+        const timer =
+            getElement("quizTimer");
+
+        if (timer) {
+            timer.style.display = "none";
+        }
+
+        return;
+    }
+
+    const timer =
+        getElement("quizTimer");
+
+    if (timer) {
+        timer.style.display = "inline-flex";
+    }
+
+    quizTimerStartTime = Date.now();
+
+    updateQuizTimer();
+
+    quizTimerInterval =
+        setInterval(
+            updateQuizTimer,
+            1000
+        );
+}
+
+function stopQuizTimer() {
+    if (quizTimerInterval) {
+        clearInterval(
+            quizTimerInterval
+        );
+
+        quizTimerInterval = null;
+    }
+}
 /* =========================================================
    LOAD QUIZ
 ========================================================= */
@@ -372,6 +468,8 @@ document.title =
 currentQuestion = 0;
 score = 0;
 answered = false;
+
+startQuizTimer();
 
 showQuestion();
 
@@ -686,7 +784,7 @@ function showResult() {
     if (!quiz) {
         return;
     }
-
+    stopQuizTimer();
     const total =
         quiz.questions.length;
 
