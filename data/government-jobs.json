@@ -1,12 +1,568 @@
 [
   {
     "id": "fpsc-css-2026",
-    "title": "FPSC CSS 2026 Preparation Quiz",
+    "title": "FPSC CSS 2026 Preparation Quiz — 100 MCQs",
     "category": "Pak Government Jobs Quizzes",
-    "description": "Practice questions for Pakistan's CSS competitive examination.",
+    "description": "100 practice MCQs covering Pakistan Affairs, General Knowledge, Current Affairs, Islamiat, English, Everyday Science, and basic quantitative reasoning for government job examinations.",
     "date": "2026-09-17",
     "deadline": "2026-09-17",
     "difficulty": "Hard",
-    "questions": []
+    "questions": [
+      {
+        "question": "What is the capital of Pakistan?",
+        "options": ["Islamabad", "Lahore", "Karachi", "Peshawar"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pakistan gained independence on:",
+        "options": ["14 August 1947", "15 August 1947", "23 March 1940", "14 August 1948"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who was the first Governor-General of Pakistan?",
+        "options": ["Liaquat Ali Khan", "Muhammad Ali Jinnah", "Iskander Mirza", "Ayub Khan"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the first Prime Minister of Pakistan?",
+        "options": ["Liaquat Ali Khan", "Khawaja Nazimuddin", "Muhammad Ali Bogra", "Ayub Khan"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Lahore Resolution was passed in:",
+        "options": ["1930", "1935", "1940", "1947"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Lahore Resolution was passed at:",
+        "options": ["Karachi", "Lahore", "Delhi", "Dhaka"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Allahabad Address was delivered by Allama Iqbal in:",
+        "options": ["1928", "1930", "1932", "1935"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The first constitution of Pakistan was promulgated in:",
+        "options": ["1956", "1962", "1973", "1949"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pakistan became an Islamic Republic under the Constitution of:",
+        "options": ["1956", "1962", "1973", "1985"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Constitution currently in force in Pakistan was adopted in:",
+        "options": ["1956", "1962", "1973", "1977"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Objectives Resolution was passed in:",
+        "options": ["1947", "1949", "1951", "1956"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who presented the Objectives Resolution in the Constituent Assembly?",
+        "options": ["Muhammad Ali Jinnah", "Liaquat Ali Khan", "Iskander Mirza", "Khawaja Nazimuddin"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pakistan's first capital was:",
+        "options": ["Islamabad", "Lahore", "Karachi", "Rawalpindi"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which city served as Pakistan's interim capital before Islamabad?",
+        "options": ["Lahore", "Rawalpindi", "Karachi", "Peshawar"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The national language of Pakistan is:",
+        "options": ["English", "Punjabi", "Urdu", "Sindhi"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The national poet of Pakistan is commonly recognized as:",
+        "options": ["Faiz Ahmed Faiz", "Allama Muhammad Iqbal", "Ahmed Faraz", "Hafeez Jalandhari"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who wrote the lyrics of Pakistan's national anthem?",
+        "options": ["Allama Iqbal", "Hafeez Jalandhari", "Faiz Ahmed Faiz", "Josh Malihabadi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pakistan's national flower is:",
+        "options": ["Rose", "Jasmine", "Tulip", "Sunflower"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pakistan's national animal is:",
+        "options": ["Snow leopard", "Markhor", "Lion", "Chinkara"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pakistan's national bird is:",
+        "options": ["Chukar", "Falcon", "Peacock", "Eagle"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The highest mountain in Pakistan is:",
+        "options": ["Nanga Parbat", "K2", "Rakaposhi", "Tirich Mir"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "K2 is located in the:",
+        "options": ["Himalayas", "Hindu Kush", "Karakoram", "Sulaiman Range"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Nanga Parbat is also known as:",
+        "options": ["Killer Mountain", "Queen of Mountains", "Mountain of Light", "White Mountain"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The longest river of Pakistan is:",
+        "options": ["Jhelum", "Chenab", "Indus", "Ravi"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Indus River originates near:",
+        "options": ["Tibet", "Afghanistan", "Iran", "Nepal"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which is the largest province of Pakistan by area?",
+        "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which is the largest province of Pakistan by population?",
+        "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The provincial capital of Punjab is:",
+        "options": ["Multan", "Lahore", "Rawalpindi", "Faisalabad"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The provincial capital of Sindh is:",
+        "options": ["Hyderabad", "Sukkur", "Karachi", "Larkana"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The provincial capital of Khyber Pakhtunkhwa is:",
+        "options": ["Mardan", "Abbottabad", "Peshawar", "Swat"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The provincial capital of Balochistan is:",
+        "options": ["Gwadar", "Quetta", "Turbat", "Khuzdar"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Pakistan-Afghanistan border is commonly called:",
+        "options": ["Radcliffe Line", "Durand Line", "McMahon Line", "Line of Control"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Pakistan-India boundary created in 1947 is associated with:",
+        "options": ["Durand Line", "Radcliffe Line", "McMahon Line", "Goldsmid Line"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Line of Control primarily separates:",
+        "options": ["Pakistan and Iran", "Pakistan and Afghanistan", "Pakistan-administered and Indian-administered parts of Kashmir", "Pakistan and China"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Pakistan shares its longest international border with:",
+        "options": ["India", "Afghanistan", "Iran", "China"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pakistan's southern coastline is along the:",
+        "options": ["Bay of Bengal", "Arabian Sea", "Red Sea", "Persian Gulf"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Gwadar is located in:",
+        "options": ["Sindh", "Punjab", "Balochistan", "Khyber Pakhtunkhwa"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Karakoram Highway connects Pakistan with:",
+        "options": ["Iran", "China", "India", "Afghanistan"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Pakistan-China border is located mainly in the:",
+        "options": ["Gilgit-Baltistan region", "Punjab region", "Sindh region", "Islamabad region"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which pass historically connects Pakistan with Afghanistan?",
+        "options": ["Khyber Pass", "Bolan Pass", "Khunjerab Pass", "Lowari Pass"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Khunjerab Pass connects Pakistan with:",
+        "options": ["India", "China", "Iran", "Afghanistan"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest desert in Pakistan is:",
+        "options": ["Thar Desert", "Cholistan Desert", "Kharan Desert", "Thal Desert"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Thar Desert is mainly located in:",
+        "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest freshwater lake in Pakistan is generally identified as:",
+        "options": ["Manchar Lake", "Saif-ul-Muluk", "Keenjhar Lake", "Haleji Lake"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Tarbela Dam is built on the:",
+        "options": ["Jhelum River", "Indus River", "Chenab River", "Ravi River"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Mangla Dam is built on the:",
+        "options": ["Indus River", "Jhelum River", "Chenab River", "Sutlej River"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Warsak Dam is located near:",
+        "options": ["Peshawar", "Lahore", "Karachi", "Quetta"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pakistan's national currency is:",
+        "options": ["Rupee", "Dinar", "Riyal", "Taka"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The State Bank of Pakistan is the country's:",
+        "options": ["Commercial bank", "Central bank", "Investment bank", "Development bank"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The State Bank of Pakistan was established in:",
+        "options": ["1947", "1948", "1956", "1973"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "FPSC stands for:",
+        "options": ["Federal Public Service Commission", "Federal Private Service Commission", "Foreign Public Service Council", "Federal Personnel Selection Commission"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "PPSC stands for:",
+        "options": ["Punjab Public Service Commission", "Pakistan Public Service Council", "Provincial Public Service Council", "Punjab Personnel Selection Commission"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "NTS stands for:",
+        "options": ["National Testing Service", "National Training System", "National Technical Service", "National Test Secretariat"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "CSS examinations in Pakistan are conducted by:",
+        "options": ["NTS", "FPSC", "PPSC", "HEC"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Election Commission of Pakistan is responsible primarily for:",
+        "options": ["Monetary policy", "Conducting and supervising elections", "Foreign affairs", "Defence policy"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Parliament of Pakistan is:",
+        "options": ["Unicameral", "Bicameral", "Tricameral", "Federal only"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The upper house of Pakistan's Parliament is called:",
+        "options": ["National Assembly", "Senate", "Provincial Assembly", "Council of State"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The lower house of Pakistan's Parliament is called:",
+        "options": ["Senate", "National Assembly", "Federal Assembly", "House of Provinces"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The head of state of Pakistan is the:",
+        "options": ["Prime Minister", "President", "Chief Justice", "Speaker"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The head of government of Pakistan is the:",
+        "options": ["President", "Prime Minister", "Chief Justice", "Chairman Senate"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The highest court in Pakistan is the:",
+        "options": ["High Court", "Federal Shariat Court", "Supreme Court", "District Court"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Federal Shariat Court primarily examines laws in relation to:",
+        "options": ["International law", "Islamic injunctions", "Tax policy only", "Military regulations only"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Council of Common Interests is provided for in the:",
+        "options": ["Constitution of Pakistan", "Pakistan Penal Code", "Election Act only", "Companies Act"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The 18th Amendment to Pakistan's Constitution was passed in:",
+        "options": ["2008", "2010", "2012", "2013"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The 18th Amendment is particularly associated with strengthening:",
+        "options": ["Provincial autonomy", "Presidential powers", "Military courts", "Monetary policy"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The national assembly of Pakistan has a constitutional term of:",
+        "options": ["3 years", "4 years", "5 years", "6 years"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Senate of Pakistan is a:",
+        "options": ["Permanent house", "Temporary house", "Provincial cabinet", "Judicial body"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Members of the Senate serve a term of:",
+        "options": ["3 years", "4 years", "5 years", "6 years"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Pakistan's federal legislature is located in:",
+        "options": ["Lahore", "Karachi", "Islamabad", "Rawalpindi"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The first martial law in Pakistan was imposed in:",
+        "options": ["1956", "1958", "1962", "1969"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The first military coup in Pakistan took place in:",
+        "options": ["1951", "1956", "1958", "1965"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Simla Agreement between Pakistan and India was signed in:",
+        "options": ["1965", "1971", "1972", "1974"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Indus Waters Treaty was signed in:",
+        "options": ["1958", "1960", "1965", "1972"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Indus Waters Treaty was brokered by the:",
+        "options": ["United Nations", "World Bank", "IMF", "Asian Development Bank"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pakistan became a member of the United Nations in:",
+        "options": ["1947", "1948", "1950", "1956"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pakistan became a member of the Organisation of Islamic Cooperation's predecessor organization in:",
+        "options": ["1947", "1955", "1969", "1973"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The headquarters of the United Nations is in:",
+        "options": ["Geneva", "New York", "Paris", "London"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of the International Monetary Fund is in:",
+        "options": ["Washington, D.C.", "New York", "Geneva", "London"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of the World Bank is in:",
+        "options": ["Paris", "Washington, D.C.", "Geneva", "Rome"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of the International Court of Justice is in:",
+        "options": ["Geneva", "The Hague", "New York", "Brussels"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of the World Health Organization is in:",
+        "options": ["Geneva", "Paris", "New York", "Vienna"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of UNESCO is in:",
+        "options": ["Paris", "London", "Rome", "Geneva"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of NATO is in:",
+        "options": ["Brussels", "Paris", "Berlin", "London"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of SAARC is in:",
+        "options": ["Islamabad", "New Delhi", "Kathmandu", "Dhaka"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "SAARC stands for:",
+        "options": ["South Asian Association for Regional Cooperation", "South Asian Alliance for Regional Commerce", "South Asia Association for Research and Cooperation", "Strategic Asian Association for Regional Cooperation"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of the Organisation of Islamic Cooperation is in:",
+        "options": ["Riyadh", "Jeddah", "Cairo", "Doha"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest continent by area is:",
+        "options": ["Africa", "Europe", "Asia", "North America"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The largest ocean on Earth is:",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The smallest continent by land area is:",
+        "options": ["Europe", "Australia", "Antarctica", "South America"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The world's highest waterfall by total height is:",
+        "options": ["Victoria Falls", "Niagara Falls", "Angel Falls", "Iguazu Falls"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The largest planet in the Solar System is:",
+        "options": ["Saturn", "Earth", "Jupiter", "Neptune"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The planet known as the Red Planet is:",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The closest planet to the Sun is:",
+        "options": ["Venus", "Mercury", "Earth", "Mars"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Earth's natural satellite is:",
+        "options": ["Mars", "Moon", "Venus", "Titan"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The chemical symbol for gold is:",
+        "options": ["Ag", "Au", "Gd", "Go"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The chemical symbol for sodium is:",
+        "options": ["S", "So", "Na", "Sd"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The chemical formula for water is:",
+        "options": ["CO₂", "H₂O", "O₂", "H₂O₂"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The gas most abundant in Earth's atmosphere is:",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The SI unit of force is:",
+        "options": ["Joule", "Watt", "Newton", "Pascal"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The SI unit of power is:",
+        "options": ["Watt", "Newton", "Joule", "Volt"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The SI unit of pressure is:",
+        "options": ["Pascal", "Newton", "Watt", "Ohm"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The speed of light in vacuum is approximately:",
+        "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The process by which green plants make food using sunlight is:",
+        "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which organ pumps blood throughout the human body?",
+        "options": ["Liver", "Lung", "Heart", "Kidney"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The largest organ of the human body is:",
+        "options": ["Liver", "Skin", "Heart", "Brain"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which vitamin is primarily produced in the skin through sunlight exposure?",
+        "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The basic unit of life is the:",
+        "options": ["Tissue", "Organ", "Cell", "Atom"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The branch of science that studies heredity is:",
+        "options": ["Genetics", "Ecology", "Geology", "Astronomy"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The study of earthquakes is called:",
+        "options": ["Seismology", "Meteorology", "Zoology", "Hydrology"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The study of weather and atmosphere is called:",
+        "options": ["Meteorology", "Geology", "Botany", "Ecology"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If 15% of 200 is calculated, the answer is:",
+        "options": ["15", "20", "30", "35"],
+        "correctAnswer": 2
+      }
+    ]
   }
 ]
