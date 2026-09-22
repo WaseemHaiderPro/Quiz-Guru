@@ -159,13 +159,14 @@ async function loadQuiz() {
 
     try {
         const quizFiles = [
-            "../data/quizzes.json",
-            "../data/education.json",
-            "../data/computer-it.json",
-            "../data/science.json",
-            "../data/general-knowledge.json",
-            "../data/weekly-quizzes.json"
-        ];
+    "../data/quizzes.json",
+    "../data/education.json",
+    "../data/computer-it.json",
+    "../data/science.json",
+    "../data/general-knowledge.json",
+    "../data/weekly-quizzes.json",
+    "../data/government-jobs.json"
+];
 
         async function loadQuizFile(file) {
             const response = await fetch(
