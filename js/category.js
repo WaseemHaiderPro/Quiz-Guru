@@ -100,6 +100,15 @@ document.addEventListener("DOMContentLoaded", function () {
         "../data/weekly-quizzes.json"
     ];
 
+} else if (
+    categoryName.toLowerCase() ===
+    "pak government jobs quizzes"
+) {
+
+    quizFiles = [
+        "../data/government-jobs.json"
+    ];
+
 } else {
 
         quizFiles = [
