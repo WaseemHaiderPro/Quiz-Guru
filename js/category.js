@@ -291,7 +291,11 @@ if (
                     escapeHTML(quiz.category) +
                 "</p>" +
                 statusHTML +
-
+(quiz.deadline || quiz.date
+    ? "<p class='quiz-deadline'>Deadline: " +
+      escapeHTML(quiz.deadline || quiz.date) +
+      "</p>"
+    : "") +
                 "<h3>" +
                     escapeHTML(quiz.title) +
                 "</h3>" +
