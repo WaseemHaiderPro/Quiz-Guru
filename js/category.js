@@ -260,28 +260,49 @@ if (
     selectedCategory ===
     "pak government jobs quizzes"
 ) {
-    const deadline =
-    quiz.quizAvailableUntil ||
-    quiz.deadline ||
-    quiz.date ||
-    "";
-    if (deadline) {
-        const deadlineDate =
-            new Date(deadline + "T23:59:59");
 
-        const now = new Date();
+    const availableFrom =
+        quiz.quizAvailableFrom ||
+        "";
 
-        if (now > deadlineDate) {
-            statusHTML =
-                "<span class='quiz-status past'>" +
-                "Past Paper / Old Quiz" +
-                "</span>";
-        } else {
-            statusHTML =
-                "<span class='quiz-status active'>" +
-                "Active / Upcoming" +
-                "</span>";
-        }
+    const availableUntil =
+        quiz.quizAvailableUntil ||
+        "";
+
+    const now = new Date();
+
+    if (
+        availableUntil &&
+        now >
+        new Date(
+            availableUntil + "T23:59:59"
+        )
+    ) {
+
+        statusHTML =
+            "<span class='quiz-status past'>" +
+            "Past Paper / Old Quiz" +
+            "</span>";
+
+    } else if (
+        availableFrom &&
+        now <
+        new Date(
+            availableFrom + "T00:00:00"
+        )
+    ) {
+
+        statusHTML =
+            "<span class='quiz-status active'>" +
+            "Upcoming" +
+            "</span>";
+
+    } else {
+
+        statusHTML =
+            "<span class='quiz-status active'>" +
+            "Active" +
+            "</span>";
     }
 }
 
