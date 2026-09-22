@@ -295,8 +295,14 @@ if (
                 "</p>" +
                 statusHTML +
 (quiz.deadline || quiz.date
-    ? "<p class='quiz-deadline'>Deadline: " +
+    ? "<p class='quiz-deadline'>Application Deadline: " +
       escapeHTML(quiz.deadline || quiz.date) +
+      "</p>"
+    : "") +
+
+(quiz.quizAvailableUntil
+    ? "<p class='quiz-deadline'>Quiz Available Until: " +
+      escapeHTML(quiz.quizAvailableUntil) +
       "</p>"
     : "") +
                 "<h3>" +
