@@ -254,6 +254,33 @@ document.addEventListener("DOMContentLoaded", function () {
                 Array.isArray(quiz.questions)
                     ? quiz.questions.length
                     : 0;
+            let statusHTML = "";
+
+if (
+    selectedCategory ===
+    "pak government jobs quizzes"
+) {
+    const deadline = quiz.deadline || quiz.date || "";
+
+    if (deadline) {
+        const deadlineDate =
+            new Date(deadline + "T23:59:59");
+
+        const now = new Date();
+
+        if (now > deadlineDate) {
+            statusHTML =
+                "<span class='quiz-status past'>" +
+                "Past Paper / Old Quiz" +
+                "</span>";
+        } else {
+            statusHTML =
+                "<span class='quiz-status active'>" +
+                "Active / Upcoming" +
+                "</span>";
+        }
+    }
+}
 
 
             card.innerHTML =
@@ -263,6 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "<p class='quiz-category'>" +
                     escapeHTML(quiz.category) +
                 "</p>" +
+                statusHTML +
 
                 "<h3>" +
                     escapeHTML(quiz.title) +
