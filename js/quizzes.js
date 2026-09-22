@@ -241,9 +241,11 @@ async function loadQuiz() {
             selectedQuiz = quizzes[0];
         }
 
-        /* -----------------------------------------------------
-   CHECK GOVERNMENT JOB QUIZ AVAILABILITY
+       /* -----------------------------------------------------
+   GOVERNMENT JOB QUIZ STATUS
 ----------------------------------------------------- */
+
+let governmentJobStatus = "";
 
 if (
     String(selectedQuiz.category || "")
@@ -266,11 +268,11 @@ if (
         const now = new Date();
 
         if (now > availableUntilDate) {
-
-            throw new Error(
-                "This quiz is now an old/past paper."
-            );
-
+            governmentJobStatus =
+                "Past Paper / Old Quiz";
+        } else {
+            governmentJobStatus =
+                "Active / Upcoming";
         }
     }
 }
