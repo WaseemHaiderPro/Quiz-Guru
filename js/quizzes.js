@@ -411,6 +411,18 @@ const nextButton = getElement("nextButton");
         "Quiz";
 }
 
+    if (
+    governmentJobStatus &&
+    String(quiz.category || "")
+        .trim()
+        .toLowerCase() ===
+        "pak government jobs quizzes"
+) {
+    quizName.textContent =
+        quiz.title +
+        " — " +
+        governmentJobStatus;
+}
 if (questionCount) {
     questionCount.textContent =
         "Question " +
