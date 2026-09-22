@@ -242,6 +242,40 @@ async function loadQuiz() {
         }
 
         /* -----------------------------------------------------
+   CHECK GOVERNMENT JOB QUIZ AVAILABILITY
+----------------------------------------------------- */
+
+if (
+    String(selectedQuiz.category || "")
+        .trim()
+        .toLowerCase() ===
+    "pak government jobs quizzes"
+) {
+
+    const availableUntil =
+        selectedQuiz.quizAvailableUntil ||
+        "";
+
+    if (availableUntil) {
+
+        const availableUntilDate =
+            new Date(
+                availableUntil + "T23:59:59"
+            );
+
+        const now = new Date();
+
+        if (now > availableUntilDate) {
+
+            throw new Error(
+                "This quiz is now an old/past paper."
+            );
+
+        }
+    }
+}
+        
+        /* -----------------------------------------------------
            CHECK QUESTIONS
         ----------------------------------------------------- */
 
