@@ -260,8 +260,11 @@ if (
     selectedCategory ===
     "pak government jobs quizzes"
 ) {
-    const deadline = quiz.deadline || quiz.date || "";
-
+    const deadline =
+    quiz.quizAvailableUntil ||
+    quiz.deadline ||
+    quiz.date ||
+    "";
     if (deadline) {
         const deadlineDate =
             new Date(deadline + "T23:59:59");
