@@ -4502,4 +4502,22 @@ body.dark-mode main .section .section-kicker {
 body.dark-mode main .section .view-link {
     color: #cbd5e1 !important;
 }
+   .quiz-status {
+    display: inline-block;
+    margin: 8px 0 10px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.quiz-status.active {
+    background: #e8f7ee;
+    color: #16803c;
+}
+
+.quiz-status.past {
+    background: #f1f1f1;
+    color: #666;
+}
 }
