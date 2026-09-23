@@ -67,7 +67,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "data/education.json",
     "data/computer-it.json",
     "data/science.json",
-    "data/general-knowledge.json"
+    "data/general-knowledge.json",
+    "data/government-jobs.json"
 ];
 
 
