@@ -510,16 +510,32 @@ const nextButton = getElement("nextButton");
 }
 
     if (
-    governmentJobStatus &&
     String(quiz.category || "")
         .trim()
         .toLowerCase() ===
         "pak government jobs quizzes"
 ) {
-    quizName.textContent =
-        quiz.title +
-        " — " +
-        governmentJobStatus;
+    const availableUntil =
+        quiz.quizAvailableUntil || "";
+
+    if (availableUntil) {
+        const availableUntilDate =
+            new Date(
+                availableUntil + "T23:59:59"
+            );
+
+        const now = new Date();
+
+        const status =
+            now > availableUntilDate
+                ? "Past Paper / Old Quiz"
+                : "Active / Upcoming";
+
+        quizName.textContent =
+            quiz.title +
+            " — " +
+            status;
+    }
 }
 if (questionCount) {
     questionCount.textContent =
