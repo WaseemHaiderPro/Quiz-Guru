@@ -337,40 +337,50 @@ async function loadQuiz() {
             selectedQuiz = quizzes[0];
         }
 
-       /* -----------------------------------------------------
+      /* -----------------------------------------------------
    GOVERNMENT JOB QUIZ STATUS
 ----------------------------------------------------- */
 
-let governmentJobStatus = "";
-
 if (
-    String(selectedQuiz.category || "")
+    String(quiz.category || "")
         .trim()
         .toLowerCase() ===
     "pak government jobs quizzes"
 ) {
+    const availableFrom =
+        quiz.quizAvailableFrom || "";
 
     const availableUntil =
-        selectedQuiz.quizAvailableUntil ||
-        "";
+        quiz.quizAvailableUntil || "";
 
-    if (availableUntil) {
+    const now = new Date();
 
-        const availableUntilDate =
-            new Date(
-                availableUntil + "T23:59:59"
-            );
+    let status = "";
 
-        const now = new Date();
-
-        if (now > availableUntilDate) {
-            governmentJobStatus =
-                "Past Paper / Old Quiz";
-        } else {
-            governmentJobStatus =
-                "Active / Upcoming";
-        }
+    if (
+        availableFrom &&
+        now <
+        new Date(
+            availableFrom + "T00:00:00"
+        )
+    ) {
+        status = "Upcoming";
+    } else if (
+        availableUntil &&
+        now >
+        new Date(
+            availableUntil + "T23:59:59"
+        )
+    ) {
+        status = "Past Paper / Old Quiz";
+    } else {
+        status = "Active";
     }
+
+    quizName.textContent =
+        quiz.title +
+        " — " +
+        status;
 }
         
         /* -----------------------------------------------------
