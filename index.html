@@ -1291,7 +1291,53 @@
     <script src="js/test-average.js"></script>
 <script src="js/app.js"></script>
 <script src="js/theme.js"></script>
+<!-- Government Jobs Popup -->
+<div id="govJobsPopup" class="gov-jobs-popup">
+    <div class="gov-jobs-popup-content">
+        <button
+            class="gov-jobs-popup-close"
+            onclick="closeGovJobsPopup()"
+        >
+            ×
+        </button>
 
+        <h2>Government Jobs Quizzes</h2>
+
+        <p>
+            Prepare for FPSC, CSS and other Pakistan government job exams
+            with practice quizzes.
+        </p>
+
+        <a
+            href="pages/category.html?category=Pak%20Government%20Jobs%20Quizzes"
+            class="gov-jobs-popup-btn"
+        >
+            Explore Government Jobs Quizzes
+        </a>
+    </div>
+</div>
+
+<script>
+function closeGovJobsPopup() {
+    const popup =
+        document.getElementById("govJobsPopup");
+
+    if (popup) {
+        popup.style.display = "none";
+    }
+}
+
+window.addEventListener("load", function () {
+    const popup =
+        document.getElementById("govJobsPopup");
+
+    if (popup) {
+        setTimeout(function () {
+            popup.style.display = "flex";
+        }, 800);
+    }
+});
+</script>
 
 </body>
 
