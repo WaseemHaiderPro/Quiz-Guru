@@ -337,37 +337,7 @@ async function loadQuiz() {
             selectedQuiz = quizzes[0];
         }
 
-     /* -----------------------------------------------------
-   GOVERNMENT JOB QUIZ STATUS
------------------------------------------------------ */
-
-if (
-    String(quiz.category || "")
-        .trim()
-        .toLowerCase() ===
-    "pak government jobs quizzes"
-) {
-    const availableUntil =
-        quiz.quizAvailableUntil || "";
-
-    if (availableUntil) {
-        const availableUntilDate =
-            new Date(
-                availableUntil + "T23:59:59"
-            );
-
-        const now = new Date();
-
-        const status =
-            now > availableUntilDate
-                ? "Past Paper / Old Quiz"
-                : "Active / Upcoming";
-
-        quizName.textContent =
-            quiz.title +
-            " — " +
-            status;
-    }
+     
 
         
         /* -----------------------------------------------------
