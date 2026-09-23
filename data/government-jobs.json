@@ -567,3 +567,1136 @@
     ]
   }
 ]
+[
+  {
+    "id": "kppsc-pms-2026",
+    "title": "KPPSC PMS 2026 Preparation Quiz — 112 MCQs",
+    "category": "Pak Government Jobs Quizzes",
+    "description": "112 practice MCQs for KPPSC Provincial Management Service PMS preparation covering Pakistan Affairs, General Knowledge, Geography, Everyday Science, Civics, Economics, public administration fundamentals and official PMS syllabus facts.",
+    "difficulty": "Hard",
+    "deadline": "2026-12-31",
+    "quizAvailableUntil": "2027-12-31",
+    "questions": [
+      {
+        "question": "Which document is the supreme law of Pakistan?",
+        "options": [
+          "The Constitution",
+          "Pakistan Penal Code",
+          "Rules of Business",
+          "Objectives Resolution"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pakistan's Parliament is:",
+        "options": [
+          "Unicameral",
+          "Bicameral",
+          "Tricameral",
+          "Confederal"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The upper house of Parliament is the:",
+        "options": [
+          "National Assembly",
+          "Senate",
+          "Cabinet",
+          "Council of Ministers"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The lower house of Parliament is the:",
+        "options": [
+          "Senate",
+          "National Assembly",
+          "Federal Shura",
+          "Council of State"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Objectives Resolution was passed in:",
+        "options": [
+          "1947",
+          "1948",
+          "1949",
+          "1951"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Pakistan joined the United Nations in:",
+        "options": [
+          "1947",
+          "1948",
+          "1949",
+          "1950"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The first Governor-General of Pakistan was:",
+        "options": [
+          "Liaquat Ali Khan",
+          "Muhammad Ali Jinnah",
+          "Khawaja Nazimuddin",
+          "Iskander Mirza"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The first Prime Minister of Pakistan was:",
+        "options": [
+          "Muhammad Ali Jinnah",
+          "Liaquat Ali Khan",
+          "Khawaja Nazimuddin",
+          "Ibrahim Ismail Chundrigar"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Lahore Resolution was passed in:",
+        "options": [
+          "1930",
+          "1935",
+          "1940",
+          "1947"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Lahore Resolution was presented by:",
+        "options": [
+          "Muhammad Ali Jinnah",
+          "A. K. Fazlul Huq",
+          "Liaquat Ali Khan",
+          "Chaudhry Khaliquzzaman"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The All-India Muslim League was founded in:",
+        "options": [
+          "1905",
+          "1906",
+          "1907",
+          "1909"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Muslim League was founded at:",
+        "options": [
+          "Lahore",
+          "Karachi",
+          "Dhaka",
+          "Aligarh"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Allama Iqbal delivered the Allahabad Address in:",
+        "options": [
+          "1928",
+          "1930",
+          "1932",
+          "1935"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Lucknow Pact was signed in:",
+        "options": [
+          "1911",
+          "1916",
+          "1920",
+          "1927"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Government of India Act that introduced provincial autonomy was enacted in:",
+        "options": [
+          "1919",
+          "1935",
+          "1947",
+          "1956"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pakistan's first constitution came into force in:",
+        "options": [
+          "1956",
+          "1958",
+          "1962",
+          "1973"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Constitution of 1973 established Pakistan as a:",
+        "options": [
+          "Parliamentary federation",
+          "Unitary monarchy",
+          "Presidential confederation",
+          "Military federation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The national language of Pakistan is:",
+        "options": [
+          "English",
+          "Punjabi",
+          "Urdu",
+          "Arabic"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The largest province of Pakistan by area is:",
+        "options": [
+          "Punjab",
+          "Sindh",
+          "Khyber Pakhtunkhwa",
+          "Balochistan"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "The federal capital of Pakistan is:",
+        "options": [
+          "Lahore",
+          "Karachi",
+          "Islamabad",
+          "Peshawar"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Khyber Pass connects Pakistan with:",
+        "options": [
+          "Iran",
+          "Afghanistan",
+          "China",
+          "India"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Indus River originates in the region of:",
+        "options": [
+          "Tibet",
+          "Balochistan",
+          "Punjab",
+          "Sindh"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Tarbela Dam is built on the:",
+        "options": [
+          "Jhelum",
+          "Chenab",
+          "Indus",
+          "Ravi"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Mangla Dam is built on the:",
+        "options": [
+          "Indus",
+          "Jhelum",
+          "Ravi",
+          "Sutlej"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest desert in Pakistan is:",
+        "options": [
+          "Thar",
+          "Cholistan",
+          "Kharan",
+          "Thal"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The highest mountain in Pakistan is:",
+        "options": [
+          "Nanga Parbat",
+          "K2",
+          "Tirich Mir",
+          "Rakaposhi"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "K2 is part of the:",
+        "options": [
+          "Himalayas",
+          "Karakoram",
+          "Hindu Kush",
+          "Sulaiman Range"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Durand Line separates Pakistan from:",
+        "options": [
+          "India",
+          "China",
+          "Afghanistan",
+          "Iran"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Indus Waters Treaty was signed in:",
+        "options": [
+          "1958",
+          "1960",
+          "1965",
+          "1972"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Indus Waters Treaty was brokered by the:",
+        "options": [
+          "United Nations",
+          "World Bank",
+          "IMF",
+          "ADB"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of the United Nations is in:",
+        "options": [
+          "Geneva",
+          "New York",
+          "Paris",
+          "Vienna"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of WHO is in:",
+        "options": [
+          "New York",
+          "Geneva",
+          "Paris",
+          "Rome"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of UNESCO is in:",
+        "options": [
+          "Paris",
+          "Geneva",
+          "London",
+          "Vienna"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of the IMF is in:",
+        "options": [
+          "Geneva",
+          "Washington, D.C.",
+          "New York",
+          "London"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of the World Bank is in:",
+        "options": [
+          "Washington, D.C.",
+          "New York",
+          "Geneva",
+          "Paris"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of the International Court of Justice is in:",
+        "options": [
+          "Geneva",
+          "The Hague",
+          "New York",
+          "Brussels"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of NATO is in:",
+        "options": [
+          "Brussels",
+          "Paris",
+          "Berlin",
+          "Rome"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The headquarters of the OIC is in:",
+        "options": [
+          "Cairo",
+          "Jeddah",
+          "Riyadh",
+          "Doha"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of SAARC is in:",
+        "options": [
+          "Islamabad",
+          "Kathmandu",
+          "Dhaka",
+          "Colombo"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "SAARC was established in:",
+        "options": [
+          "1980",
+          "1985",
+          "1990",
+          "1995"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The currency of Japan is:",
+        "options": [
+          "Won",
+          "Yuan",
+          "Yen",
+          "Ringgit"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The capital of China is:",
+        "options": [
+          "Shanghai",
+          "Beijing",
+          "Guangzhou",
+          "Shenzhen"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The capital of Afghanistan is:",
+        "options": [
+          "Kandahar",
+          "Herat",
+          "Kabul",
+          "Mazar-i-Sharif"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The capital of Iran is:",
+        "options": [
+          "Tehran",
+          "Isfahan",
+          "Mashhad",
+          "Shiraz"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The capital of Turkey is:",
+        "options": [
+          "Istanbul",
+          "Ankara",
+          "Izmir",
+          "Bursa"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The capital of Australia is:",
+        "options": [
+          "Sydney",
+          "Melbourne",
+          "Canberra",
+          "Perth"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The capital of Canada is:",
+        "options": [
+          "Toronto",
+          "Ottawa",
+          "Vancouver",
+          "Montreal"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The capital of Brazil is:",
+        "options": [
+          "Rio de Janeiro",
+          "São Paulo",
+          "Brasília",
+          "Salvador"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The largest ocean is the:",
+        "options": [
+          "Atlantic",
+          "Indian",
+          "Pacific",
+          "Arctic"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The smallest ocean is the:",
+        "options": [
+          "Indian",
+          "Arctic",
+          "Atlantic",
+          "Southern"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest continent by area is:",
+        "options": [
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The smallest continent by area is:",
+        "options": [
+          "Europe",
+          "Australia",
+          "South America",
+          "Antarctica"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The longest river in Africa is the:",
+        "options": [
+          "Congo",
+          "Niger",
+          "Nile",
+          "Zambezi"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The largest hot desert is the:",
+        "options": [
+          "Gobi",
+          "Arabian",
+          "Sahara",
+          "Kalahari"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Gobi Desert is mainly in:",
+        "options": [
+          "India and Pakistan",
+          "China and Mongolia",
+          "Iran and Iraq",
+          "Kazakhstan and Uzbekistan"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The ozone layer is mainly in the:",
+        "options": [
+          "Troposphere",
+          "Stratosphere",
+          "Mesosphere",
+          "Thermosphere"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The most abundant gas in Earth's atmosphere is:",
+        "options": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Argon"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The chemical symbol for sodium is:",
+        "options": [
+          "So",
+          "Na",
+          "S",
+          "Sn"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The chemical symbol for potassium is:",
+        "options": [
+          "P",
+          "Po",
+          "K",
+          "Pt"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The atomic number of carbon is:",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "12"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Water boils at sea level at:",
+        "options": [
+          "90°C",
+          "100°C",
+          "110°C",
+          "120°C"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The SI unit of force is:",
+        "options": [
+          "Joule",
+          "Watt",
+          "Newton",
+          "Pascal"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The SI unit of power is:",
+        "options": [
+          "Watt",
+          "Joule",
+          "Newton",
+          "Volt"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The SI unit of pressure is:",
+        "options": [
+          "Pascal",
+          "Newton",
+          "Joule",
+          "Ohm"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The speed of light in vacuum is approximately:",
+        "options": [
+          "3 × 10^6 m/s",
+          "3 × 10^7 m/s",
+          "3 × 10^8 m/s",
+          "3 × 10^9 m/s"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Green plants make food mainly through:",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Transpiration",
+          "Fermentation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The organ primarily responsible for pumping blood is the:",
+        "options": [
+          "Liver",
+          "Kidney",
+          "Heart",
+          "Lung"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The basic unit of life is the:",
+        "options": [
+          "Tissue",
+          "Organ",
+          "Cell",
+          "Molecule"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sunlight helps human skin produce:",
+        "options": [
+          "Vitamin A",
+          "Vitamin B12",
+          "Vitamin C",
+          "Vitamin D"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Vitamin C deficiency causes:",
+        "options": [
+          "Rickets",
+          "Scurvy",
+          "Beriberi",
+          "Night blindness"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Vitamin D deficiency commonly causes:",
+        "options": [
+          "Scurvy",
+          "Rickets",
+          "Pellagra",
+          "Goitre"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest organ of the human body is the:",
+        "options": [
+          "Liver",
+          "Skin",
+          "Lung",
+          "Brain"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A normal human somatic cell contains:",
+        "options": [
+          "23 chromosomes",
+          "44 chromosomes",
+          "46 chromosomes",
+          "48 chromosomes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The study of earthquakes is called:",
+        "options": [
+          "Ecology",
+          "Seismology",
+          "Meteorology",
+          "Hydrology"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The study of weather is called:",
+        "options": [
+          "Geology",
+          "Meteorology",
+          "Astronomy",
+          "Botany"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The study of fossils is called:",
+        "options": [
+          "Paleontology",
+          "Pathology",
+          "Physiology",
+          "Pedology"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The SI unit of electrical resistance is:",
+        "options": [
+          "Volt",
+          "Ampere",
+          "Ohm",
+          "Watt"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A device that converts chemical energy into electrical energy is a:",
+        "options": [
+          "Transformer",
+          "Battery",
+          "Motor",
+          "Generator"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The law of universal gravitation was formulated by:",
+        "options": [
+          "Einstein",
+          "Newton",
+          "Galileo",
+          "Faraday"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The theory of relativity is associated with:",
+        "options": [
+          "Newton",
+          "Einstein",
+          "Maxwell",
+          "Bohr"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The headquarters of the Asian Development Bank is in:",
+        "options": [
+          "Manila",
+          "Tokyo",
+          "Bangkok",
+          "Jakarta"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The common currency used by many EU member states is the:",
+        "options": [
+          "Pound",
+          "Euro",
+          "Franc",
+          "Krone"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Prime Meridian passes through:",
+        "options": [
+          "Paris",
+          "Greenwich",
+          "Rome",
+          "Madrid"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The largest planet in the solar system is:",
+        "options": [
+          "Earth",
+          "Saturn",
+          "Jupiter",
+          "Neptune"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Red Planet is:",
+        "options": [
+          "Venus",
+          "Mars",
+          "Mercury",
+          "Jupiter"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Earth's natural satellite is the:",
+        "options": [
+          "Sun",
+          "Moon",
+          "Mars",
+          "Venus"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Conversion of liquid into vapor is called:",
+        "options": [
+          "Condensation",
+          "Evaporation",
+          "Freezing",
+          "Sublimation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The branch of government responsible for interpreting laws is the:",
+        "options": [
+          "Executive",
+          "Legislature",
+          "Judiciary",
+          "Election Commission"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The branch responsible for implementing laws is the:",
+        "options": [
+          "Judiciary",
+          "Executive",
+          "Legislature",
+          "Audit authority"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The branch responsible for making laws is the:",
+        "options": [
+          "Executive",
+          "Judiciary",
+          "Legislature",
+          "Civil service"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In a parliamentary system, the cabinet is generally responsible to the:",
+        "options": [
+          "Judiciary",
+          "Legislature",
+          "Election Commission",
+          "Military"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A budget deficit occurs when:",
+        "options": [
+          "Revenue exceeds expenditure",
+          "Expenditure exceeds revenue",
+          "Exports exceed imports",
+          "Savings exceed investment"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Inflation means a sustained increase in the:",
+        "options": [
+          "General price level",
+          "Population only",
+          "Exchange rate only",
+          "Export volume only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "GDP measures the value of:",
+        "options": [
+          "Only government spending",
+          "Final goods and services produced within an economy",
+          "Only exports",
+          "Only agricultural output"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Opportunity cost is the:",
+        "options": [
+          "Money spent only",
+          "Next best alternative forgone",
+          "Total benefit received",
+          "Tax paid"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The principle that people respond to incentives is central to:",
+        "options": [
+          "Economics",
+          "Geology",
+          "Linguistics",
+          "Astronomy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The basic purpose of a constitution is to:",
+        "options": [
+          "Set rules for organization and exercise of state power",
+          "Replace all ordinary laws",
+          "Eliminate elections",
+          "Control weather"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A referendum is a vote on a:",
+        "options": [
+          "Judicial appointment only",
+          "Specific public question or proposal",
+          "Military promotion",
+          "Private contract"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Rule of law broadly means:",
+        "options": [
+          "Only officials are subject to law",
+          "Law applies according to established legal principles, including to those governing",
+          "Courts make all policy",
+          "Elections are unnecessary"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Public administration primarily concerns:",
+        "options": [
+          "Management and implementation of public policies and services",
+          "Study of stars",
+          "Private family law",
+          "Consumer electronics"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Accountability in public administration primarily means:",
+        "options": [
+          "Freedom from scrutiny",
+          "Being answerable for decisions and actions",
+          "Avoiding documentation",
+          "Eliminating oversight"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Merit-based recruitment primarily aims to select candidates according to:",
+        "options": [
+          "Personal connections",
+          "Relevant qualifications and demonstrated ability",
+          "Family background",
+          "Geographic preference alone"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The aggregate qualifying marks for written papers under the KPPSC PMS syllabus are:",
+        "options": [
+          "500",
+          "600",
+          "700",
+          "900"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The KPPSC PMS syllabus specifies how many optional subjects a candidate must select?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Under the KPPSC PMS syllabus, the optional subjects together carry:",
+        "options": [
+          "300 marks",
+          "400 marks",
+          "500 marks",
+          "600 marks"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Under the KPPSC PMS syllabus, the English Précis & Composition paper carries:",
+        "options": [
+          "50 marks",
+          "75 marks",
+          "100 marks",
+          "150 marks"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Under the KPPSC PMS syllabus, English Essay carries:",
+        "options": [
+          "50 marks",
+          "100 marks",
+          "150 marks",
+          "200 marks"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Under the KPPSC PMS syllabus, General Knowledge includes Current Affairs, Everyday Science and:",
+        "options": [
+          "Public Administration",
+          "Pakistan Affairs",
+          "Constitutional Law",
+          "Economics"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Under the KPPSC PMS syllabus, Islamiat carries:",
+        "options": [
+          "50 marks",
+          "75 marks",
+          "100 marks",
+          "150 marks"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The KPPSC PMS syllabus states that the Islamiat paper may be answered in:",
+        "options": [
+          "Urdu or English",
+          "English only",
+          "Urdu only",
+          "Any regional language"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The KPPSC PMS syllabus states that all other papers, apart from language papers and Islamiat as specified, must be answered in:",
+        "options": [
+          "English",
+          "Urdu",
+          "Pashto",
+          "Any language"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The KPPSC PMS syllabus requires at least what percentage in each optional subject before a candidate can be summoned for viva voce?",
+        "options": [
+          "25%",
+          "30%",
+          "33%",
+          "40%"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  }
+]
