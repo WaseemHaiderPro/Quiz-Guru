@@ -152,6 +152,75 @@ function getQuiz() {
     return quizData;
 }
 /* =========================================================
+   QUIZ SEO
+========================================================= */
+
+function updateQuizSEO() {
+    const quiz = getQuiz();
+
+    if (!quiz) {
+        return;
+    }
+
+    const quizTitle =
+        String(quiz.title || "Quiz Guru Quiz").trim();
+
+    const quizDescription =
+        String(
+            quiz.description ||
+            "Take this interactive quiz on Quiz Guru and test your knowledge."
+        ).trim();
+
+    const quizId =
+        String(quiz.id || "").trim();
+
+    /* Page title */
+    document.title =
+        quizTitle + " - Quiz Guru";
+
+    /* Meta description */
+    const metaDescription =
+        document.getElementById("metaDescription");
+
+    if (metaDescription) {
+        metaDescription.setAttribute(
+            "content",
+            quizDescription
+        );
+    }
+
+    /* Canonical URL */
+    const canonical =
+        document.querySelector(
+            'link[rel="canonical"]'
+        );
+
+    if (canonical && quizId) {
+        canonical.setAttribute(
+            "href",
+            "https://quiz-guru.pages.dev/pages/quiz.html?quiz=" +
+            encodeURIComponent(quizId)
+        );
+    }
+
+    /* Quiz JSON-LD */
+    const quizSchema =
+        document.querySelector(
+            'script[type="application/ld+json"]'
+        );
+
+    if (quizSchema) {
+        quizSchema.textContent =
+            JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Quiz",
+                "name": quizTitle,
+                "description": quizDescription
+            });
+    }
+}
+
+/* =========================================================
    GOVERNMENT JOB QUIZ TIMER
 ========================================================= */
 
@@ -436,6 +505,7 @@ currentQuestion = 0;
 score = 0;
 answered = false;
 
+updateQuizSEO();
 startQuizTimer();
 
 showQuestion();
