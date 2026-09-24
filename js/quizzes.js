@@ -376,6 +376,38 @@ async function loadQuiz() {
                 "No quizzes were found."
             );
         }
+                /* -----------------------------------------------------
+           LOAD DAILY QUIZ
+        ----------------------------------------------------- */
+
+        if (quizId && quizId.toLowerCase().startsWith("daily-")) {
+            const dailyQuizData =
+                sessionStorage.getItem("quizGuruDailyQuiz");
+
+            if (!dailyQuizData) {
+                throw new Error(
+                    "Today's Daily Quiz is not available. Please return to the homepage and try again."
+                );
+            }
+
+            try {
+                selectedQuiz = JSON.parse(dailyQuizData);
+            } catch (error) {
+                throw new Error(
+                    "Today's Daily Quiz could not be loaded."
+                );
+            }
+
+            if (
+                !selectedQuiz ||
+                !Array.isArray(selectedQuiz.questions) ||
+                selectedQuiz.questions.length !== 10
+            ) {
+                throw new Error(
+                    "Today's Daily Quiz does not contain exactly 10 questions."
+                );
+            }
+        }
 
         let selectedQuiz = null;
 
