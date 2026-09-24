@@ -813,3 +813,107 @@ searchInput.addEventListener(
         );
 
 });
+// =========================
+// DAILY QUIZ
+// =========================
+
+async function setupDailyQuiz() {
+    const button = document.getElementById("dailyQuizButton");
+    const dateElement = document.getElementById("dailyQuizDate");
+
+    if (!button || !dateElement) return;
+
+    const today = new Date();
+    const dateKey =
+        today.getFullYear() +
+        "-" +
+        String(today.getMonth() + 1).padStart(2, "0") +
+        "-" +
+        String(today.getDate()).padStart(2, "0");
+
+    dateElement.textContent = today.toLocaleDateString("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric"
+    });
+
+    try {
+        const response = await fetch("data/quizzes.json", {
+            cache: "no-store"
+        });
+
+        if (!response.ok) {
+            throw new Error("Could not load quiz data.");
+        }
+
+        const data = await response.json();
+
+        const quizzes = Array.isArray(data)
+            ? data
+            : Array.isArray(data.quizzes)
+                ? data.quizzes
+                : [];
+
+        const questions = [];
+
+        quizzes.forEach(quiz => {
+            if (Array.isArray(quiz.questions)) {
+                quiz.questions.forEach(question => {
+                    questions.push({
+                        ...question,
+                        sourceQuiz: quiz.id,
+                        sourceTitle: quiz.title
+                    });
+                });
+            }
+        });
+
+        if (questions.length < 10) {
+            button.href = "pages/all-quizzes.html";
+            return;
+        }
+
+        // Same 10 questions for everyone on the same date.
+        let seed = 0;
+
+        for (let i = 0; i < dateKey.length; i++) {
+            seed = ((seed << 5) - seed) + dateKey.charCodeAt(i);
+            seed |= 0;
+        }
+
+        seed = Math.abs(seed);
+
+        const shuffled = [...questions];
+
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            seed = (seed * 9301 + 49297) % 233280;
+            const j = Math.floor((seed / 233280) * (i + 1));
+
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+
+        const dailyQuestions = shuffled.slice(0, 10);
+
+        const dailyQuiz = {
+            id: "daily-" + dateKey,
+            title: "Quiz Guru Daily Quiz — " + dateKey,
+            category: "Daily Quiz",
+            description: "10 fresh questions selected for today's Daily Quiz.",
+            difficulty: "Medium",
+            questions: dailyQuestions
+        };
+
+        sessionStorage.setItem(
+            "quizGuruDailyQuiz",
+            JSON.stringify(dailyQuiz)
+        );
+
+        button.href = "pages/quiz.html?quiz=daily-" + dateKey;
+
+    } catch (error) {
+        console.error("Daily Quiz error:", error);
+        button.href = "pages/all-quizzes.html";
+    }
+}
+
+window.addEventListener("load", setupDailyQuiz);
