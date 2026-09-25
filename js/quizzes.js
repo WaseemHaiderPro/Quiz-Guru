@@ -415,7 +415,7 @@ async function loadQuiz() {
            FIND QUIZ BY URL ID
         ----------------------------------------------------- */
 
-        if (quizId) {
+        if (quizId && !quizId.toLowerCase().startsWith("daily-")) {
             selectedQuiz = quizzes.find(function (quiz) {
                 return (
                     String(quiz.id || "")
