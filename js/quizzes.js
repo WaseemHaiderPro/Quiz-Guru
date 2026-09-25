@@ -382,7 +382,7 @@ async function loadQuiz() {
 
         if (quizId && quizId.toLowerCase().startsWith("daily-")) {
             const dailyQuizData =
-                sessionStorage.getItem("quizGuruDailyQuiz");
+                localStorage.getItem("quizGuruDailyQuiz");
 
             if (!dailyQuizData) {
                 throw new Error(
