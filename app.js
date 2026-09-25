@@ -903,10 +903,10 @@ async function setupDailyQuiz() {
             questions: dailyQuestions
         };
 
-        sessionStorage.setItem(
-            "quizGuruDailyQuiz",
-            JSON.stringify(dailyQuiz)
-        );
+       localStorage.setItem(
+    "quizGuruDailyQuiz",
+    JSON.stringify(dailyQuiz)
+);
 
         button.href = "pages/quiz.html?quiz=daily-" + dateKey;
 
