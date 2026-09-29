@@ -1696,5 +1696,1030 @@
         "correctAnswer": 2
       }
     ]
+  },
+  [
+  {
+    "id": "cfo-accounts-officer-gwadar-shipyard-2026",
+    "title": "CFO / Accounts Officer — Gwadar Shipyard-MoDP Preparation Quiz — 100 MCQs",
+    "category": "Pak Government Jobs Quizzes",
+    "description": "100 hard practice MCQs for the CFO / Accounts Officer position at Project Management Cell-Gwadar Shipyard-MoDP, covering accounting, financial analysis, budgeting, auditing, public finance management, General Financial Rules, ERP/SAP, E-AAA, e-Office, IPAS, Excel and practical financial-control scenarios.",
+    "difficulty": "Hard",
+    "jobTitle": "CFO/ Accounts Officer",
+    "organization": "Project Management Cell-Gwadar Shipyard-MoDP",
+    "grade": "PPS-7",
+    "jobType": "Contract",
+    "vacancies": 1,
+    "qualification": "Master degree in Finance/Accounting (preferably CA)",
+    "experience": "At least 10 years",
+    "ageLimit": "Max: 50 years",
+    "testCities": [
+      "Rawalpindi"
+    ],
+    "deadline": "2026-09-29",
+    "quizAvailableUntil": "2027-09-29",
+    "sourceUrl": "https://www.njp.gov.pk/jobs/9656",
+    "questions": [
+      {
+        "question": "Which financial statement primarily reports an entity's assets, liabilities and equity at a specific date?",
+        "options": [
+          "Income statement",
+          "Statement of financial position",
+          "Cash flow statement",
+          "Statement of changes in equity"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If current assets are Rs. 12 million and current liabilities are Rs. 8 million, the current ratio is:",
+        "options": [
+          "0.67:1",
+          "1.0:1",
+          "1.5:1",
+          "2.0:1"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Under accrual accounting, revenue is generally recognized when it is:",
+        "options": [
+          "Collected in cash",
+          "Earned under the applicable recognition criteria",
+          "Invoiced only",
+          "Deposited in the bank"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which account normally carries a credit balance?",
+        "options": [
+          "Accounts receivable",
+          "Inventory",
+          "Accounts payable",
+          "Prepaid expense"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Depreciation is best described as:",
+        "options": [
+          "A cash expense paid each year",
+          "Systematic allocation of a depreciable amount over useful life",
+          "A valuation reserve equal to market value",
+          "A liability settlement"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A trial balance is mainly used to:",
+        "options": [
+          "Prove that no fraud exists",
+          "Check the arithmetical equality of debit and credit balances",
+          "Prepare bank statements",
+          "Calculate tax automatically"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A bank reconciliation primarily identifies differences between:",
+        "options": [
+          "Revenue and profit",
+          "Cash book and bank statement balances",
+          "Assets and liabilities",
+          "Budget and actual profit only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If an expense is incurred but not yet paid, it is generally recorded as:",
+        "options": [
+          "Prepaid expense",
+          "Accrued expense and payable",
+          "Unearned revenue",
+          "Capital reserve"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A provision is generally recognized when there is:",
+        "options": [
+          "Only a remote possibility of loss",
+          "A present obligation, probable outflow and a reliable estimate",
+          "A guaranteed future profit",
+          "No obligation at all"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Working capital equals:",
+        "options": [
+          "Non-current assets minus equity",
+          "Current assets minus current liabilities",
+          "Revenue minus expenses",
+          "Cash minus inventory"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Gross profit is normally:",
+        "options": [
+          "Revenue minus cost of sales",
+          "Revenue minus all operating and finance costs",
+          "Assets minus liabilities",
+          "Cash receipts minus cash payments"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "EBIT is profit before:",
+        "options": [
+          "Revenue and cost of sales",
+          "Interest and tax",
+          "Depreciation and amortization only",
+          "Working capital"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A higher inventory turnover ratio generally indicates:",
+        "options": [
+          "Slower movement of inventory",
+          "Faster inventory movement, subject to context",
+          "Higher long-term debt",
+          "Lower sales automatically"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The debt-to-equity ratio primarily measures:",
+        "options": [
+          "Liquidity only",
+          "Financial leverage",
+          "Inventory efficiency",
+          "Revenue growth"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If total assets are Rs. 50 million and total liabilities are Rs. 30 million, equity is:",
+        "options": [
+          "Rs. 10 million",
+          "Rs. 20 million",
+          "Rs. 30 million",
+          "Rs. 80 million"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A cash flow statement classifies cash flows into:",
+        "options": [
+          "Assets, liabilities and equity",
+          "Operating, investing and financing activities",
+          "Revenue, expense and profit",
+          "Current and non-current only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Capital expenditure normally creates or improves:",
+        "options": [
+          "A long-term asset",
+          "A short-term payable only",
+          "A revenue reserve only",
+          "A bank reconciliation item"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Revenue expenditure generally relates to:",
+        "options": [
+          "Routine operating costs consumed in the current period",
+          "Acquisition of a new building",
+          "Purchase of a long-term machine",
+          "Issue of shares"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "An increase in accounts receivable, all else equal, generally:",
+        "options": [
+          "Increases operating cash flow",
+          "Reduces operating cash flow",
+          "Has no cash-flow effect",
+          "Creates financing cash flow"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An increase in accounts payable, all else equal, generally:",
+        "options": [
+          "Reduces operating cash flow",
+          "Increases operating cash flow",
+          "Reduces equity immediately",
+          "Creates investing cash flow"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which ratio is a common measure of immediate liquidity excluding inventory?",
+        "options": [
+          "Current ratio",
+          "Quick ratio",
+          "Debt ratio",
+          "Gross margin"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If current assets are Rs. 10m, inventory Rs. 3m and current liabilities Rs. 5m, the quick ratio is:",
+        "options": [
+          "0.6:1",
+          "1.0:1",
+          "1.4:1",
+          "2.0:1"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A budget variance is best defined as:",
+        "options": [
+          "The total budget",
+          "The difference between budgeted and actual amounts",
+          "The amount of cash in bank",
+          "The depreciation charge"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A flexible budget is designed to:",
+        "options": [
+          "Remain unchanged regardless of activity",
+          "Adjust budgeted costs/revenues for different activity levels",
+          "Eliminate all variances",
+          "Replace financial statements"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Zero-based budgeting requires managers to:",
+        "options": [
+          "Increase every budget by inflation",
+          "Justify activities and costs from a zero base",
+          "Ignore prior-year spending",
+          "Budget only capital expenditure"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A rolling forecast is:",
+        "options": [
+          "A forecast prepared once and never revised",
+          "A forecast continuously updated as periods pass",
+          "A tax return",
+          "A bank reconciliation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The main purpose of a cash budget is to forecast:",
+        "options": [
+          "Only depreciation",
+          "Cash inflows, outflows and financing needs",
+          "Only gross profit",
+          "Only inventory quantities"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If budgeted cost is Rs. 10m and actual cost is Rs. 11m, the unfavorable cost variance is:",
+        "options": [
+          "Rs. 0.5m",
+          "Rs. 1m",
+          "Rs. 10m",
+          "Rs. 21m"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A favorable expense variance normally means:",
+        "options": [
+          "Actual expense is higher than budget",
+          "Actual expense is lower than budget, assuming comparable conditions",
+          "Revenue is zero",
+          "Assets are impaired"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A responsibility center whose manager controls revenues and costs is commonly a:",
+        "options": [
+          "Cost center",
+          "Profit center",
+          "Investment center only",
+          "Treasury account"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Break-even point is reached when:",
+        "options": [
+          "Profit is maximum",
+          "Total revenue equals total cost",
+          "Variable cost is zero",
+          "Cash balance is zero"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Contribution margin equals:",
+        "options": [
+          "Sales minus variable costs",
+          "Sales minus fixed costs only",
+          "Fixed costs minus sales",
+          "Assets minus liabilities"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If selling price is Rs. 500 and variable cost is Rs. 300, contribution per unit is:",
+        "options": [
+          "Rs. 100",
+          "Rs. 150",
+          "Rs. 200",
+          "Rs. 800"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "If fixed costs are Rs. 2m and contribution per unit is Rs. 200, break-even units are:",
+        "options": [
+          "5,000",
+          "10,000",
+          "15,000",
+          "20,000"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Sensitivity analysis examines:",
+        "options": [
+          "Only historical transactions",
+          "How results change when key assumptions change",
+          "Only payroll",
+          "Only bank charges"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which Excel function is commonly used to add values meeting a condition?",
+        "options": [
+          "COUNT",
+          "SUMIF",
+          "ROUND",
+          "LEFT"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which Excel function is commonly used to look up a value vertically in a table?",
+        "options": [
+          "VLOOKUP",
+          "LEN",
+          "TODAY",
+          "CONCAT"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A PivotTable is primarily used to:",
+        "options": [
+          "Encrypt a workbook",
+          "Summarize and analyze structured data",
+          "Replace an operating system",
+          "Create bank accounts"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which Excel feature is useful for preventing invalid entries in a cell?",
+        "options": [
+          "Data Validation",
+          "Page Break",
+          "Track Changes",
+          "WordArt"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "An absolute cell reference in Excel is written using:",
+        "options": [
+          "#",
+          "$",
+          "@",
+          "%"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which formula correctly calculates the sum of cells B2 through B10?",
+        "options": [
+          "=SUM(B2:B10)",
+          "=ADD(B2-B10)",
+          "=TOTAL(B2,B10)",
+          "=PLUS(B2:B10)"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In Excel, IF is mainly used to:",
+        "options": [
+          "Test a condition and return results based on it",
+          "Create a database server",
+          "Format a hard disk",
+          "Send an email automatically"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A spreadsheet should ideally separate raw data from:",
+        "options": [
+          "Nothing",
+          "Calculations and presentation where practical",
+          "The computer keyboard",
+          "The internet browser"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An ERP system primarily integrates:",
+        "options": [
+          "Only email",
+          "Business processes and shared organizational data",
+          "Only payroll passwords",
+          "Only web pages"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "SAP is widely used as:",
+        "options": [
+          "An ERP/business management platform",
+          "A spreadsheet file format",
+          "A programming language only",
+          "A database password"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A key advantage of ERP financial modules is:",
+        "options": [
+          "Eliminating every human decision",
+          "Integrated transaction and financial information",
+          "Guaranteeing zero fraud",
+          "Removing all audit requirements"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Segregation of duties is intended to reduce risk by:",
+        "options": [
+          "Giving one person complete control",
+          "Separating authorization, custody and recording responsibilities",
+          "Eliminating approvals",
+          "Avoiding documentation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A three-way match commonly compares:",
+        "options": [
+          "Budget, tax and payroll",
+          "Purchase order, goods receipt and supplier invoice",
+          "Cash, equity and profit",
+          "Bank, ledger and trial balance only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An audit trail is important because it:",
+        "options": [
+          "Hides transactions",
+          "Allows transactions to be traced through supporting records",
+          "Prevents all accounting entries",
+          "Replaces financial statements"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Maker-checker control means:",
+        "options": [
+          "One person creates and approves everything",
+          "One person prepares an action and another independently checks/approves it",
+          "No approval is needed",
+          "Only auditors can enter data"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An authorization matrix is used to define:",
+        "options": [
+          "Computer screen size",
+          "Who can approve transactions at specified limits",
+          "Office seating",
+          "Depreciation rates only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Public Finance Management primarily concerns:",
+        "options": [
+          "Management of public resources and fiscal processes",
+          "Only private-company marketing",
+          "Only stock trading",
+          "Only employee attendance"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A fundamental public-finance control is that expenditure should be:",
+        "options": [
+          "Made without authority",
+          "Authorized and supported by applicable rules and budget provisions",
+          "Paid before approval",
+          "Excluded from records"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "General Financial Rules are primarily concerned with:",
+        "options": [
+          "Social-media policy",
+          "Government financial management, expenditure and accountability procedures",
+          "Sports regulations",
+          "Private banking products"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Budgetary control helps ensure that spending:",
+        "options": [
+          "Never requires approval",
+          "Remains within authorized purposes and limits, subject to applicable rules",
+          "Always exceeds estimates",
+          "Is hidden from management"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Public money should be used:",
+        "options": [
+          "For any personal purpose",
+          "Only for authorized public purposes",
+          "Without documentation",
+          "Only in cash"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An internal control designed to detect duplicate payments is:",
+        "options": [
+          "Invoice matching and duplicate-invoice checks",
+          "Removing invoice numbers",
+          "Disabling approvals",
+          "Deleting payment records"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A payment voucher should generally be supported by:",
+        "options": [
+          "No evidence",
+          "Relevant approvals and supporting documentation",
+          "Only a verbal request",
+          "Only a bank logo"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Commitment control helps an entity monitor:",
+        "options": [
+          "Obligations arising from approved spending before final payment",
+          "Only depreciation",
+          "Only employee leave",
+          "Only tax rates"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "E-AAA in the vacancy description refers to:",
+        "options": [
+          "Electronic Asaan Assignment Account",
+          "Electronic Annual Audit Authority",
+          "Enterprise Automated Asset Allocation",
+          "Electronic Accounts Approval Archive"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "IPAS in a government-finance context is associated with:",
+        "options": [
+          "Integrated financial/accounting information and processes",
+          "Image editing",
+          "Internet advertising",
+          "Inventory packaging"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "e-Office is primarily associated with:",
+        "options": [
+          "Electronic office workflow and document management",
+          "Industrial machinery",
+          "Only tax calculation",
+          "Video editing"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "For a finance officer, ERP proficiency is most useful for:",
+        "options": [
+          "Integrated financial transactions, reporting and controls",
+          "Changing monitor resolution",
+          "Graphic design only",
+          "Physical filing only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which financial statement reports cash receipts and cash payments over a period?",
+        "options": [
+          "Statement of cash flows",
+          "Statement of financial position",
+          "Trial balance",
+          "Aging schedule"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "An aging schedule for receivables is used to:",
+        "options": [
+          "Classify receivables by how long they have been outstanding",
+          "Calculate depreciation",
+          "Authorize capital expenditure",
+          "Prepare payroll only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Allowance for doubtful debts is intended to reflect:",
+        "options": [
+          "Expected credit losses/collectibility risk under the applicable framework",
+          "Guaranteed profit",
+          "Cash in hand",
+          "Inventory purchases"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A write-off of an irrecoverable receivable generally affects:",
+        "options": [
+          "Receivables and the related allowance/expense depending on the accounting treatment",
+          "Only share capital",
+          "Only inventory",
+          "Only revenue"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Inventory should generally be measured under applicable accounting standards at:",
+        "options": [
+          "Any amount management chooses",
+          "The applicable lower-of-cost-and-NRV or other prescribed basis, depending on the framework",
+          "Always selling price",
+          "Always zero"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A contingent liability is generally:",
+        "options": [
+          "A certain asset",
+          "A possible obligation or present obligation not recognized because specified criteria are not met",
+          "A cash receipt",
+          "A fixed asset"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Materiality in auditing means information is material when:",
+        "options": [
+          "Its omission or misstatement could influence users' decisions",
+          "It can never affect users",
+          "It is always large in rupees",
+          "It is always fraudulent"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Audit evidence should be:",
+        "options": [
+          "Sufficient and appropriate for the auditor's conclusion",
+          "Only verbal",
+          "Always generated by management",
+          "Never documented"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "An audit sampling approach selects:",
+        "options": [
+          "Every transaction in all cases",
+          "A sample from a population to obtain audit evidence",
+          "Only suspicious employees",
+          "Only cash transactions"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An internal auditor primarily provides:",
+        "options": [
+          "Independent assurance and advisory work within the organization",
+          "External statutory tax rulings",
+          "Bank loans",
+          "Product marketing"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A control deficiency becomes more serious when it:",
+        "options": [
+          "Has no possible consequence",
+          "Increases the risk of material misstatement or loss and is not adequately addressed",
+          "Improves documentation",
+          "Reduces risk"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Fraud risk is reduced by:",
+        "options": [
+          "Strong controls, segregation of duties, monitoring and ethical governance",
+          "Removing approvals",
+          "Sharing passwords",
+          "Avoiding reconciliations"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Net present value (NPV) evaluates an investment by:",
+        "options": [
+          "Comparing discounted future cash flows with the initial investment",
+          "Ignoring the time value of money",
+          "Counting only accounting profit",
+          "Using only historical cost"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If the discount rate increases, the present value of a future cash flow generally:",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Remains exactly unchanged",
+          "Becomes negative automatically"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A positive NPV generally indicates that, at the chosen discount rate:",
+        "options": [
+          "The investment's discounted benefits exceed discounted costs",
+          "The project has no cash flows",
+          "Accounting profit is zero",
+          "Debt is zero"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The payback period measures:",
+        "options": [
+          "Time required to recover the initial investment from cash flows",
+          "Total accounting depreciation",
+          "Return on equity only",
+          "Tax expense"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Return on investment (ROI) is generally used to assess:",
+        "options": [
+          "Return relative to an investment base",
+          "Only liquidity",
+          "Only inventory age",
+          "Only bank reconciliation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Current ratio primarily measures:",
+        "options": [
+          "Short-term liquidity",
+          "Long-term profitability",
+          "Employee productivity",
+          "Market share"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Return on equity (ROE) relates profit to:",
+        "options": [
+          "Equity",
+          "Inventory",
+          "Revenue only",
+          "Current liabilities only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Operating margin is commonly calculated as:",
+        "options": [
+          "Operating profit divided by revenue",
+          "Assets divided by liabilities",
+          "Cash divided by inventory",
+          "Equity divided by revenue"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A declining gross margin may indicate:",
+        "options": [
+          "Changes in selling prices, product mix or cost of sales",
+          "Automatic improvement in profitability",
+          "Guaranteed higher cash flow",
+          "Lower receivables by definition"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If revenue is Rs. 20m and operating profit is Rs. 3m, operating margin is:",
+        "options": [
+          "5%",
+          "10%",
+          "15%",
+          "20%"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which is a preventive control?",
+        "options": [
+          "Pre-approval of purchases before commitment",
+          "Post-payment review only",
+          "Year-end financial statement analysis",
+          "Historical ratio analysis"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which is a detective control?",
+        "options": [
+          "Bank reconciliation",
+          "Pre-authorization of purchase orders",
+          "Access restriction before entry",
+          "Approval before payment"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A strong password policy is an example of:",
+        "options": [
+          "IT general control",
+          "Revenue recognition",
+          "Inventory valuation",
+          "Capital budgeting"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Least-privilege access means users should receive:",
+        "options": [
+          "All system rights",
+          "Only the access necessary for their responsibilities",
+          "No access ever",
+          "Access based on seniority alone"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Periodic user-access review helps identify:",
+        "options": [
+          "Unnecessary or inappropriate system permissions",
+          "Inventory valuation",
+          "Exchange rates only",
+          "Depreciation methods"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If an invoice is received for goods not yet received, the best control response is to:",
+        "options": [
+          "Pay automatically",
+          "Check the applicable receiving and approval evidence before payment",
+          "Delete the invoice",
+          "Record it as revenue"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A purchase order primarily establishes:",
+        "options": [
+          "An authorized request/order for specified goods or services",
+          "Final bank reconciliation",
+          "Employee attendance",
+          "Depreciation expense"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A goods receipt note primarily confirms:",
+        "options": [
+          "Receipt of goods/services against an order",
+          "Approval of annual accounts",
+          "Tax refund",
+          "Share issuance"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Vendor master-data controls are important because they can reduce:",
+        "options": [
+          "Risk of unauthorized or fraudulent supplier changes",
+          "Need for financial statements",
+          "Need for budgeting",
+          "Need for depreciation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which Excel feature can highlight cells based on rules such as values above a threshold?",
+        "options": [
+          "Conditional Formatting",
+          "Mail Merge",
+          "Page Layout",
+          "Spell Check"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which function counts cells meeting a criterion?",
+        "options": [
+          "COUNTIF",
+          "SUM",
+          "LEFT",
+          "ROUND"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which function returns today's date in Excel?",
+        "options": [
+          "TODAY",
+          "NOWTEXT",
+          "DATEONLY",
+          "CURRENTDATE"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A named range can improve spreadsheets by:",
+        "options": [
+          "Making formulas easier to understand and maintain",
+          "Eliminating all calculation errors",
+          "Replacing accounting standards",
+          "Preventing all fraud"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A forecast differs from a budget because a forecast is generally:",
+        "options": [
+          "An updated estimate of expected future results",
+          "Always a legal appropriation",
+          "Never revised",
+          "Only historical"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Scenario analysis differs from simple sensitivity analysis because it typically:",
+        "options": [
+          "Changes a combination of assumptions together",
+          "Changes only one variable",
+          "Ignores assumptions",
+          "Uses no financial data"
+        ],
+        "correctAnswer": 0
+      }
+    ]
   }
+]
 ]
