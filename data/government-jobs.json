@@ -563,7 +563,8 @@
         "question": "If 15% of 200 is calculated, the answer is:",
         "options": ["15", "20", "30", "35"],
         "correctAnswer": 2
-         ]
+      }
+    ]
   },
   {
     "id": "kppsc-pms-2026",
@@ -2719,5 +2720,4 @@
       }
     ]
   }
-]
 ]
