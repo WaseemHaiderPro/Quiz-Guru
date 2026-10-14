@@ -4714,10 +4714,10 @@ body.dark-mode main .section .view-link {
 .daily-quiz-main-circle span {
     color: #ffffff;
 
-    font-size: 38px;
+    font-size: 32px;
     line-height: 1;
 
-    font-weight: 450;
+    font-weight: 550;
 }
 
 .daily-quiz-number {
