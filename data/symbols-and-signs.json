@@ -1,0 +1,1931 @@
+[
+  {
+    "id": "symbols-signs-mastery",
+    "title": "Symbols & Signs Mastery",
+    "category": "Everyday Knowledge & Concepts",
+    "description": "Learn the names, meanings and everyday uses of common symbols, signs, units, keyboard keys, web terms and scientific notation.",
+    "difficulty": "Easy to Medium",
+    "questions": [
+      {
+        "question": "In writing, what does \"&\" commonly mean or indicate?",
+        "options": [
+          "Ampersand, meaning “and”",
+          "At sign; used in email addresses",
+          "Percent sign; means per hundred",
+          "Asterisk; often marks a note"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In computing, what does \"@\" commonly mean or indicate?",
+        "options": [
+          "Ampersand; means “and”",
+          "At sign, used in email addresses",
+          "Tilde; used in some computing contexts",
+          "Caret; used in some notation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In writing and social media, what does \"#\" commonly mean or indicate?",
+        "options": [
+          "Dollar sign; currency marker",
+          "Backslash; file-path character",
+          "Number sign; also called hash or hashtag in social media",
+          "Semicolon; punctuation mark"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In math, what does \"%\" commonly mean or indicate?",
+        "options": [
+          "Per mille sign; means per thousand",
+          "Degree sign; marks angles",
+          "Prime mark; used in measurements",
+          "Percent sign; means per hundred"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In math, what does \"‰\" commonly mean or indicate?",
+        "options": [
+          "Per mille sign; means per thousand",
+          "Percent sign; means per hundred",
+          "Per million sign",
+          "Degree sign"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In arithmetic, what does \"+\" commonly mean or indicate?",
+        "options": [
+          "Subtraction or negative value",
+          "Addition or positive value",
+          "Division",
+          "Approximation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In arithmetic, what does \"−\" commonly mean or indicate?",
+        "options": [
+          "Addition or positive value",
+          "Multiplication",
+          "Subtraction or negative value",
+          "Equality"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In arithmetic, what does \"×\" commonly mean or indicate?",
+        "options": [
+          "Division sign",
+          "Square-root sign",
+          "Not-equal sign",
+          "Multiplication sign"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In arithmetic, what does \"÷\" commonly mean or indicate?",
+        "options": [
+          "Division sign",
+          "Addition sign",
+          "Factorial marker",
+          "Percentage"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In math, what does \"=\" commonly mean or indicate?",
+        "options": [
+          "Approximately equal to",
+          "Equal to",
+          "Not equal to",
+          "Greater than"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In math, what does \"≠\" commonly mean or indicate?",
+        "options": [
+          "Equal to",
+          "Less than or equal to",
+          "Not equal to",
+          "Proportional to"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In math, what does \"≈\" commonly mean or indicate?",
+        "options": [
+          "Exactly equal to",
+          "Not equal to",
+          "Parallel to",
+          "Approximately equal to"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In math, what does \"≤\" commonly mean or indicate?",
+        "options": [
+          "Less than or equal to",
+          "Less than only",
+          "Greater than or equal to",
+          "Not equal to"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In math, what does \"≥\" commonly mean or indicate?",
+        "options": [
+          "Greater than only",
+          "Greater than or equal to",
+          "Less than or equal to",
+          "Approximately equal to"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In math, what does \"<\" commonly mean or indicate?",
+        "options": [
+          "Greater than",
+          "Not equal to",
+          "Less than",
+          "Is an element of"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In math, what does \">\" commonly mean or indicate?",
+        "options": [
+          "Less than",
+          "Approximately equal to",
+          "Is a subset of",
+          "Greater than"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In math, what does \"±\" commonly mean or indicate?",
+        "options": [
+          "Plus or minus",
+          "Approximately equal to",
+          "Not equal to",
+          "Perpendicular to"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In math, what does \"∞\" commonly mean or indicate?",
+        "options": [
+          "Empty set",
+          "Infinity",
+          "Summation",
+          "Intersection"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In math, what does \"√\" commonly mean or indicate?",
+        "options": [
+          "Summation",
+          "Derivative",
+          "Square root",
+          "Absolute value"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In math, what does \"∑\" commonly mean or indicate?",
+        "options": [
+          "Product of a sequence",
+          "Square root",
+          "Set intersection",
+          "Summation"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In math, what does \"∏\" commonly mean or indicate?",
+        "options": [
+          "Product of a sequence of terms",
+          "Summation",
+          "Angle",
+          "Empty set"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In math, what does \"π\" commonly mean or indicate?",
+        "options": [
+          "Euler’s number, approximately 2.71828",
+          "Pi, approximately 3.14159",
+          "Golden ratio, approximately 1.618",
+          "Infinity"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In math, what does \"∝\" commonly mean or indicate?",
+        "options": [
+          "Is equal to",
+          "Is an element of",
+          "Is proportional to",
+          "Is perpendicular to"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In set notation, what does \"∈\" commonly mean or indicate?",
+        "options": [
+          "Is not an element of",
+          "Is parallel to",
+          "Is greater than",
+          "Is an element of"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In set notation, what does \"∉\" commonly mean or indicate?",
+        "options": [
+          "Is not an element of",
+          "Is an element of",
+          "Is equal to",
+          "Is proportional to"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In set notation, what does \"⊂\" commonly mean or indicate?",
+        "options": [
+          "Is approximately equal to",
+          "Is a subset of, in common set notation",
+          "Is divided by",
+          "Is perpendicular to"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In set notation, what does \"∅\" commonly mean or indicate?",
+        "options": [
+          "Universal set",
+          "Infinity",
+          "Empty set",
+          "Intersection"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In set notation, what does \"∩\" commonly mean or indicate?",
+        "options": [
+          "Union of sets",
+          "Difference of sets",
+          "Summation",
+          "Intersection of sets"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In set notation, what does \"∪\" commonly mean or indicate?",
+        "options": [
+          "Union of sets",
+          "Intersection of sets",
+          "Division of sets",
+          "Derivative"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In logic, what does \"∀\" commonly mean or indicate?",
+        "options": [
+          "There exists",
+          "For all",
+          "Therefore",
+          "Because"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In logic, what does \"∃\" commonly mean or indicate?",
+        "options": [
+          "For all",
+          "Empty set",
+          "There exists",
+          "Infinity"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In logic, what does \"∴\" commonly mean or indicate?",
+        "options": [
+          "Because",
+          "For all",
+          "There exists",
+          "Therefore"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In logic, what does \"∵\" commonly mean or indicate?",
+        "options": [
+          "Because",
+          "Therefore",
+          "Is an element of",
+          "Is proportional to"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In math, what does \"!\" commonly mean or indicate?",
+        "options": [
+          "Not-equal sign",
+          "Factorial when placed after a number in mathematics",
+          "Prime mark",
+          "Division sign"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In algebra, what does \"|x|\" commonly mean or indicate?",
+        "options": [
+          "Reciprocal of x",
+          "Square root of x",
+          "Absolute value of x",
+          "Derivative of x"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In algebra, what does \"x²\" commonly mean or indicate?",
+        "options": [
+          "Square root of x",
+          "x divided by two",
+          "Absolute value of x",
+          "x squared"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In algebra, what does \"x³\" commonly mean or indicate?",
+        "options": [
+          "x cubed",
+          "Cube root of x",
+          "x divided by three",
+          "x plus three"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In geometry, what does \"∠\" commonly mean or indicate?",
+        "options": [
+          "Line segment",
+          "Angle",
+          "Parallel lines",
+          "Area"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In geometry, what does \"⟂\" commonly mean or indicate?",
+        "options": [
+          "Parallel",
+          "Congruent",
+          "Perpendicular",
+          "Approximately equal"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In geometry, what does \"∥\" commonly mean or indicate?",
+        "options": [
+          "Perpendicular",
+          "Not equal",
+          "Intersection",
+          "Parallel"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In measurement, what does \"°\" commonly mean or indicate?",
+        "options": [
+          "Degree, used for angles and some temperature scales",
+          "Percent",
+          "Litre",
+          "Kilogram"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In punctuation, what does \".\" commonly mean or indicate?",
+        "options": [
+          "Comma, separating items",
+          "Period or full stop, commonly ending a statement",
+          "Colon, introducing a list",
+          "Question mark"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In punctuation, what does \"?\" commonly mean or indicate?",
+        "options": [
+          "Exclamation mark",
+          "Semicolon",
+          "Question mark",
+          "Apostrophe"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In punctuation, what does \"!\" commonly mean or indicate?",
+        "options": [
+          "Question mark",
+          "Colon",
+          "Hyphen",
+          "Exclamation mark in punctuation"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In punctuation, what does \",\" commonly mean or indicate?",
+        "options": [
+          "Comma",
+          "Period",
+          "Apostrophe",
+          "Ellipsis"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In punctuation, what does \";\" commonly mean or indicate?",
+        "options": [
+          "Colon",
+          "Semicolon",
+          "Comma",
+          "Hyphen"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In punctuation, what does \":\" commonly mean or indicate?",
+        "options": [
+          "Semicolon",
+          "Apostrophe",
+          "Colon",
+          "Question mark"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In punctuation, what does \"'\" commonly mean or indicate?",
+        "options": [
+          "Semicolon",
+          "Slash",
+          "Ellipsis",
+          "Apostrophe, often marking possession or omitted letters"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In typography, what does \"—\" commonly mean or indicate?",
+        "options": [
+          "Em dash, often marking a strong break or interruption",
+          "En dash, commonly marking a range",
+          "Hyphen, joining parts of words",
+          "Underscore"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In typography, what does \"–\" commonly mean or indicate?",
+        "options": [
+          "Em dash, often marking a strong break",
+          "En dash, commonly marking a range",
+          "Apostrophe",
+          "Backslash"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In typography, what does \"…\" commonly mean or indicate?",
+        "options": [
+          "Colon",
+          "Question mark",
+          "Ellipsis, indicating omitted text or a trailing-off thought",
+          "Ampersand"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In typing, what does \"/\" commonly mean or indicate?",
+        "options": [
+          "Backslash",
+          "Vertical bar",
+          "Tilde",
+          "Forward slash"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In typing, what does \"\\\" commonly mean or indicate?",
+        "options": [
+          "Backslash",
+          "Forward slash",
+          "Hyphen",
+          "Asterisk"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In typing, what does \"*\" commonly mean or indicate?",
+        "options": [
+          "Ampersand",
+          "Asterisk, often marking a note or wildcard",
+          "Caret",
+          "Tilde"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In typing, what does \"~\" commonly mean or indicate?",
+        "options": [
+          "At sign",
+          "Hash",
+          "Tilde",
+          "Semicolon"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In typing, what does \"^\" commonly mean or indicate?",
+        "options": [
+          "Asterisk",
+          "Underscore",
+          "Pipe",
+          "Caret"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In typing, what does \"_\" commonly mean or indicate?",
+        "options": [
+          "Underscore",
+          "Hyphen",
+          "En dash",
+          "Apostrophe"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In writing, what does \"“ ”\" commonly mean or indicate?",
+        "options": [
+          "Parentheses, adding a side note",
+          "Quotation marks, enclosing quoted words or speech",
+          "Brackets, showing an interval",
+          "Apostrophes, marking possession"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In writing and math, what does \"( )\" commonly mean or indicate?",
+        "options": [
+          "Square brackets only",
+          "Quotation marks",
+          "Parentheses, grouping expressions or adding a side note",
+          "Curly braces only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In writing and math, what does \"[ ]\" commonly mean or indicate?",
+        "options": [
+          "Parentheses",
+          "Quotation marks",
+          "Angle brackets only",
+          "Square brackets, often grouping or clarifying material"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In math, what does \"{ }\" commonly mean or indicate?",
+        "options": [
+          "Curly braces, commonly denoting sets in mathematics",
+          "Square brackets",
+          "Quotation marks",
+          "Parentheses only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In keyboard, what does \"Ctrl\" commonly mean or indicate?",
+        "options": [
+          "Cursor key",
+          "Control key",
+          "Central key",
+          "Current key"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In keyboard, what does \"Esc\" commonly mean or indicate?",
+        "options": [
+          "Enter key, confirming an action",
+          "Tab key, moving focus",
+          "Escape key, often cancelling or exiting a menu",
+          "Caps Lock key"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In keyboard, what does \"Tab\" commonly mean or indicate?",
+        "options": [
+          "Deletes the previous character",
+          "Locks letter case",
+          "Closes every application",
+          "Moves focus to the next field or control in many forms"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In keyboard, what does \"Enter\" commonly mean or indicate?",
+        "options": [
+          "Confirms an action or inserts a new line, depending on context",
+          "Deletes selected text",
+          "Copies selected text",
+          "Turns off the computer"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In keyboard, what does \"Backspace\" commonly mean or indicate?",
+        "options": [
+          "Deletes the character after the cursor only",
+          "Deletes the character before the cursor in text editing",
+          "Copies selected text",
+          "Opens Help"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In keyboard, what does \"Delete\" commonly mean or indicate?",
+        "options": [
+          "Deletes only the character before the cursor",
+          "Inserts a tab",
+          "Deletes the character after the cursor or a selected item, depending on context",
+          "Saves the file"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In keyboard, what does \"Caps Lock\" commonly mean or indicate?",
+        "options": [
+          "Changes screen brightness",
+          "Moves to the next field",
+          "Opens the browser",
+          "Toggles letter-case mode on many keyboards"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In keyboard, what does \"Shift\" commonly mean or indicate?",
+        "options": [
+          "Modifies another key, often typing an uppercase letter or alternate character",
+          "Saves the current file",
+          "Opens the Start menu",
+          "Deletes a whole line"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In keyboard shortcut, what does \"Ctrl+C\" commonly mean or indicate?",
+        "options": [
+          "Cuts selected content",
+          "Copies selected content on many Windows applications",
+          "Pastes content",
+          "Undoes an action"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In keyboard shortcut, what does \"Ctrl+V\" commonly mean or indicate?",
+        "options": [
+          "Copies selected content",
+          "Prints the document",
+          "Pastes copied or cut content on many Windows applications",
+          "Finds text"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In keyboard shortcut, what does \"Ctrl+X\" commonly mean or indicate?",
+        "options": [
+          "Copies selected content",
+          "Pastes content",
+          "Redoes an action",
+          "Cuts selected content on many Windows applications"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In keyboard shortcut, what does \"Ctrl+Z\" commonly mean or indicate?",
+        "options": [
+          "Undoes the last action in many applications",
+          "Redoes the last action",
+          "Saves as",
+          "Selects all"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In keyboard shortcut, what does \"Ctrl+S\" commonly mean or indicate?",
+        "options": [
+          "Searches the page",
+          "Saves the current document in many applications",
+          "Selects all content",
+          "Switches browser tabs"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In keyboard shortcut, what does \"Ctrl+A\" commonly mean or indicate?",
+        "options": [
+          "Copies selected content",
+          "Undoes the last action",
+          "Selects all in many applications",
+          "Opens Help"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In keyboard, what does \"F1\" commonly mean or indicate?",
+        "options": [
+          "Renames a file universally",
+          "Turns on Caps Lock",
+          "Pastes text",
+          "Opens Help in many desktop applications"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In file extensions, what does \".pdf\" commonly mean or indicate?",
+        "options": [
+          "Portable Document Format file extension",
+          "Plain Data Folder",
+          "Photo Display File",
+          "Program Definition File"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In file extensions, what does \".jpg\" commonly mean or indicate?",
+        "options": [
+          "Spreadsheet file extension",
+          "Common JPEG image file extension",
+          "Compressed archive extension",
+          "JavaScript file extension"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In file extensions, what does \".png\" commonly mean or indicate?",
+        "options": [
+          "Plain text document format",
+          "Audio format",
+          "PNG image file extension",
+          "Executable program"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In file extensions, what does \".csv\" commonly mean or indicate?",
+        "options": [
+          "Computer system video",
+          "Compressed system volume",
+          "Cascading style view",
+          "Comma-separated values text data format"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In file extensions, what does \".zip\" commonly mean or indicate?",
+        "options": [
+          "Compressed archive file format",
+          "Web page markup",
+          "Audio-only format",
+          "Image color model"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In file extensions, what does \".html\" commonly mean or indicate?",
+        "options": [
+          "Spreadsheet",
+          "HTML web page or document",
+          "Audio track",
+          "Disk image only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In file extensions, what does \".css\" commonly mean or indicate?",
+        "options": [
+          "Computer Source Script",
+          "Compressed Storage Set",
+          "Cascading Style Sheets file",
+          "Color System Sheet"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In file extensions, what does \".js\" commonly mean or indicate?",
+        "options": [
+          "JPEG image extension",
+          "Java archive extension only",
+          "JSON schema extension only",
+          "Common file extension for JavaScript source"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In internet, what does \"URL\" commonly mean or indicate?",
+        "options": [
+          "Uniform Resource Locator",
+          "Universal Reference Language",
+          "Unified Routing List",
+          "User Record Link"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In internet, what does \"HTTP\" commonly mean or indicate?",
+        "options": [
+          "High Text Transfer Program",
+          "Hypertext Transfer Protocol",
+          "Host Tracking Text Process",
+          "Hyperlink Terminal Transfer Path"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In internet, what does \"HTTPS\" commonly mean or indicate?",
+        "options": [
+          "A website with no encryption",
+          "A file stored offline only",
+          "HTTP protected using TLS encryption",
+          "An image format"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In internet, what does \"Wi-Fi\" commonly mean or indicate?",
+        "options": [
+          "File compression format",
+          "Currency code",
+          "Keyboard key",
+          "Wireless networking technology"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In abbreviations, what does \"USB\" commonly mean or indicate?",
+        "options": [
+          "Universal Serial Bus",
+          "United System Board",
+          "Universal Storage Battery",
+          "User Signal Base"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In abbreviations, what does \"CPU\" commonly mean or indicate?",
+        "options": [
+          "Computer Power Utility",
+          "Central Processing Unit",
+          "Central Program Upload",
+          "Control Peripheral User"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In abbreviations, what does \"RAM\" commonly mean or indicate?",
+        "options": [
+          "Read All Memory",
+          "Rapid Active Module",
+          "Random Access Memory",
+          "Remote Application Manager"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In abbreviations, what does \"GPS\" commonly mean or indicate?",
+        "options": [
+          "General Path Service",
+          "Geographic Print Symbol",
+          "Global Program Storage",
+          "Global Positioning System"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In abbreviations, what does \"QR\" commonly mean or indicate?",
+        "options": [
+          "Quick Response, as in QR code",
+          "Query Record",
+          "Quality Reader",
+          "Quantum Reference"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In abbreviations, what does \"LED\" commonly mean or indicate?",
+        "options": [
+          "Low-energy display",
+          "Light-emitting diode",
+          "Light-enabled device",
+          "Linear electric detector"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In abbreviations, what does \"ATM\" commonly mean or indicate?",
+        "options": [
+          "Automatic Transfer Meter",
+          "Account Tracking Method",
+          "Automated Teller Machine",
+          "Advanced Token Monitor"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In currency, what does \"PKR\" commonly mean or indicate?",
+        "options": [
+          "Pound sterling currency code",
+          "Euro currency code",
+          "Japanese yen currency code",
+          "Pakistani rupee currency code"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In currency, what does \"USD\" commonly mean or indicate?",
+        "options": [
+          "United States dollar currency code",
+          "United Arab Emirates dirham code",
+          "United Kingdom pound code",
+          "Swiss franc code"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In currency, what does \"EUR\" commonly mean or indicate?",
+        "options": [
+          "Egyptian pound code",
+          "Euro currency code",
+          "Indian rupee code",
+          "Russian ruble code"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In currency, what does \"€\" commonly mean or indicate?",
+        "options": [
+          "Common symbol for pound sterling",
+          "Common symbol for yen",
+          "Common symbol for the euro",
+          "Common symbol for rupee"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In currency, what does \"£\" commonly mean or indicate?",
+        "options": [
+          "Common symbol for the euro",
+          "Common symbol for yen",
+          "Common symbol for won",
+          "Common symbol for pound sterling"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In currency, what does \"¥\" commonly mean or indicate?",
+        "options": [
+          "Common symbol for Japanese yen and also used for Chinese yuan",
+          "Common symbol for euro only",
+          "Common symbol for Indian rupee",
+          "Common symbol for pound sterling"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In currency, what does \"₹\" commonly mean or indicate?",
+        "options": [
+          "Common symbol for euro",
+          "Common symbol for Indian rupee",
+          "Common symbol for pound sterling",
+          "Common symbol for yen"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In measurement, what does \"kg\" commonly mean or indicate?",
+        "options": [
+          "Kilometre, a unit of length",
+          "Kilowatt, a unit of power",
+          "Kilogram, the SI unit of mass",
+          "Kelvin gram"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In measurement, what does \"m\" commonly mean or indicate?",
+        "options": [
+          "Minute in all contexts",
+          "Mile, the SI unit of length",
+          "Milligram",
+          "Metre, the SI base unit of length"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In measurement, what does \"L\" commonly mean or indicate?",
+        "options": [
+          "Litre, a unit of volume",
+          "Lumen only",
+          "Length only",
+          "Pound"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In measurement, what does \"W\" commonly mean or indicate?",
+        "options": [
+          "Weber only",
+          "Watt, a unit of power",
+          "Weight",
+          "Work as an SI unit"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In measurement, what does \"Pa\" commonly mean or indicate?",
+        "options": [
+          "Power",
+          "Pound",
+          "Pascal, a unit of pressure",
+          "Parsec"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In measurement, what does \"°C\" commonly mean or indicate?",
+        "options": [
+          "Degrees of longitude",
+          "Coulombs",
+          "Centimetres",
+          "Degrees Celsius"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In measurement, what does \"km/h\" commonly mean or indicate?",
+        "options": [
+          "Kilometres per hour, a speed unit",
+          "Kilograms per hectare",
+          "Kilowatts per hour",
+          "Kelvin per hour"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In measurement, what does \"N\" commonly mean or indicate?",
+        "options": [
+          "Nitrogen symbol",
+          "Newton, the SI derived unit of force",
+          "Nautical mile",
+          "Amount of substance"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In measurement, what does \"J\" commonly mean or indicate?",
+        "options": [
+          "Junction",
+          "Current density",
+          "Joule, the SI derived unit of energy",
+          "Kelvin"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In measurement, what does \"mol\" commonly mean or indicate?",
+        "options": [
+          "Molar mass unit",
+          "Metre",
+          "Molecular weight only",
+          "Mole, the SI base unit for amount of substance"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In measurement, what does \"cd\" commonly mean or indicate?",
+        "options": [
+          "Candela, the SI base unit for luminous intensity",
+          "Coulomb",
+          "Centimetre",
+          "Conductivity"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In measurement, what does \"K\" commonly mean or indicate?",
+        "options": [
+          "Kilogram",
+          "Kelvin, the SI base unit of thermodynamic temperature",
+          "Potassium only",
+          "Kilo as a standalone unit"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In measurement, what does \"s\" commonly mean or indicate?",
+        "options": [
+          "Siemens only",
+          "Speed",
+          "Second, the SI base unit of time",
+          "South"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In measurement, what does \"A\" commonly mean or indicate?",
+        "options": [
+          "Area unit",
+          "Angstrom only",
+          "Acceleration unit",
+          "Ampere, the SI base unit of electric current"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In measurement, what does \"F\" commonly mean or indicate?",
+        "options": [
+          "Farad, the SI derived unit of capacitance",
+          "Force unit",
+          "Fahrenheit unit",
+          "Frequency unit"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In measurement, what does \"Hz\" commonly mean or indicate?",
+        "options": [
+          "Heat zone",
+          "Hertz, the unit of frequency",
+          "Height",
+          "Hazard"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In measurement, what does \"kWh\" commonly mean or indicate?",
+        "options": [
+          "Power in kilowatts",
+          "Electric current",
+          "Energy, commonly billed as kilowatt-hours",
+          "Voltage"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In measurement, what does \"kW\" commonly mean or indicate?",
+        "options": [
+          "Energy in kilowatt-hours",
+          "Pressure",
+          "Electric charge",
+          "Power in kilowatts"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In measurement, what does \"V\" commonly mean or indicate?",
+        "options": [
+          "Volt, the unit of electric potential difference",
+          "Watt",
+          "Ohm",
+          "Pascal"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In measurement, what does \"Ω\" commonly mean or indicate?",
+        "options": [
+          "Volt",
+          "Ohm, the unit of electrical resistance",
+          "Watt",
+          "Ampere"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In measurement, what does \"mA\" commonly mean or indicate?",
+        "options": [
+          "Megampere",
+          "Metre per ampere",
+          "Milliampere",
+          "Millianode"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In warning symbols, what does \"⚠️\" commonly mean or indicate?",
+        "options": [
+          "Emergency exit only",
+          "Recycling completed",
+          "No risk",
+          "Warning or caution"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In signs, what does \"⛔\" commonly mean or indicate?",
+        "options": [
+          "No entry",
+          "Hospital",
+          "Parking area",
+          "Information desk"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In warning symbols, what does \"☢️\" commonly mean or indicate?",
+        "options": [
+          "Biohazard only",
+          "Radioactivity or ionizing-radiation warning",
+          "Flammable material",
+          "Emergency exit"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In warning symbols, what does \"☣️\" commonly mean or indicate?",
+        "options": [
+          "Magnetic north",
+          "Low temperature",
+          "Biohazard warning",
+          "Recycling"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In environment, what does \"♻️\" commonly mean or indicate?",
+        "options": [
+          "First aid",
+          "Radioactivity",
+          "High voltage",
+          "Recycling-related symbol; exact meaning depends on context"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In interface icons, what does \"🔒\" commonly mean or indicate?",
+        "options": [
+          "Lock or security indicator in some interfaces",
+          "No internet connection",
+          "A downloaded file",
+          "Search"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In interface icons, what does \"🔍\" commonly mean or indicate?",
+        "options": [
+          "Settings",
+          "Search in many interfaces",
+          "Download",
+          "Print"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In interface icons, what does \"⚙️\" commonly mean or indicate?",
+        "options": [
+          "Search",
+          "Upload",
+          "Settings in many interfaces",
+          "Help"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In interface icons, what does \"⬇️\" commonly mean or indicate?",
+        "options": [
+          "Upload only",
+          "Delete permanently",
+          "Open a new tab",
+          "Download or move down, depending on context"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In interface icons, what does \"⬆️\" commonly mean or indicate?",
+        "options": [
+          "Upload or move up, depending on context",
+          "Download only",
+          "Close the application",
+          "Print"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In interface icons, what does \"🔔\" commonly mean or indicate?",
+        "options": [
+          "Location",
+          "Notifications in many apps",
+          "Battery status",
+          "File compression"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In interface icons, what does \"ℹ\" commonly mean or indicate?",
+        "options": [
+          "Prohibition",
+          "Electrical ground",
+          "Information",
+          "Currency"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In legal marks, what does \"™\" commonly mean or indicate?",
+        "options": [
+          "Registered trademark in every jurisdiction",
+          "Copyright only",
+          "Patent number",
+          "Trademark claim; not necessarily a registered trademark"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In legal marks, what does \"®\" commonly mean or indicate?",
+        "options": [
+          "Registered trademark symbol",
+          "Pending patent symbol",
+          "Copyright year",
+          "Mathematical ratio"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In legal marks, what does \"©\" commonly mean or indicate?",
+        "options": [
+          "Trademark registration symbol",
+          "Copyright symbol",
+          "Patent pending symbol",
+          "Currency code"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In writing, what does \"§\" commonly mean or indicate?",
+        "options": [
+          "Paragraph symbol",
+          "Footnote marker only",
+          "Section symbol, used in legal and formal references",
+          "Currency symbol"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In writing, what does \"¶\" commonly mean or indicate?",
+        "options": [
+          "Section symbol",
+          "Quotation mark",
+          "Degree symbol",
+          "Pilcrow or paragraph mark"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In writing, what does \"•\" commonly mean or indicate?",
+        "options": [
+          "Bullet point in a list",
+          "Decimal separator in all countries",
+          "Multiplication sign only",
+          "Footnote marker only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In arrows, what does \"→\" commonly mean or indicate?",
+        "options": [
+          "Division only",
+          "Direction, movement, or mapping depending on context",
+          "Question mark",
+          "Possession"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In arrows, what does \"↔\" commonly mean or indicate?",
+        "options": [
+          "One-way direction only",
+          "Percentage",
+          "Two-way relationship or equivalence, depending on context",
+          "Warning"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In math, what does \"≡\" commonly mean or indicate?",
+        "options": [
+          "Not equal",
+          "Less than",
+          "Divided by",
+          "Identically equal or equivalent under a defined context"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In warning symbols, what does \"⚡\" commonly mean or indicate?",
+        "options": [
+          "Lightning or electrical-energy warning/icon depending on context",
+          "Recycling mark",
+          "Currency",
+          "First-aid cross"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In navigation, what does \"🧭\" commonly mean or indicate?",
+        "options": [
+          "Search",
+          "Compass or navigation",
+          "Settings",
+          "File type"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In interface icons, what does \"📍\" commonly mean or indicate?",
+        "options": [
+          "Audio control",
+          "Battery status",
+          "Location marker or pin",
+          "Currency code"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In road signs, what does \"🚸\" commonly mean or indicate?",
+        "options": [
+          "No entry",
+          "Hospital",
+          "Recycling point",
+          "Children or school-crossing warning in many road-sign systems"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In road signs, what does \"🚭\" commonly mean or indicate?",
+        "options": [
+          "No smoking",
+          "Smoking required",
+          "Parking allowed",
+          "Emergency exit"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In accessibility, what does \"♿\" commonly mean or indicate?",
+        "options": [
+          "Railway crossing",
+          "Accessibility or wheelchair-accessible facility/route",
+          "Flammable contents",
+          "No entry"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In warning symbols, what does \"☠\" commonly mean or indicate?",
+        "options": [
+          "Recycling instructions",
+          "Electrical grounding",
+          "Poison or acute toxicity warning in many contexts",
+          "Low temperature"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In warning symbols, what does \"🔥\" commonly mean or indicate?",
+        "options": [
+          "Compressed gas only",
+          "Environmental benefit",
+          "Non-hazardous contents",
+          "Flammable hazard on standardized chemical labels"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In interface icons, what does \"🧪\" commonly mean or indicate?",
+        "options": [
+          "Laboratory or chemistry-related icon",
+          "Map direction",
+          "Currency",
+          "Keyboard shortcut"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In interface icons, what does \"🔋\" commonly mean or indicate?",
+        "options": [
+          "Location",
+          "Battery or power status",
+          "Search",
+          "Road prohibition"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In electronics, what does \"⏻\" commonly mean or indicate?",
+        "options": [
+          "Print command",
+          "Currency",
+          "Power on/off or standby control symbol",
+          "Recycle"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In keyboard, what does \"⏎\" commonly mean or indicate?",
+        "options": [
+          "Spacebar",
+          "Caps Lock",
+          "Function lock",
+          "Return or Enter key symbol on some keyboards"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In keyboard, what does \"⌘\" commonly mean or indicate?",
+        "options": [
+          "Command key on many Apple keyboards",
+          "Control key only",
+          "Escape key",
+          "Option key only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In keyboard, what does \"⌥\" commonly mean or indicate?",
+        "options": [
+          "Command key",
+          "Option key on many Apple keyboards",
+          "Shift key",
+          "Return key"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In keyboard, what does \"⇧\" commonly mean or indicate?",
+        "options": [
+          "Tab key",
+          "Delete key",
+          "Shift key symbol on many Apple keyboards",
+          "Caps Lock only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In keyboard, what does \"⌃\" commonly mean or indicate?",
+        "options": [
+          "Command key",
+          "Option key",
+          "Return key",
+          "Control key symbol on many Apple keyboards"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In keyboard, what does \"⌫\" commonly mean or indicate?",
+        "options": [
+          "Delete or backspace function, depending on keyboard",
+          "Print screen",
+          "Tab",
+          "Escape"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In chemistry, what does \"H₂O\" commonly mean or indicate?",
+        "options": [
+          "Hydrogen peroxide",
+          "Water",
+          "Oxygen gas",
+          "Salt"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In chemistry, what does \"CO₂\" commonly mean or indicate?",
+        "options": [
+          "Carbon monoxide",
+          "Calcium oxide",
+          "Carbon dioxide",
+          "Cobalt"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In chemistry, what does \"O\" commonly mean or indicate?",
+        "options": [
+          "Gold",
+          "Osmium only",
+          "Hydrogen",
+          "Oxygen chemical symbol"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In chemistry, what does \"Fe\" commonly mean or indicate?",
+        "options": [
+          "Iron chemical symbol",
+          "Fluorine",
+          "Francium",
+          "Fermium"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In chemistry, what does \"Na\" commonly mean or indicate?",
+        "options": [
+          "Nitrogen",
+          "Sodium chemical symbol",
+          "Neon",
+          "Nickel"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In chemistry, what does \"Ag\" commonly mean or indicate?",
+        "options": [
+          "Gold",
+          "Argon",
+          "Silver chemical symbol",
+          "Aluminium"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In chemistry, what does \"Au\" commonly mean or indicate?",
+        "options": [
+          "Silver",
+          "Copper",
+          "Aluminium",
+          "Gold chemical symbol"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In chemistry, what does \"Cl\" commonly mean or indicate?",
+        "options": [
+          "Chlorine chemical symbol",
+          "Calcium",
+          "Cobalt",
+          "Carbon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In science, what does \"Δ\" commonly mean or indicate?",
+        "options": [
+          "Currency",
+          "A change or difference in a quantity in many scientific contexts",
+          "Keyboard escape key",
+          "File extension"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In chemistry, what does \"(s)\" commonly mean or indicate?",
+        "options": [
+          "Solution only",
+          "Gas state",
+          "Solid state in a chemical equation",
+          "Catalyst"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In chemistry, what does \"(l)\" commonly mean or indicate?",
+        "options": [
+          "Light",
+          "Solid state",
+          "Litre in all contexts",
+          "Liquid state in a chemical equation"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In chemistry, what does \"(g)\" commonly mean or indicate?",
+        "options": [
+          "Gaseous state in a chemical equation",
+          "Grams in every context",
+          "Ground state only",
+          "Gel"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In chemistry, what does \"(aq)\" commonly mean or indicate?",
+        "options": [
+          "Gas",
+          "Aqueous solution",
+          "Solid",
+          "Alloy"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In chemistry, what does \"⇌\" commonly mean or indicate?",
+        "options": [
+          "One-way reaction only",
+          "Precipitate only",
+          "A reversible reaction or equilibrium in a chemical equation",
+          "Unit conversion"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In navigation, what does \"Compass rose\" commonly mean or indicate?",
+        "options": [
+          "Population density only",
+          "Road speed limits",
+          "Currency exchange rates",
+          "Shows cardinal or other directions on a map"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In navigation, what does \"Map scale bar\" commonly mean or indicate?",
+        "options": [
+          "Helps convert map distance to real-world distance",
+          "Shows elevation only",
+          "Indicates north only",
+          "Shows paper age"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In road signs, what does \"🛑\" commonly mean or indicate?",
+        "options": [
+          "Yield sign",
+          "Stop sign in many road-sign systems",
+          "Hospital ahead",
+          "No parking only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In road signs, what does \"🚶\" commonly mean or indicate?",
+        "options": [
+          "No entry",
+          "Chemical hazard",
+          "Pedestrian or walking-related symbol",
+          "Currency exchange"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In road signs, what does \"🚆\" commonly mean or indicate?",
+        "options": [
+          "Airport only",
+          "No parking",
+          "Electrical grounding",
+          "Train or railway-related symbol"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In environment, what does \"WEEE bin with cross\" commonly mean or indicate?",
+        "options": [
+          "Do not dispose of the item with unsorted household waste",
+          "Safe to burn",
+          "Single-use packaging",
+          "Contains no electrical parts"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In environment, what does \"PET/PETE\" commonly mean or indicate?",
+        "options": [
+          "Paper and electronic technology",
+          "Polyethylene terephthalate plastic identification",
+          "Polyester electrical tape only",
+          "Glass recycling grade"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In environment, what does \"HDPE\" commonly mean or indicate?",
+        "options": [
+          "High-definition paper envelope",
+          "Heavy-duty printed element",
+          "High-density polyethylene plastic identification",
+          "Hydrogen-dense polymer energy"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In environment, what does \"PVC\" commonly mean or indicate?",
+        "options": [
+          "Polymer voltage control",
+          "Printed vinyl coating only",
+          "Portable visual code",
+          "Polyvinyl chloride plastic identification"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In environment, what does \"LDPE\" commonly mean or indicate?",
+        "options": [
+          "Low-density polyethylene plastic identification",
+          "Linear density paper element",
+          "Low-durability plastic equipment",
+          "Liquid-dispersion polymer energy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In symbols, what does \"♀\" commonly mean or indicate?",
+        "options": [
+          "Male symbol only",
+          "Female symbol in biological or demographic contexts",
+          "Temperature",
+          "Electrical resistance"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In symbols, what does \"♂\" commonly mean or indicate?",
+        "options": [
+          "Female symbol only",
+          "Chemical state",
+          "Male symbol in biological or demographic contexts",
+          "Road warning"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In interface icons, what does \"♥\" commonly mean or indicate?",
+        "options": [
+          "Location pin",
+          "Warning triangle",
+          "Search",
+          "Heart or love in common iconography"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In interface icons, what does \"★\" commonly mean or indicate?",
+        "options": [
+          "Star; often used for ratings or favorites",
+          "Currency",
+          "Unit prefix",
+          "Stop sign"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In writing, what does \"✓\" commonly mean or indicate?",
+        "options": [
+          "Warning only",
+          "Check mark; often indicates completion or correctness",
+          "Question mark",
+          "File extension"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In writing, what does \"✗\" commonly mean or indicate?",
+        "options": [
+          "Universally positive approval",
+          "Currency",
+          "Cross mark; often indicates an incorrect or rejected item",
+          "Degree"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "In interface icons, what does \"…\" commonly mean or indicate?",
+        "options": [
+          "Guaranteed error",
+          "Unit of volume",
+          "Mathematical equality",
+          "More options or continuation in some interfaces"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  }
+]
