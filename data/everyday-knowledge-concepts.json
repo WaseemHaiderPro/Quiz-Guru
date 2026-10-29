@@ -1,1 +1,594 @@
-
+{
+  "quizzes": [
+    {
+      "id": "everyday-knowledge-001",
+      "title": "Everyday Knowledge Basics",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Test your knowledge of common things and everyday facts.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "What causes the sound of thunder?",
+          "options": ["Moving clouds", "Rapid expansion of heated air caused by lightning", "Strong winds only", "Falling rain"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which appliance keeps food cold?",
+          "options": ["Oven", "Toaster", "Refrigerator", "Iron"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which instrument measures temperature?",
+          "options": ["Thermometer", "Compass", "Ruler", "Scale"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does a calendar help us track?",
+          "options": ["Body weight", "Sound levels", "Room temperature", "Dates and days"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which appliance removes dust from floors using suction?",
+          "options": ["Blender", "Vacuum cleaner", "Kettle", "Fan"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the main purpose of an umbrella?",
+          "options": ["To measure rain", "To create electricity", "To provide protection from rain or sunlight", "To clean windows"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which material is commonly used to make transparent drinking glasses?",
+          "options": ["Glass", "Cardboard", "Cotton", "Rubber"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does a key usually operate?",
+          "options": ["A thermometer", "A television screen", "A weighing scale", "A lock"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is the main function of a light bulb?",
+          "options": ["To cool a room", "To produce light", "To store water", "To measure distance"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which unit is commonly used to measure the temperature of a room?",
+          "options": ["Kilogram", "Liter", "Degree Celsius", "Kilometer"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-002",
+      "title": "Home and Household Concepts",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Explore useful knowledge about household items and everyday chores.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "Which product is commonly used with water to wash hands?",
+          "options": ["Cooking oil", "Soap", "Glue", "Polish"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which appliance is commonly used to heat food quickly?",
+          "options": ["Wardrobe", "Dish rack", "Microwave oven", "Bookshelf"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which kitchen tool separates liquid from solid food?",
+          "options": ["Strainer", "Rolling pin", "Spatula", "Ladle"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is a towel mainly used for?",
+          "options": ["Cutting vegetables", "Measuring ingredients", "Polishing shoes only", "Drying the body or other surfaces"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which device warns people when it detects smoke?",
+          "options": ["Doorbell", "Smoke detector", "Thermostat", "Timer"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which appliance cleans clothes by washing them?",
+          "options": ["Air conditioner", "Electric kettle", "Washing machine", "Water heater"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Why are handles on many cooking pots made from heat-resistant materials?",
+          "options": ["To reduce the risk of burns", "To make food cook instantly", "To increase the pot's weight", "To change the food's taste"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which tool is commonly used to tighten a screw with a straight slot?",
+          "options": ["Hammer", "Pliers", "Wrench", "Flat-head screwdriver"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What allows a typical hinged door to swing open and closed?",
+          "options": ["A padlock", "Hinges", "A door mat", "A handle alone"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which appliance is designed to remove wrinkles from clothes using heat?",
+          "options": ["Blender", "Toaster", "Clothes iron", "Vacuum cleaner"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-003",
+      "title": "Time, Dates and Measurement",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Practice common calculations involving time, dates and measurements.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "How many minutes are there in one hour?",
+          "options": ["60", "30", "100", "90"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which tool is best suited to measuring the weight of flour for a recipe?",
+          "options": ["Compass", "Stopwatch", "Kitchen scale", "Thermometer"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "How many days are there in a standard non-leap year?",
+          "options": ["360", "365", "366", "364"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which unit is commonly used to measure the distance between two cities?",
+          "options": ["Milliliter", "Gram", "Minute", "Kilometer"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "How many seconds are there in one minute?",
+          "options": ["60", "100", "30", "24"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which device measures how long an activity takes?",
+          "options": ["Barometer", "Ruler", "Stopwatch", "Compass"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which unit is commonly used to measure the capacity of a water bottle?",
+          "options": ["Kilometer", "Liter", "Kilogram", "Degree"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "How many days are in February during a leap year?",
+          "options": ["28", "29", "30", "31"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which unit is used to measure the mass of a bag of rice?",
+          "options": ["Liter", "Meter", "Second", "Kilogram"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "A meeting starts at 2:15 PM and lasts 45 minutes. When does it end?",
+          "options": ["3:00 PM", "2:45 PM", "3:15 PM", "2:50 PM"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-004",
+      "title": "Food and Kitchen Knowledge",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Learn practical facts about food preparation, storage and nutrition.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "Why should raw meat be kept separate from ready-to-eat foods?",
+          "options": ["To make food sweeter", "To prevent cross-contamination", "To freeze vegetables faster", "To improve food color"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What happens to pure water when it freezes under normal atmospheric pressure?",
+          "options": ["It becomes oil", "It turns into salt", "It becomes solid ice", "It becomes metal"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which food is a good source of dietary fiber?",
+          "options": ["Beans", "Table sugar", "Butter", "Cooking oil"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Why should many perishable foods be refrigerated?",
+          "options": ["To increase their temperature", "To remove all moisture", "To make them sterile forever", "To slow the growth of many harmful microorganisms"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which ingredient commonly helps bread dough rise?",
+          "options": ["Salt alone", "Yeast", "Vinegar alone", "Food coloring"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which cooking method uses hot vapor to cook food?",
+          "options": ["Grilling", "Frying", "Steaming", "Roasting"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What should you do with food in a package that is swollen or leaking unexpectedly?",
+          "options": ["Avoid eating it and assess it safely", "Taste it to check its quality", "Leave it in direct sunlight", "Mix it with fresh food"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which nutrient is a major source of energy for the body?",
+          "options": ["Water", "Minerals", "Vitamins", "Carbohydrates"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which kitchen utensil is designed to measure a small quantity of an ingredient?",
+          "options": ["Chopping board", "Measuring spoon", "Colander", "Oven tray"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What should you generally do before eating fresh fruit?",
+          "options": ["Cover it with detergent", "Store it in a cupboard for a week", "Wash it under clean running water", "Soak it in cooking oil"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-005",
+      "title": "Money and Shopping Basics",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Practice budgeting, discounts, savings and everyday money calculations.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "What is a budget mainly used for?",
+          "options": ["Planning income and expenses", "Predicting the weather", "Measuring body temperature", "Recording road distances"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "You buy an item for Rs. 500 and pay with Rs. 1,000. How much change should you receive?",
+          "options": ["Rs. 400", "Rs. 600", "Rs. 500", "Rs. 300"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What does a shopping receipt usually show?",
+          "options": ["Tomorrow's weather", "A person's blood group", "The shop's Wi-Fi password", "Details of a purchase and its cost"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What does a discount usually mean?",
+          "options": ["An increase in the original price", "A reduction in the selling price", "A mandatory delivery fee", "A bank account number"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "If you save Rs. 200 each week for four weeks, how much will you save?",
+          "options": ["Rs. 800", "Rs. 600", "Rs. 400", "Rs. 1,000"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does it generally mean to buy an item on credit?",
+          "options": ["The item is always free", "You pay only with coins", "You receive it now and pay later under agreed terms", "The seller pays you to take it"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which is an example of a fixed monthly expense?",
+          "options": ["An unexpected repair", "A one-time gift", "A random restaurant visit", "A rent payment that stays the same each month"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is a sensible way to compare two similar products before buying?",
+          "options": ["Choose the larger package without checking", "Compare their prices, quality and features", "Always choose the most expensive one", "Ignore the product descriptions"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is one common purpose of a savings account?",
+          "options": ["Keeping money deposited safely with a financial institution", "Repairing electronic devices", "Measuring shopping bags", "Printing photographs"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "A product costs Rs. 800 and has a 25% discount. What is its discounted price?",
+          "options": ["Rs. 700", "Rs. 500", "Rs. 600", "Rs. 650"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-006",
+      "title": "Health and Personal Hygiene",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Test your knowledge of everyday hygiene and healthy habits.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "How often should most people brush their teeth as part of a routine?",
+          "options": ["Once a week", "Twice a day", "Once a month", "Only after eating sweets"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Why is access to clean drinking water important?",
+          "options": ["It replaces every nutrient", "It guarantees that nobody gets sick", "It supports hydration and helps prevent waterborne illness", "It removes the need for food"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "When is washing your hands particularly important?",
+          "options": ["Before preparing food and after using the toilet", "Only before sleeping", "Only after waking up", "Only when your hands look dirty"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is one benefit of using sunscreen?",
+          "options": ["It prevents all skin diseases", "It replaces drinking water", "It makes sunlight harmless", "It helps protect skin from harmful ultraviolet radiation"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is a considerate way to cover a cough?",
+          "options": ["Cough toward other people", "Use a tissue or your bent elbow", "Cover your mouth with shared food", "Leave used tissues on a table"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is one important benefit of adequate sleep?",
+          "options": ["It eliminates the need for exercise", "It guarantees perfect memory", "It supports recovery, mood and concentration", "It prevents every illness"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is an appropriate first step for a small, superficial cut?",
+          "options": ["Gently clean it with clean running water", "Apply household bleach", "Rub dirt into the wound", "Ignore heavy bleeding"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What should you do before taking a medicine you have been prescribed?",
+          "options": ["Double the dose to act faster", "Use another person's prescription", "Ignore the label instructions", "Follow the prescribed directions and ask a pharmacist or clinician if unsure"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which activity is commonly considered moderate-intensity exercise when it raises your breathing rate?",
+          "options": ["Sitting quietly", "Brisk walking", "Sleeping", "Watching television"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Why is it better not to share personal towels?",
+          "options": ["Towels stop absorbing water when shared", "Sharing makes towels heavier", "Sharing can spread certain germs and skin infections", "Towels can only be used once in their lifetime"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-007",
+      "title": "Weather and the Environment",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Explore weather instruments, natural processes and environmental care.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "What is evaporation?",
+          "options": ["A liquid changing into a gas", "A gas changing directly into a solid", "A solid becoming heavier", "Water turning into metal"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which instrument measures atmospheric pressure?",
+          "options": ["Rain gauge", "Thermometer", "Barometer", "Ruler"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which instrument measures the amount of rainfall?",
+          "options": ["Compass", "Rain gauge", "Speedometer", "Hygrometer"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What do green plants use sunlight for during photosynthesis?",
+          "options": ["Producing plastic", "Creating soil from nothing", "Making rocks grow", "Helping produce sugars from water and carbon dioxide"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is condensation?",
+          "options": ["A liquid becoming a gas", "Water vapor changing into liquid", "A solid turning into light", "Water disappearing permanently"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which action helps conserve water at home?",
+          "options": ["Leaving taps running", "Washing one cup under a running tap for an hour", "Repairing leaking taps", "Using drinking water to clean empty streets every day"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which gas do humans exhale that plants can use in photosynthesis?",
+          "options": ["Carbon dioxide", "Helium", "Neon", "Hydrogen"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is recycling intended to do?",
+          "options": ["Make all waste disappear instantly", "Increase unnecessary packaging", "Turn every material into drinking water", "Process used materials so they can be made into new products"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What mainly causes a shadow to form?",
+          "options": ["Sound passing through air", "An object blocking light", "Air becoming heavier", "Water changing its color"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is compost commonly made from?",
+          "options": ["Broken glass and batteries", "Plastic bags and metal cans only", "Decomposed organic material such as food scraps and leaves", "Fresh cement and paint"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-008",
+      "title": "Travel and Public Places",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Learn practical information about transport, public services and travel.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "Why should passengers wear seat belts in a moving car?",
+          "options": ["To reduce the risk of injury during a collision", "To help the car use less fuel", "To make the journey shorter", "To improve mobile phone reception"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What information does a bus timetable usually provide?",
+          "options": ["The passengers' home addresses", "The engine's serial number", "Scheduled departure and arrival times", "The driver's bank details"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is GPS commonly used for?",
+          "options": ["Cooking meals", "Finding locations and helping with navigation", "Printing receipts", "Measuring body temperature"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Where should pedestrians normally cross a road when a suitable crossing is available?",
+          "options": ["Between moving vehicles", "At any blind corner", "Directly behind a reversing vehicle", "At a designated pedestrian crossing, following signals"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What document is commonly required for international travel?",
+          "options": ["Library card", "Passport", "Shopping receipt", "Gym membership card"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which public service commonly handles sending letters and parcels?",
+          "options": ["Fire station", "Public library", "Post office", "Sports center"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What should a pedestrian generally do when a pedestrian signal shows a steady red figure?",
+          "options": ["Wait and do not start crossing", "Run across immediately", "Ignore nearby traffic", "Stand in the middle of the road"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Why attach a luggage tag to a suitcase?",
+          "options": ["To make it weigh less", "To prevent all possible damage", "To replace travel documents", "To help identify the luggage if it gets separated from you"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which emergency service responds to fires and certain rescue incidents?",
+          "options": ["Postal service", "Fire service", "Library service", "Tourism office"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Why do people form queues at service counters?",
+          "options": ["To block entrances", "To make services slower on purpose", "To wait their turn in an orderly way", "To reserve every counter at once"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-009",
+      "title": "Digital Life and Everyday Technology",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Check your understanding of common devices, software and online safety.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "Why should important computer files be backed up?",
+          "options": ["To recover copies if the originals are lost or damaged", "To make every file public", "To remove the need for passwords", "To increase the monitor's brightness"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which is the strongest password among these choices?",
+          "options": ["12345678", "password", "W7!mQ2#vL9@p", "yourname123"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is a web browser used for?",
+          "options": ["Washing computer parts", "Accessing and viewing websites", "Charging a laptop battery", "Printing currency"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which is an example of an operating system?",
+          "options": ["Google Search", "A USB cable", "A computer mouse", "Microsoft Windows"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What does Wi-Fi allow compatible devices to do?",
+          "options": ["Increase their physical size", "Connect to a wireless network", "Work without any power", "Repair broken screens"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What should you do with an unexpected email attachment from an unknown sender?",
+          "options": ["Open it immediately", "Forward it to everyone", "Avoid opening it and verify the message's legitimacy", "Disable all security software"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is cloud storage?",
+          "options": ["Storing files on remote servers accessed over a network", "Keeping files only on paper", "Saving files inside a keyboard", "A device used to measure clouds"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does two-factor authentication add to an account?",
+          "options": ["A second username only", "An automatic public profile", "Unlimited free storage", "An additional verification step beyond the password"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Why should you install legitimate software updates?",
+          "options": ["They always double computer speed", "They can fix bugs and address security vulnerabilities", "They remove the need for backups", "They guarantee that hardware never fails"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What does airplane mode generally do on a mobile phone?",
+          "options": ["Turns the phone into a camera only", "Deletes all saved photographs", "Disables cellular connections and often other wireless radios, depending on settings", "Makes the battery charge instantly"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "everyday-knowledge-010",
+      "title": "Logic and Practical Problem Solving",
+      "category": "Everyday Knowledge & Concepts",
+      "description": "Solve everyday problems using arithmetic, observation and logical thinking.",
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "question": "A shop sells three notebooks for Rs. 50 each. What is the total cost?",
+          "options": ["Rs. 150", "Rs. 100", "Rs. 120", "Rs. 200"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "A water tank contains 40 liters. If 15 liters are used, how much water remains?",
+          "options": ["20 liters", "25 liters", "30 liters", "35 liters"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A bus has 20 passengers. Five get off and three get on. How many passengers are now on the bus?",
+          "options": ["18", "22", "15", "28"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "A recipe requires two eggs per batch. How many eggs are needed for four batches?",
+          "options": ["4", "6", "10", "8"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "You leave home at 8:30 AM and reach work at 9:00 AM. How long was the journey?",
+          "options": ["20 minutes", "30 minutes", "45 minutes", "60 minutes"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A room has four corners. Each corner contains one chair. How many chairs are there?",
+          "options": ["2", "3", "4", "8"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "A packet contains 24 biscuits shared equally among six people. How many biscuits does each person get?",
+          "options": ["4", "3", "6", "5"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "A phone battery is at 80%. It uses 25 percentage points of charge. What percentage remains?",
+          "options": ["45%", "50%", "65%", "55%"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "A shop opens at 9:00 AM and closes at 5:00 PM. How many hours is it open?",
+          "options": ["6 hours", "8 hours", "7 hours", "9 hours"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A box contains red, blue and green balls. If you need a red ball, what is the most reliable way to choose one?",
+          "options": ["Pick without looking and assume it is red", "Always choose the largest ball", "Identify a red ball before taking it", "Choose the ball nearest the box"],
+          "correctAnswer": 2
+        }
+      ]
+    }
+  ]
+}
