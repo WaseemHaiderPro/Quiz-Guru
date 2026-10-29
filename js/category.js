@@ -109,6 +109,15 @@ document.addEventListener("DOMContentLoaded", function () {
         "../data/government-jobs.json"
     ];
 
+} else if (
+    categoryName.toLowerCase() ===
+    "everyday knowledge & concepts"
+) {
+
+    quizFiles = [
+        "../data/everyday-knowledge-concepts.json"
+    ];
+
 } else {
 
         quizFiles = [
