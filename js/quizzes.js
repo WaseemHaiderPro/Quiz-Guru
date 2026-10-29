@@ -330,7 +330,7 @@ async function loadQuiz() {
     "../data/science.json",
     "../data/general-knowledge.json",
     "../data/weekly-quizzes.json",
-    "../data/government-jobs.json"
+    "../data/government-jobs.json",
    "../data/everyday-knowledge-concepts.json"
 ];
 
