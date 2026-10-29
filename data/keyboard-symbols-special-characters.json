@@ -1,1 +1,578 @@
 
+{
+  "category": "Keyboard Symbols & Special Characters",
+  "quizzes": [
+    {
+      "id": "keyboard-symbols-001",
+      "title": "Keyboard Symbols Basics",
+      "description": "Learn the meanings and uses of common keyboard symbols.",
+      "questions": [
+        {
+          "question": "Which symbol is commonly used to indicate an email address?",
+          "options": ["#", "@", "&", "%"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is known as the hashtag or number sign?",
+          "options": ["$", "#", "*", "@"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol represents an ampersand?",
+          "options": ["%", "&", "+", "="],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used as a wildcard in many computer systems?",
+          "options": ["*", "^", "~", "!"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a percentage?",
+          "options": ["&", "%", "@", "$"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is called an underscore?",
+          "options": ["-", "_", "/", "\\"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to indicate addition?",
+          "options": ["=", "+", "*", "/"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to indicate equality?",
+          "options": ["+", ">", "=", "#"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbol is commonly called an exclamation mark?",
+          "options": ["?", ":", "!", ";"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a question?",
+          "options": ["!", ".", "?", ","],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-002",
+      "title": "Common Punctuation Marks",
+      "description": "Test your knowledge of punctuation marks used in everyday writing.",
+      "questions": [
+        {
+          "question": "Which punctuation mark normally ends a declarative sentence?",
+          "options": [",", ".", ":", ";"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which punctuation mark separates items in a list?",
+          "options": [",", "?", "!", "'"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which punctuation mark can introduce an explanation or list?",
+          "options": [";", ":", ".", ","],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which punctuation mark can connect two closely related independent clauses?",
+          "options": [";", "'", "?", ","],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which mark is commonly used to show possession in English?",
+          "options": ["~", "'", "|", "^"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which punctuation mark is used at the end of a direct question?",
+          "options": ["!", "?", ".", ":"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which pair of symbols commonly encloses a direct quotation?",
+          "options": ["( )", "[ ]", "\" \"", "{ }"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which punctuation mark often indicates omitted letters in a contraction?",
+          "options": ["'", "/", "#", "&"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which mark is commonly used to show strong emotion or emphasis?",
+          "options": [".", "!", ";", ":"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which punctuation mark consists of three consecutive dots?",
+          "options": ["Colon", "Ellipsis", "Semicolon", "Hyphen"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-003",
+      "title": "Mathematical Symbols",
+      "description": "Identify mathematical symbols used in calculations and equations.",
+      "questions": [
+        {
+          "question": "What does the symbol ÷ represent?",
+          "options": ["Multiplication", "Division", "Subtraction", "Addition"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What does the symbol × represent?",
+          "options": ["Division", "Equality", "Multiplication", "Percentage"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What does the symbol ≠ mean?",
+          "options": ["Approximately equal", "Not equal", "Greater than", "Less than"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What does the symbol ≥ mean?",
+          "options": ["Less than or equal to", "Greater than or equal to", "Not equal to", "Approximately equal to"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What does the symbol ≤ mean?",
+          "options": ["Less than or equal to", "Greater than", "Not equal to", "Greater than or equal to"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol represents infinity?",
+          "options": ["∑", "∞", "√", "π"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol represents the square root?",
+          "options": ["π", "∫", "√", "∆"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which Greek letter is commonly used to represent the mathematical constant pi?",
+          "options": ["Ω", "π", "Σ", "μ"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol commonly represents the sum of a sequence in mathematics?",
+          "options": ["Σ", "÷", "≈", "∂"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does the symbol ≈ usually mean?",
+          "options": ["Exactly equal", "Approximately equal", "Not equal", "Identical to"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-004",
+      "title": "Currency and Commercial Symbols",
+      "description": "Recognize currency signs and symbols used in business and commerce.",
+      "questions": [
+        {
+          "question": "Which symbol commonly represents the US dollar?",
+          "options": ["£", "$", "¥", "€"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol represents the euro?",
+          "options": ["€", "₹", "₩", "¢"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is used for the British pound sterling?",
+          "options": ["¥", "£", "₽", "₺"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol represents the Indian rupee?",
+          "options": ["₩", "₹", "€", "¢"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used for the Japanese yen?",
+          "options": ["¥", "£", "₫", "₹"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a trademark?",
+          "options": ["©", "®", "™", "§"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbol indicates copyright?",
+          "options": ["©", "™", "¶", "°"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol indicates a registered trademark?",
+          "options": ["™", "®", "©", "℠"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to indicate degrees of temperature?",
+          "options": ["′", "°", "″", "#"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to indicate cents?",
+          "options": ["¢", "€", "£", "¥"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-005",
+      "title": "Brackets, Braces and Parentheses",
+      "description": "Learn to identify grouping symbols used in writing, mathematics and programming.",
+      "questions": [
+        {
+          "question": "Which symbols are parentheses?",
+          "options": ["[ ]", "{ }", "( )", "< >"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbols are square brackets?",
+          "options": ["( )", "[ ]", "{ }", "/ /"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbols are curly braces?",
+          "options": ["{ }", "[ ]", "( )", "< >"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbols are commonly called angle brackets?",
+          "options": ["( )", "{ }", "< >", "[ ]"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which bracket type is commonly used to group expressions in arithmetic?",
+          "options": ["Parentheses", "Apostrophes", "Commas", "Slashes"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which bracket type is commonly used to enclose a list in JSON?",
+          "options": ["Curly braces", "Square brackets", "Parentheses", "Angle brackets"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbols commonly enclose an object in JSON?",
+          "options": ["( )", "[ ]", "{ }", "< >"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbols are commonly used to enclose HTML tags?",
+          "options": ["< >", "{ }", "( )", "[ ]"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the closing parenthesis in the expression (5 + 3)?",
+          "options": ["(", ")", "[", "]"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the opening square bracket in the expression [1, 2, 3]?",
+          "options": ["[", "]", "{", "}"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-006",
+      "title": "Keyboard Shortcut Symbols",
+      "description": "Understand the keys and symbols commonly referenced in keyboard shortcuts.",
+      "questions": [
+        {
+          "question": "Which key is usually abbreviated as Ctrl on Windows keyboards?",
+          "options": ["Control", "Command", "Alternate", "Escape"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which key is commonly abbreviated as Alt?",
+          "options": ["Alternate", "Alternative", "Altimeter", "Alert"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which key is represented by the abbreviation Esc?",
+          "options": ["Enter", "Escape", "End", "Erase"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which key is commonly represented by the symbol ⇧ on some keyboards?",
+          "options": ["Tab", "Shift", "Enter", "Backspace"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which key is represented by the symbol ⌘ on Apple keyboards?",
+          "options": ["Option", "Control", "Command", "Shift"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which key is commonly represented by ↵?",
+          "options": ["Enter or Return", "Escape", "Caps Lock", "Delete"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does Ctrl+C commonly do in Windows applications?",
+          "options": ["Cut selected content", "Copy selected content", "Close the application", "Open settings"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What does Ctrl+V commonly do in Windows applications?",
+          "options": ["Paste copied content", "Copy selected content", "Undo an action", "Save a file"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What does Ctrl+Z commonly do?",
+          "options": ["Redo", "Undo", "Zoom in", "Print"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which key is commonly used with letters to type the alternate symbol shown on some keys?",
+          "options": ["Shift", "Esc", "Tab", "Pause"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-007",
+      "title": "Programming Symbols",
+      "description": "Explore symbols commonly used in programming languages and code.",
+      "questions": [
+        {
+          "question": "Which symbol commonly ends a statement in languages such as Java and C?",
+          "options": [":", ";", ",", "."],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used for assignment in languages such as JavaScript?",
+          "options": ["=", "===", "!=", "=>"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol pair represents strict equality in JavaScript?",
+          "options": ["==", "===", "=", "!==="],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol commonly starts a single-line comment in JavaScript?",
+          "options": ["##", "//", "<!--", "**"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to access a property of an object in JavaScript?",
+          "options": [".", "#", "%", "~"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is used for logical AND in JavaScript?",
+          "options": ["||", "&&", "!!", "%%"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is used for logical OR in JavaScript?",
+          "options": ["&&", "||", "**", "//"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is used for the arrow function operator in JavaScript?",
+          "options": ["->", "=>", "<-", "::"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to start a variable name with a special prefix in PHP?",
+          "options": ["@", "$", "#", "&"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used as the wildcard in many regular expressions to match any single character except a line terminator by default?",
+          "options": [".", "*", "^", "$"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-008",
+      "title": "Special Characters and Their Uses",
+      "description": "Identify less common characters used in documents, text and digital communication.",
+      "questions": [
+        {
+          "question": "Which symbol is commonly used to indicate a paragraph mark in editing software?",
+          "options": ["¶", "§", "†", "‡"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is known as the section sign?",
+          "options": ["¶", "§", "©", "®"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a bullet point?",
+          "options": ["•", "÷", "¬", "±"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a footnote or reference mark?",
+          "options": ["†", "@", "#", "="],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly called a tilde?",
+          "options": ["^", "~", "`", "|"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly called a backtick or grave accent?",
+          "options": ["'", "\"", "`", "~"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbol is commonly called a vertical bar or pipe?",
+          "options": ["\\", "/", "|", "_"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which symbol is commonly used to indicate plus or minus?",
+          "options": ["±", "≠", "÷", "≈"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a check mark?",
+          "options": ["×", "✓", "÷", "≈"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to represent a filled star?",
+          "options": ["★", "§", "¶", "¢"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-009",
+      "title": "Keyboard Keys and Symbol Locations",
+      "description": "Test your understanding of common keyboard layouts and symbol entry.",
+      "questions": [
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+1?",
+          "options": ["@", "!", "#", "$"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+2?",
+          "options": ["@", "#", "$", "%"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+3?",
+          "options": ["!", "#", "&", "*"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+4?",
+          "options": ["$", "%", "^", "&"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+5?",
+          "options": ["$", "%", "^", "*"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+6?",
+          "options": ["&", "*", "^", "("],
+          "correctAnswer": 2
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+7?",
+          "options": ["&", "*", "(", ")"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+8?",
+          "options": ["&", "*", "(", ")"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+9?",
+          "options": ["(", ")", "[", "]"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "On a typical US QWERTY keyboard, which symbol is commonly typed with Shift+0?",
+          "options": ["(", ")", "{", "}"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "keyboard-symbols-010",
+      "title": "Advanced Symbol Recognition",
+      "description": "Challenge yourself with advanced symbols used in typography, mathematics and computing.",
+      "questions": [
+        {
+          "question": "Which symbol is commonly used to represent the logical NOT operator in many programming languages?",
+          "options": ["!", "&", "|", "+"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol represents the Unicode character for a nonbreaking space visually in some editors?",
+          "options": ["⍽", "¶", "§", "∞"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a degree of arc or temperature?",
+          "options": ["′", "°", "″", "∠"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol commonly represents an integral in calculus?",
+          "options": ["∑", "∫", "√", "∂"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol is commonly used to represent a partial derivative?",
+          "options": ["∂", "∆", "∞", "∏"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol is commonly used to indicate a change or difference in mathematics?",
+          "options": ["∆", "¶", "©", "™"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which symbol commonly represents the empty set in mathematics?",
+          "options": ["∈", "∅", "∩", "∪"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol means that an element belongs to a set?",
+          "options": ["∉", "∈", "⊆", "∅"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol represents the union of sets?",
+          "options": ["∩", "∪", "∈", "∅"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which symbol represents the intersection of sets?",
+          "options": ["∪", "∩", "∅", "≈"],
+          "correctAnswer": 1
+        }
+      ]
+    }
+  ]
+}
+
+
