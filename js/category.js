@@ -109,6 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "../data/government-jobs.json"
     ];
 
+
 } else if (
     categoryName.toLowerCase() ===
     "everyday knowledge & concepts"
@@ -118,7 +119,17 @@ document.addEventListener("DOMContentLoaded", function () {
         "../data/everyday-knowledge-concepts.json"
     ];
 
+} else if (
+    categoryName.toLowerCase() ===
+    "keyboard symbols & special characters"
+) {
+
+    quizFiles = [
+        "../data/keyboard-symbols-special-characters.json"
+    ];
+
 } else {
+
 
         quizFiles = [
             "../data/quizzes.json"
