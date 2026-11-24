@@ -331,7 +331,8 @@ async function loadQuiz() {
     "../data/general-knowledge.json",
     "../data/weekly-quizzes.json",
     "../data/government-jobs.json",
-   "../data/everyday-knowledge-concepts.json"
+   "../data/everyday-knowledge-concepts.json",
+            "../data/everyday-knowledge-concepts.json"
 ];
 
         async function loadQuizFile(file) {
